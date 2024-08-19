@@ -28,7 +28,8 @@ Department of Electrical Engineering and Computer Sciences Computer Science Divi
 2. 
 <br/>
 <br/>
-<br/> 
+<br/>
+
 **B.** When Rhoshandiatellyneshiaunneveshenk orders at cafes she often tells baristas that her name is “R” rather than“Rhoshandiatellyneshiaunneveshenk”. This is an example of:
 
 - A. Object-Orientated Programming  
