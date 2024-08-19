@@ -4,7 +4,7 @@ Department of Electrical Engineering and Computer Sciences Computer Science Divi
 
 ## **CS10 Summer 2024** 
 
-![The Beauty and Joy of Computing Logo](/assets/bjc-logo.png)
+![The Beauty and Joy of Computing Logo](/assets/images/bjc-logo.png)
 
 # Discussion-1: Welcome to Snap!
 
