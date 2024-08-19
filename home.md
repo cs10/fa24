@@ -1,39 +1,47 @@
 ---
-layout: page
-title: Welcome!
-nav_exclude: true
+layout: home
+title: Home
+nav_exclude: false
+nav_order: 1
 permalink: /
 seo:
   type: Course
-  name: Berkeley Class Site
+  name: CS10 - The Beauty and Joy of Computing
 ---
 
-# UC Berkeley Class Site Template
+# **CS 10: The Beauty and Joy of Computing**
+{: .mb-2 }
+UC Berkeley, Fall 2023
+{: .mb-2 .fs-6 .text-grey-dk-100 }
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+{{ site.description }}
+{: .mb-2 .fs-5 }
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+**Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a><br/>
+**Instructor's OH:** Friday 1-2PM in Soda-777<br/>
+**Lectures:** Monday, Wednesday 1-2PM in Evans-10<br/>
+**OH Queue:** <a href="https://oh.cs10.org/"> oh.cs10.org</a>
+{: .fs-4 }
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+{% include youtube.html id='oG1OItm4JyU' %}
 
-## Getting Started
+<!-- <br/>
 
-Getting started with Just the Class is simple.
+<div class="d-flex">  
+  <div class="flex-justify-start" style="flex-grow: 1">
+  {% if site.announcements %}
+    {{ site.announcements.last }}
+  {% endif %}
+  </div>
+  <div class="float-right">
+    <img src="/sp22/assets/images/alonzo.png" alt="Alonzo, the CS10 Mascot" />
+  </div>
+</div>
+<div style="flex-grow: 0">
+  <a href="{{ site.baseurl }}/announcements" class="btn btn-outline">Previous Announcemnts</a>
+</div> -->
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
+## CS10 Calendar
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
-
-### Local development environment
-
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+{% include_relative calendar.md %}
