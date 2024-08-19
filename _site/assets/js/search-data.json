@@ -1,0 +1,368 @@
+{"0": {
+    "doc": "Resources",
+    "title": "Resources",
+    "content": "Below, you can find various resources to help with your understanding of the material throughout the summer. ",
+    "url": "http://localhost:4000/sp23/6resources/",
+    "relUrl": "/6resources/"
+  },"1": {
+    "doc": "Resources",
+    "title": "Lab Resources",
+    "content": ". | Useful blocks in Snap! | Snap tips and tricks | Debugging Snap! | . ",
+    "url": "http://localhost:4000/sp23/6resources/#lab-resources",
+    "relUrl": "/6resources/#lab-resources"
+  },"2": {
+    "doc": "Resources",
+    "title": "Content Guides and Videos",
+    "content": ". | Yolanda’s For-Loop Guide | Yolanda’s Guide to Commenting Your Code | Yolanda’s Debugging Walkthrough | Dani’s Scoping Guide | Murtz’s Guide to Solving Recursion Problems | Murtz’s Overview of Mutability | . ",
+    "url": "http://localhost:4000/sp23/6resources/#content-guides-and-videos",
+    "relUrl": "/6resources/#content-guides-and-videos"
+  },"3": {
+    "doc": "Resources",
+    "title": "Python Resources",
+    "content": ". | Official Python Documentation | CS 61A’s Terminal Guide | Jake’s Python Debugging Guide | . ",
+    "url": "http://localhost:4000/sp23/6resources/#python-resources",
+    "relUrl": "/6resources/#python-resources"
+  },"4": {
+    "doc": "Resources",
+    "title": "Project Walkthroughs and Hint Videos",
+    "content": ". | Project 1: Matching Slots Getting Started Video | . ",
+    "url": "http://localhost:4000/sp23/6resources/#project-walkthroughs-and-hint-videos",
+    "relUrl": "/6resources/#project-walkthroughs-and-hint-videos"
+  },"5": {
+    "doc": "Resources",
+    "title": "Past Exams",
+    "content": "| Year | Quest | Midterm (Without-Snap!) | Midterm (With-Snap!) | Final (Paper) | Final (In-Lab) | . | Summer 2022 | - | Exam Solutions | Exam + Solutions | Exam Solutions | Exam Skeleton Code + Solutions | . | Spring 2020 | Exam Solutions | - | - | Exam Solutions | Exam Solutions | . | Fall 2019 | Exam Solutions | Exam Solutions | Exam Solutions | Exam Solutions | - | . | Summer 2019 | Exam Solutions | Exam Solutions | Exam Solutions | - | - | . | Spring 2019 | Exam Solutions | Exam Solutions | Exam Solutions | Exam Solutions | Exam Solutions | . | Fall 2018 | Exam Solutions | Exam Part 1 Solutions Part 1 Exam Part 2 Solutions Part 2 | Exam Solutions | Exam Solutions | Exam Solutions | . | Summer 2018 | - | Exam Solutions | Exam Solutions | Exam Solutions | Exam Solutions | . | Spring 2018 | Exam Solutions | Exam Part 1 Solutions Part 1 Exam Part 2 Solutions Part 2 | Exam Solutions | Exam Solutions | Exam Solutions | . | Summer 2017 | - | Exam Solutions | - | Exam Solutions | - | . ",
+    "url": "http://localhost:4000/sp23/6resources/#past-exams",
+    "relUrl": "/6resources/#past-exams"
+  },"6": {
+    "doc": "Resources",
+    "title": "Other",
+    "content": "EECS Incident Reporting Form . ",
+    "url": "http://localhost:4000/sp23/6resources/#other",
+    "relUrl": "/6resources/#other"
+  },"7": {
+    "doc": "Announcements",
+    "title": "Announcements",
+    "content": "Here, you can find all weekly announcements for the Fall. ",
+    "url": "http://localhost:4000/sp23/announcements/",
+    "relUrl": "/announcements/"
+  },"8": {
+    "doc": "Announcements",
+    "title": "Week 5 Announcements",
+    "content": "Feb 15 &middot; 1 min read ",
+    "url": "http://localhost:4000/sp23/announcements/",
+    "relUrl": "/announcements/"
+  },"9": {
+    "doc": "Announcements",
+    "title": "General Reminders",
+    "content": ". | Weekly Blast 5 has been posted on Ed. Note that weekly blasts are required readings in CS10. | QUEST scores have been released. If you missed the QUEST, you should have received further instruction from CS10 Admin. If you didn’t, please email cs10@ ASAP. | The QUEST Retake is this Saturday, February 18, and will only be open for 1 day. | Project 2 - Spelling Bee, is due this week on Friday, February 17. The last Project Party for this project will be Thursday, February 16, from 8-10 PM at SDH 200 &amp; Discord. | Please refer to the extensions and late submissions policy on the Syllabus for updated rules and regulations on how to request extensions and penalties for late submissoins.cd Docum | . ",
+    "url": "http://localhost:4000/sp23/announcements/#general-reminders",
+    "relUrl": "/announcements/#general-reminders"
+  },"10": {
+    "doc": "Announcements",
+    "title": "Week 4 Announcements",
+    "content": "Feb 8 &middot; 1 min read ",
+    "url": "http://localhost:4000/sp23/announcements/",
+    "relUrl": "/announcements/"
+  },"11": {
+    "doc": "Announcements",
+    "title": "General Reminders",
+    "content": ". | Weekly Blast 4 has been posted on Ed. Note that weekly blasts are required readings in CS10. | The QUEST is this weekend from Sat, 2/11 at 12:01 AM to Sun, 2/12 at 11:59 PM (~48 hr window). Please read the QUEST Logistics Post for more information. | Please refer to the extensions and late submissions policy on the Syllabus for updated rules and regulations on how to request extensions and penalties for late submissoins. | Project 2 - Spelling Bee, has been released and is due Friday, February 17. | Please email cs10@ if you are a late add (added the course after Week 1) and/or if you don’t have access to Edstem or Gradescope. | The final add/drop deadline is today, February 8th at 11:59 PM PST. Feel free to talk to anyone on staff if you need any guidance regarding such a decision. | . ",
+    "url": "http://localhost:4000/sp23/announcements/#general-reminders",
+    "relUrl": "/announcements/#general-reminders"
+  },"12": {
+    "doc": "Announcements",
+    "title": "Week 3 Announcements",
+    "content": "Feb 1 &middot; 1 min read ",
+    "url": "http://localhost:4000/sp23/announcements/",
+    "relUrl": "/announcements/"
+  },"13": {
+    "doc": "Announcements",
+    "title": "General Reminders",
+    "content": ". | Weekly Blast 3 has been posted on Ed. Note that weekly blasts are required readings in CS10. | Please refer to the extensions and late submissions policy on the Syllabus for updated rules and regulations on how to request extensions and penalties for late submissoins. | The deadline for Project 1 : Wordle™-lite has been extended to this Friday, 02/03, at 11:59 PM PST. | Please email cs10@ if you are a late add (added the course after Week 1) and/or if you don’t have access to Edstem or Gradescope. | The final add/drop deadline is Wednesday, February 8th at 11:59 PM PST. Feel free to talk to anyone on staff if you need any guidance regarding such a decision. | . ",
+    "url": "http://localhost:4000/sp23/announcements/#general-reminders",
+    "relUrl": "/announcements/#general-reminders"
+  },"14": {
+    "doc": "Announcements",
+    "title": "Week 2 Announcements",
+    "content": "Jan 23 &middot; 1 min read ",
+    "url": "http://localhost:4000/sp23/announcements/",
+    "relUrl": "/announcements/"
+  },"15": {
+    "doc": "Announcements",
+    "title": "General Reminders",
+    "content": ". | Weekly Blast 2 has been posted on Ed. Note that weekly blasts are required readings in CS10. | Project 1 : Wordle™-lite has been released! You can reference Week 1 of the course calendar below to find the spec. | We have started check offs for all labs as of Week 2. Please use the partner threads on Ed or talk to your Lab TA if you’re struggling to find a partner. | Please email cs10@ if you are a late add (added the course after Week 1) and/or if you don’t have access to Edstem or Gradescope. | The add/drop deadline is Wednesday, February 8th. All adds/drops after this Friday, 1/27 will result in a add/drop fee, so do keep this in mind and talk to anyone on staff if you need any guidance regarding such a decision. | . ",
+    "url": "http://localhost:4000/sp23/announcements/#general-reminders",
+    "relUrl": "/announcements/#general-reminders"
+  },"16": {
+    "doc": "Announcements",
+    "title": "Week 1 Announcements",
+    "content": "Jan 17 &middot; 0 min read ",
+    "url": "http://localhost:4000/sp23/announcements/",
+    "relUrl": "/announcements/"
+  },"17": {
+    "doc": "Announcements",
+    "title": "Course Material Accesses &amp; Weekly Blasts",
+    "content": ". | Weekly-Blast 0 has been posted on Ed- it contains time-sensitive information about lab and discussion section signups. Please read it ASAP, and note that weekly blasts are required reading in CS10. | If you’ve recently added the course and don’t have access to Edstem or Gradescope, please wait 24 hours, and then email cs10@ | . ",
+    "url": "http://localhost:4000/sp23/announcements/#course-material-accesses--weekly-blasts",
+    "relUrl": "/announcements/#course-material-accesses--weekly-blasts"
+  },"18": {
+    "doc": "Announcements",
+    "title": "Week 0 Announcements",
+    "content": "Jan 13 &middot; 0 min read ",
+    "url": "http://localhost:4000/sp23/announcements/",
+    "relUrl": "/announcements/"
+  },"19": {
+    "doc": "Announcements",
+    "title": "Website is Still Under Construction",
+    "content": ". | To those of you who stumbled upon this website…welcome! However, we’re still under construction, so the information on here is subject to change. Come back next week for updates. | . ",
+    "url": "http://localhost:4000/sp23/announcements/#website-is-still-under-construction",
+    "relUrl": "/announcements/#website-is-still-under-construction"
+  },"20": {
+    "doc": "CS10 Homework Assignment",
+    "title": "CS10 Homework Assignment",
+    "content": "Open In New Tab . There should be an assignment here. Oops! ",
+    "url": "http://localhost:4000/sp23/assignment/",
+    "relUrl": "/assignment/"
+  },"21": {
+    "doc": "Discussion",
+    "title": "Discussion",
+    "content": "This page will be updated with discussion worksheets and solutions throughout the semester. Recordings, when available, will also be posted here. | Discussion 1 Snap! Basics | worksheet | solutions | recording | . | Discussion 2 Number Rep &amp; Control | worksheet | solutions | notes/slides | recording | . | Discussion 3 Domain/Range, Scoping, Lists &amp; HOFs | worksheet | solutions | recording | . | Discussion 4 Algorithms | worksheet | solutions | recording | . | Discussion 5 Algorithmic Complexity | worksheet | . ",
+    "url": "http://localhost:4000/sp23/discussion/",
+    "relUrl": "/discussion/"
+  },"22": {
+    "doc": "Home",
+    "title": "CS 10: The Beauty and Joy of Computing",
+    "content": "UC Berkeley, Spring 2023 . A gentle but thorough introduction to computer science. Instructor: Teaching Professor Dan Garcia . ",
+    "url": "http://localhost:4000/sp23/#cs-10-the-beauty-and-joy-of-computing",
+    "relUrl": "/#cs-10-the-beauty-and-joy-of-computing"
+  },"23": {
+    "doc": "Home",
+    "title": "Week 5 Announcements",
+    "content": "Feb 15 &middot; 1 min read ",
+    "url": "http://localhost:4000/sp23/",
+    "relUrl": "/"
+  },"24": {
+    "doc": "Home",
+    "title": "General Reminders",
+    "content": ". | Weekly Blast 5 has been posted on Ed. Note that weekly blasts are required readings in CS10. | QUEST scores have been released. If you missed the QUEST, you should have received further instruction from CS10 Admin. If you didn’t, please email cs10@ ASAP. | The QUEST Retake is this Saturday, February 18, and will only be open for 1 day. | Project 2 - Spelling Bee, is due this week on Friday, February 17. The last Project Party for this project will be Thursday, February 16, from 8-10 PM at SDH 200 &amp; Discord. | Please refer to the extensions and late submissions policy on the Syllabus for updated rules and regulations on how to request extensions and penalties for late submissoins.cd Docum | . Previous Announcemnts ",
+    "url": "http://localhost:4000/sp23/#general-reminders",
+    "relUrl": "/#general-reminders"
+  },"25": {
+    "doc": "Home",
+    "title": "CS10 Calendar",
+    "content": "| Week | Date | Lecture | Readings | Lab | Discussion | Assignment | . | 1 | Mon 1/16 | HOLIDAY | | | | | . | Tue 1/17 | | | NO LAB | | | . | Wed 1/18 | 1. Welcome to CS10 &amp; Abstraction (slides) | | | | Section Signups Due | . | Thur 1/19 | | | 1. Welcome to Snap! (No Checkoff) | | | . | Fri 1/20 | | | | 1. Snap! Basics | PROJ 1 RELEASED (due 2/3) | . | 2 | Mon 1/23 | 2. Functions (Slides) | Week 2 Readings | | | RQ 1 (due 1/27) | . | Tue 1/24 | | | 2. Build Your Own Blocks (due 1/26) | | | . | Wed 1/25 | 3. Numbers and Abstraction (Slides) | | | | | . | Thur 1/26 | | | 3. Conditionals, Reporters &amp; Abstraction (due 1/31) | | | . | Fri 1/27 | | | | 2. Number Rep &amp; Control | RQ 1 Due | . | 3 | Mon 1/30 | 4. Variables, Scope, Lists &amp; HOFs (Slides) | Week 3 Readings | | | PROJ 1 PARTY RQ 2(due 2/03) | . | Tue 1/31 | | | 4. Lists &amp; HOFs (due 2/02) | | PROJ 1 Due | . | Wed 2/01 | 5. Algorithms (Slides) | | | | PROJ 2: Spelling Bee RELEASED (due 2/17) | . | Thur 2/02 | | | 5. Algorithms (due 2/07) | | | . | Fri 2/03 | | | | 3. Domain/Range, Scoping, Lists &amp; HOFs | RQ 2 Due | . | 4 | Mon 2/06 | 6. Algorithmic Complexity (Slides) | Week 4 Readings | | | QUEST REVIEW RQ 3(due 2/10) | . | Tue 2/07 | | | 6. Algorithmic Complexity (due 2/14) | | | . | Wed 2/08 | 7. Social Implications I (Slides) | | | | | . | Thur 2/09 | | | PROJ 2 Work Session/QUEST Review | | | . | Fri 2/10 | | | | 4. Algorithms | QUEST (due 2/12) | . | 5 | Mon 2/13 | 8. Social Implications II (slides) | | | | PROJ 2 Party | . | Tue 2/14 | | | 7. Boards (due 2/16) | | | . | Wed 2/15 | 9. Testing + 2048 (slides) | | | | | . | Thur 2/16 | | | 8. Testing + 2048 (due 2/21) | | | . | Fri 2/17 | | | | 5. Algorithmic Complexity | PROJ 3: 2048 (due 3/02) PROJ 2 Due | . | 6 | Mon 2/20 | Holiday | | | | | . | Tue 2/21 | | Week 6 Readings | 9. Trees &amp; Fractals (due 2/28) | | RQ 4(due 2/24) | . | Wed 2/22 | 10. Recursion I (slides) (code) | | | | | . | Thur 2/23 | | | PROJ Work Session | | | . | Fri 2/24 | | | | 6. Recursion I | RQ 4 Due | . | 7 | Mon 2/27 | 11. Recursion II (Fractals) (slides) (code) | Week 7 Readings | | | PROJ 3 PARTY RQ 5(due 3/03) | . | Tue 2/28 | | | 10. Recursive Reporters (due 3/07) | | | . | Wed 3/01 | 12. Recursion III (Count Change) (slides) (code) (movies) | | | | | . | Thur 3/02 | | | PROJ Work Session | | PROJ 3 Due | . | Fri 3/03 | | | | 7. Recursion II | PROJ 4: Explore Post (post: due 3/20) (comments: due 3/24) RQ 5 Due | . | 8 | Mon 3/06 | 13. Procedures as Data (HOFs) (slides) (code) | Week 8 Readings | | | MIDTERM Review RQ 6(due 3/10) | . | Tue 3/07 | | | 11. Functions as Data (HOFs) (due 3/16) | | | . | Wed 3/08 | 14. Programming Paradigms (slides) (code) | | | | | . | Thur 3/09 | | | Midterm Work Session | | | . | Fri 3/10 | | | | 8. Python Basics | MIDTERM (w/o Snap!) (due 3/13) RQ 6 Due | . | 9 | Mon 3/13 | 15. Python I | | | | | . | Tue 3/14 | | | 12. Welcome to Python (due 3/21) | | | . | Wed 3/15 | Guest Lecture | | | | | . | Thur 3/16 | | | MIDTERM (w/ Snap!) (due 3/19) | | | . | Fri 3/17 | | | | NO CLASS (midterm) | | . | 10 | Mon 3/20 | 16. Python II | Week 10 Readings | | | PROJ 4 (post) DUE PROJ 5: Pyturis(due 4/05) RQ 7(due 3/24) | . | Tue 3/21 | | | 13. Python Data Structures (due 3/23) | | | . | Wed 3/22 | Guest Lecture | | | | | . | Thur 3/23 | | | 14. OOP in Python (due 4/04) | | | . | Fri 3/24 | | | | 10. Python Data Structures | PROJ 4 (comments) Due Final Project Proposals (due 4/03) RQ 7 Due | . | 11 | Mon 3/27 | Spring Recess | | | | | . | Tue 3/28 | | | Spring Recess | | | . | Wed 3/29 | Spring Recess | | | | | . | Thur 3/30 | | | Spring Recess | | | . | Fri 3/31 | | | | Spring Recess | | . | 12 | Mon 4/03 | 17. Python III (OOP) | Week 12 Readings | | | PROJ 5 Party FINAL PROJ Proposals Due RQ 8(due 4/07) | . | Tue 4/04 | | | 15. Text Processing in Python (due 4/13) | | FINAL PROJ(due 4/28) | . | Wed 4/05 | 18. Python IV (HOFs) | | | | PROJ 5 DUE | . | Thur 4/06 | | | PROPOSAL REVIEWS | | | . | Fri 4/07 | | | | 12. OOP | | . | 13 | Mon 4/10 | 19. Social Implications III | Week 13 Readings | | | RQ 9(due 4/14) | . | Tue 4/11 | | | PROPOSAL REVIEWS | | | . | Wed 4/12 | 20. Python V (Tree Recursion, Game Theory) | | | | | . | Thur 4/13 | | | 16. Intro to Data Science (due 4/18) | | | . | Fri 4/14 | | | | 13. Python HOFs, Lambdas, Tree Recursion | RQ 9 Due | . | 14 | Mon 4/17 | 21. Concurrency | Week 14 Readings | | | Final PROJ Party RQ 10(due 4/21) | . | Tue 4/18 | | | 17. Concurrency (due 4/20) | | | . | Wed 4/19 | 22. HCI | | | | | . | Thur 4/20 | | | 18. Snap! &amp; Python Libraries (due 4/27) | | | . | Fri 4/21 | | | | 14. Social Implications Studies Using Big Data | RQ 10 Due | . | 15 | Mon 4/24 | 23. Alumni Panel | Week 15 Readings | | | FINAL Proj Party POSTTERM Review RQ 11 | . | Tue 4/25 | | | PROJ Work Session | | | . | Wed 4/26 | 24. Conclusion and Farewell | | | | | . | Thur 4/27 | | | PROJ Work Session/Postterm Review | | | . | Fri 4/28 | | | | 15. Postterm Review &amp; Farewell | POSTTERM(due 5/02) Final PROJ Due RQ 11 Due | . | 16 | Mon 5/01 | RRR | | | | | . | Tue 5/02 | | | RRR | | | . | Wed 5/03 | RRR | | | | | . | Thur 5/04 | | | RRR | | | . | Fri 5/05 | | | | RRR | | . | 17 | Mon 5/08 | NO CLASS | | | | | . | Tue 5/09 | | | NO CLASS | | | . | Wed 5/10 | NO CLASS | | | | | . | Thur 5/11 | | | NO CLASS | | | . | Fri 5/12 | | | | NO CLASS | | . ",
+    "url": "http://localhost:4000/sp23/#cs10-calendar",
+    "relUrl": "/#cs10-calendar"
+  },"26": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "http://localhost:4000/sp23/",
+    "relUrl": "/"
+  },"27": {
+    "doc": "Calendar (JS)",
+    "title": "Calendar (JS)",
+    "content": "| Week | Date | Lecture | Readings | Lab | Discussion | Assignment | . | ",
+    "url": "http://localhost:4000/sp23/cal",
+    "relUrl": "/cal"
+  },"28": {
+    "doc": "Lab Check-Off Questions",
+    "title": "Lab Check-Offs",
+    "content": "On this page, you will find a list of check-off questions for each lab. Lab 1 Welcome to Snap! View Lab 1 . | No checkoff needed for Lab 1! . | . Lab 2 Build Your Own Blocks View Lab 2 . | Show your Field of Flowers. | Show your random-walk sprite. | Show your draw square-leaved flower...` block. | Why should you Build Your Own Blocks? Give a reason that someone may create a custom block. | What are some different ways to achieve repetition? Name at least 2. | . Lab 3 Conditionals, Reporters &amp; Abstraction View Lab 3 . | What is a Boolean? Explain why we use them, and give examples of functions that report a Boolean value. | What does the mystery reporter (at the bottom of the “Reporter Blocks” page) report when run with the inputs hello and 5? . | Name a few of the input types. Why is it important that we specify input types? . | Explain the difference between a command and a reporter block. | How are global variables different from script variables? . | Show us your traffic signal and letter grade blocks. | Show us the is _ between _ and _ ? block. | Show and explain your sum of two smallest block. | . Lab 4 Lists and HOFs View Lab 4 . | What is a list? Why would we use a list of 10 elements instead of just making 10 variables? . | What do map, keep, and combine each do? . | What is the difference between the for each (item) loop and the for (i) loop we have used in previous labs? . | Show us your acronym block. | Show us your expand block. | . Lab 5 Algorithms View Lab 5 . | What is an algorithm? Please give an example both in real life and from class. | Are algorithms which are (on average) faster always “better”? Why or why not? . | What might some “trade-offs” to different computer science algorithms be? . | How can abstraction and algorithms relate in computer science? . | Please show both your findNumberInUnsortedList and findNumberInSortedList functions and describe the difference in the algorithms used. | . Lab 6 Algorithmic Complexity View Lab 6 . | Of all the runtimes you have discovered thus far, can you rank them from “fastest” to “slowest”? Why is runtime important for the programs that we create? . | Name the logarithmic time algorithm that we implemented in Lab 5. Explain why this algorithm runs in logarithmic time. | What is the difference between “Worst-Case” and “Best Case” Runtimes when running the Are the numbers of (LIST) distinct block? Why? . | What happened with the time it took for your computer to counter up the numbers between 1 and x when you started doubling the numbers? Tripling the numbers? What do you think would happen with the time I multiplied your top number by 8? . | Please show me your Non-Gauss and Gauss Add all numbers in. Which was faster? Why? . | . Lab 7 Boards View Lab 7 . | Why did we have variables like Size, Start, and Display Width when designing our board? What do they do? . | Explain an advantage of using an underlying board structure when designing a game. | Show your working board game by moving the sprite around the board and clicking to place bugs. | . Lab 8 Testing + 2048 View Lab 8 . | How does the test block work? What is its domain and range? . | How will writing tests help you for the 2048 assignment? . | How do merge up and merge column work? What is the domain/range of each block? . | What is the domain and range of the update display block? . | Show us the output of your test block on the merge column. Explain why this output makes sense. | . ",
+    "url": "http://localhost:4000/sp23/lab-checkoffs/#lab-check-offs",
+    "relUrl": "/lab-checkoffs/#lab-check-offs"
+  },"29": {
+    "doc": "Lab Check-Off Questions",
+    "title": "Lab Check-Off Questions",
+    "content": " ",
+    "url": "http://localhost:4000/sp23/lab-checkoffs/",
+    "relUrl": "/lab-checkoffs/"
+  },"30": {
+    "doc": "Assigned Readings",
+    "title": "Readings",
+    "content": "This page will be updated with links to readings throughout the semester. Week 2 Reading (for RQ 1) . | Required: Learning to Code | Reading Quiz Question: Why is learning how to code important? Are you convinced about the importance of computer science in the world today? Include at least one point made in the video, ‘Code Stars’. (Expected length: 2 - 4 sentences). | . Week 3 Reading (for RQ 2) . | Required: Introduction to Abstraction | Reading Quiz Question: Why is a car a good example of abstraction? Using this example, give one reason why abstraction is helpful and then also give one reason why abstraction can do more harm than good. Finally, what is an example of abstraction in your daily life? (Expected length: 2 - 4 sentences). | . Week 4 Reading (for RQ 3) . | Required: . | What is an Algorithm? | How Algorithms Shape Our World | Algorithms are Great and All, But They Can Also Ruin Lives | . | Optional: . | Hacker News: Comments on “Algorithms are Great and All, But They Can Also Ruin Lives” | The 10 Algorithms That Dominate Our World | Reading Quiz Question: Talk about an algorithm mentioned in one of the readings. Why was it implemented/what problem was it trying to solve? What consequences came about as a result? Do you think the benefits of algorithms outweigh their potential consequences? Why or why not? | . | . ",
+    "url": "http://localhost:4000/sp23/readings/#readings",
+    "relUrl": "/readings/#readings"
+  },"31": {
+    "doc": "Assigned Readings",
+    "title": "Assigned Readings",
+    "content": " ",
+    "url": "http://localhost:4000/sp23/readings/",
+    "relUrl": "/readings/"
+  },"32": {
+    "doc": "Daily Schedule",
+    "title": "Daily Schedule (Updated Each Week)",
+    "content": "If the calendar below appears blank, make sure you’re signed in to your Berkeley email! . As an alternative, use (this link) . | 7:00 AM | 7:30 AM | 8:00 AM | 8:30 AM | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | 6:00 PM | 6:30 PM | 7:00 PM | 7:30 PM | 8:00 PM | 8:30 PM | 9:00 PM | 9:30 PM | 10:00 PM | . | ",
+    "url": "http://localhost:4000/sp23/schedule/#daily-schedule-updated-each-week",
+    "relUrl": "/schedule/#daily-schedule-updated-each-week"
+  },"33": {
+    "doc": "Daily Schedule",
+    "title": "Monday",
+    "content": ". | Lab Ben 8:00 AM–10:00 AM Sutardja 200 | Lab Brendan 9:00 AM–11:00 AM Discord | Lecture 10:00 AM–11:00 AM Zoom | Lab Vaibhav 12:00 PM–2:00 PM Sutardja 200 | Lab Nick 2:00 PM–4:00 PM Sutardja 200 | Lab Sarah and Remote Lab Yishu 12:00 PM–2:00 PM Sarah's in Sutardja 200 and Yishu's on Discord | . | ",
+    "url": "http://localhost:4000/sp23/schedule/",
+    "relUrl": "/schedule/"
+  },"34": {
+    "doc": "Daily Schedule",
+    "title": "Tuesday",
+    "content": ". | Lab Jake 8:00 AM–10:00 AM Sutardja 200 | Lab Kellyann 10:00 AM–12:00 PM Sutardja 200 | Lab Arrushi 12:00 PM–2:00 PM Sutardja 200 | . | ",
+    "url": "http://localhost:4000/sp23/schedule/",
+    "relUrl": "/schedule/"
+  },"35": {
+    "doc": "Daily Schedule",
+    "title": "Wednesday",
+    "content": ". | Lecture 10:00 AM–11:00 AM Zoom | Lab Ben 8:00 AM–10:00 AM Sutardja 200 | Lab Brendan 9:00 AM–11:00 AM Discord | Lab Ze 10:00 AM–12:00 PM Sutardja 200 | Lab Vaibhav 12:00 PM–2:00 PM Sutardja 200 | Lab Nick 2:00 PM–4:00 PM Sutardja 200 | Lab Sarah and Remote Lab Yishu 12:00 PM–2:00 PM Sarah's in Sutardja 200 and Yishu's on Discord | . | ",
+    "url": "http://localhost:4000/sp23/schedule/",
+    "relUrl": "/schedule/"
+  },"36": {
+    "doc": "Daily Schedule",
+    "title": "Thursday",
+    "content": ". | Lab Jake 8:00 AM–10:00 AM Sutardja 200 | Lab Kellyann 10:00 AM–12:00 PM Sutardja 200 | Lab Arrushi 12:00 PM–2:00 PM Sutardja 200 | . | ",
+    "url": "http://localhost:4000/sp23/schedule/",
+    "relUrl": "/schedule/"
+  },"37": {
+    "doc": "Daily Schedule",
+    "title": "Friday",
+    "content": ". | Discussion Vedansh 9:00 AM–10:00 AM TBD | Discussion Brendan 10:00 AM–11:00 AM Zoom | Discussion Maddie 11:00 AM–12:00 PM Moffit 103 | Lab Ze 10:00 AM–12:00 PM Sutardja 200 | Discussion Deeksha 1:00 PM–2:00 PM Wheeler 103 | Discussion Deeksha 2:00 PM–3:00 PM Wheeler 130 | Discussion Vedansh 4:00 PM–5:00 PM Wheeler 20 | . | . --> ",
+    "url": "http://localhost:4000/sp23/schedule/",
+    "relUrl": "/schedule/"
+  },"38": {
+    "doc": "Daily Schedule",
+    "title": "Daily Schedule",
+    "content": " ",
+    "url": "http://localhost:4000/sp23/schedule/",
+    "relUrl": "/schedule/"
+  },"39": {
+    "doc": "Staff",
+    "title": "Staff",
+    "content": "Add ‘berkeley.edu’ to the end of all emails. ",
+    "url": "http://localhost:4000/sp23/staff/",
+    "relUrl": "/staff/"
+  },"40": {
+    "doc": "Staff",
+    "title": "Instructor",
+    "content": "Teaching Professor Dan Garcia . ddgarcia@ . I’m just so delighted to be teaching the course again! I co-invented BJC in 2008 with my good friend and colleague Brian Harvey, and absolutely love teaching it. I’m passionate about bringing engaging and powerful CS “big ideas” to students who normally wouldn’t be exposed to it. I am humbled by all the national attention BJC has received (see the “in the News” part of my website) and hope you find this class beautiful and joyful! When I’m not working, you can find me traveling, playing golf or board games (e.g., Monopoly Deal), or binging shows (anything Pixar or Marvel) with my family. p.s. My wife and I both went to Cal for grad school… Go Bears! . ",
+    "url": "http://localhost:4000/sp23/staff/#instructor",
+    "relUrl": "/staff/#instructor"
+  },"41": {
+    "doc": "Staff",
+    "title": "Head Teaching Assistants",
+    "content": "Imen Guechtouli . imen@ . Hey hey hey!!! It’s going to be a blast getting to know you all! (‘: I’m in my second year studying EECS &amp; (just started pursuing) Cognitive Science, and this will be my third time on staff! My technical interests lie in integrations of human cognitive development research in robotics and machine learning, and I’m growing to love the theory and mathematics behind quantitative big data processes. I came to Cal with no programming experience, and since my first semester here, CS 10 continues to be the community that keeps me going. You can catch me playing volleyball or getting lost in town during my free time (I have no sense of direction!) . Vedansh Malhotra . vedansh@ . Hey there! :) I’m a junior studying CS, Cognitive Science, and Data Science. This is my sixth time on course staff at Cal, fourth time teaching and third time as Head-TA for CS-10. As someone who started out with little programming experience, I believe that CS at Berkeley can be a challenging, yet immensely rewarding experience. My primary goal this semester is to help students discover and come to appreciate the remarkable beauty of problem solving- for which, Computer Science is an indispensable tool! PS: Here’s how my name is pronounced: veið’ãnʃ . ",
+    "url": "http://localhost:4000/sp23/staff/#head-teaching-assistants",
+    "relUrl": "/staff/#head-teaching-assistants"
+  },"42": {
+    "doc": "Staff",
+    "title": "Teaching Assistants",
+    "content": "Annie Miller . anniemiller@ . Hi everyone!I am a fourth year studying environmental sciences and data science. I took CS10 my second semester at Cal and have been with CS10 ever since, as an AI and now a TA for my fifth semester. I love taking long walks, reading, listening to music and podcasts, and baking. I am super excited to be with CS10 this semester and hope you love it as much as I do! . Benjamin Pierias . bpierias@ . Hello! My name is Ben and I’m a Senior majoring in Cognitive Science with a minor in CS! I took CS10 my first semester at Cal (it was actually the class I was most looking forward to) and was blown away with how amazing computer science is. Besides school, I love the outdoors, exercising, learning about the brain, cybersecurity and all things cinema! I can’t wait to show you the joys of computing! . Jalen Gooch . jgooch02@ . Hello! My name is Jalen and I am Third Year double majoring in Cognitive Science and Psychology with minors in Data Science and Journalism! I took CS10 the Spring of my Freshman year, loved it, and have been a part of the course ever since! Outside of academics I look cooking, making oddly specific music playlists, and keeping my 3 month old kitten from tearing up my apartment. I am excited to meet and work with you all this semester! . ",
+    "url": "http://localhost:4000/sp23/staff/#teaching-assistants",
+    "relUrl": "/staff/#teaching-assistants"
+  },"43": {
+    "doc": "Staff",
+    "title": "Readers",
+    "content": "Dorottya Urmossy . durmossy@ . Hi! I’m a sophomore studying Computer Science and Mathematics. I took CS 10 in Fall’21 and was an AI in Spring’21. This is my second time being a reader so I’m very excited! CS 10 was one of my favorite courses, so I hope everyone will have fun while taking it! In my free time I like reading (especially fantasy), sewing and traveling :) . Eric Min Young Park . prk4k@ . Hiiii! I’m Eric, and I’m a sophomore studying EECS. I took CS10 my first semester at Cal and had been an AI in my second, and I had a chance to be a reader over the summer. I enjoy reading, writing stories, finding new music, walking, and playing games. Hope you guys have a great time this spring! . Mehul Gandhi . gandhi@ . Hey everyone! I’m a junior studying Computer Science, and this is my fourth semester working on staff for CS10. I took CS10 during my spring semester of Freshman year and I love the creative and critical thinking aspects that CS provides, so I decided to change my major to CS! This semester, I’m looking into learning fullstack development through personal projects! During my free time, I like to watch anime and k-drama, try out new restaurants, and host social events for clubs! I’m super excited to work with all of you this semester :) . Victoria Phelps . jedi_force@ . Hello Everyone! I’m a sophomore studying CS and this is my third year working with CS10. Currently, I work as an intern at a software company, SAP. I’m also apart of Dan Garcia’s research group, Gamescrafters. When I first took the course, I had no programming experience. I fell in love with it and became a BJC and Snap! evangelist. As a non-traditional student coming back to school at the age of 23, I believe anyone can learn CS, and CS is a field for everyone - no matter your age, skill level, or past performance. ",
+    "url": "http://localhost:4000/sp23/staff/#readers",
+    "relUrl": "/staff/#readers"
+  },"44": {
+    "doc": "Staff",
+    "title": "Academic Interns (AI’s)",
+    "content": "Aadip Khanal . akhanal@ . Hello everyone! My name is Aadip and I’m a freshman studying computer science and data science. I took CS 10 in my first semester at Berkeley and it was a very rewarding experience. I’m thrilled to return this semester as an Academic Intern to be able to share my knowledge and passion in computer science with you all. Outside of class, I love to stay active and I enjoy working out, playing basketball, and hanging out with friends. I look forward to meeting you all! . Aananya Lakhani . alakhani748@ . Hi there! :) I’m a freshman studying CS and physics, and this is my first time AI-ing in CS10. I came into CS10 last semester without a lot of coding experience, however, with the support of the CS10 staff I was able to learn so much in just one semester. CS and coding are such important tools in our world today and I hope to provide support to the students this semester, so that they can also experience the beauty and joy of computing. Aanvi Kothari . aanvi.kothari@ . Hello! I’m Aanvi, from Calcutta, India, a freshman double majoring in CompSci and Data Science. I’m involved in DS research this semester and am also a part of the game theory group led by Prof Garcia. Outside of academics, I’m always down for a game of ping pong. I’m excited to be an AI for CS10 this semester and get to know you all! . Alanda Nguyen . a.nguyen31@ . Wassup I’m a junior studying CS and this is my second time being here as an academic intern! When I am not academically suffering, I am probably drawing or playing video games. Cheese and miso soups are my comfort food :) . Alyssa Chen . alyssa_chen1@ . hi everyone!! i’m a freshman intending to double in cogsci and cs! this is my first time ai-ing for cs10 :) some things i like to do in my freetime are reading, photography w/ my film cam, playing games and listening to music! looking forward to meeting you all! . Amy Castillo . amycastillo19@ . Hi! I’m a third year majoring in Data Science. I took CS10 Spring of 2021, back when I had no coding experience whatsoever. This class became one of my favorites and I’ve been on course staff as an AI ever since. I hope to help as best as I can! A few things about me: I’m from SoCal, I love listening to Bad Bunny, I like horror movies, and I like taking walks around my neighborhood. Anshika Ojha . anshikaojha@ . Hi! I’m a Freshman intented to major in Business Administrations and Computer Science. I’m super excited to help our with CS10 because it fueled my interest in the technology field. I started with no experience and CS10 build my confidence to take CS61A and I’m ready for the challenge! My goal this semester is to work through CS10 with students and help them build their confidence and get them interested in the tech field as well as share my CS61A experience with students who are interested in hearing how it’s going. Arash Mohammady . arashm05@ . I am a junior majoring in Microbial Biology and looking to enhance my skills in computer science through teaching. Bardia Koopah . bkoop@ . Wsp! I’m a first year studying CS and Econ. This is my first time on CS10 coursestaff, and I could not be more excited to meet all of you. I took CS10 Fall 2022 and loved it. You learn not only the fundamentals and intuition of great programmers, but many fascinating and useful paradigms that exist within the realm of Computer Science. I hope I can help many students this semester in solving puzzles and unearth the beauty of Computer Science. Ad Astra! . Bella Lee . bellalee03@ . Hi! I’m a rising senior majoring in Computer Science. This is my thrid time as an AI for CS-10. CS 10 was a first CS course that I’ve ever took, and this is a great course to get you started in the field. Feel free to reach out to me if you have any questions or concerns! :) . Bonnie Wang . bonniew26@ . Hii! I’m a freshman majoring in EECS. I took CS10 last semester and am excited to be an AI this semester. I like to cook, explore the outdoors, and photography! . Cali Bond . calibond@ . Hi! My name is Cali and I’m a sophomore studying Cog Sci and Data Science. I took CS 10 with zero prior programming experience and loved it. Super excited to be an AI for the first time this semester so feel free to reach out to me with literally anything! . Calvin Duong . calvinduong11@ . Hey !! My name is Calvin (he/him) and I’m a junior studying CS. I took CS10 my freshmen year and it was definitely one of my favorite classes. I didn’t have much programming experience coming into Berkeley so CS10 really paved the way for my CS journey. Looking forward to working with everyone this semester and feel free to message me via email if you have any questions ! . Dennis Koh . dkoh135@ . Hey there! :) I’m a rising junior studying CS, CogSci, and Data Sci., and this is my third time teaching CS-10. As someone who started out with little programming experience, I believe that CS at Berkeley can be a challenging, yet immensely rewarding experience. My primary goal this semester is to help students discover and come to appreciate the remarkable beauty of problem solving- for which, Computer Science is an indispensable tool! . Dream Lopez . dreamlopez@ . Hello everyone!! I’m a second year planning to major in Data Science and Public Health. I took CS10 my first semester at Berkeley and it really helped my build confidence in my coding abilities! This is my third semester as an AI. In my free time I love to read, hike, watch movies, find cute coffee shops, and bake. I look forward to meeting everyone and help you fall in love with CS &lt;3 . Ethan Zuo . ethanszuo@ . Ethan is a freshman at UC Berkeley who is passionate about science and technology and loves using them to solving problems in the engineering field. He was named a Regeneron Science Talent Search Scholar and a MIT THINK Scholars Finalist for his science research. At the IT Club. he manages all the organization’s technology and provides electronics repair services for students and teaches others how to repair their own devices. He is also the President of Berkeley IT Club branch, manages all of its operations. Harry Qian . harry.qian26@ . Hi! I am a freshman intending to major in Physics and CS, and this is my first-time AI-ing CS 10. I took the course last semester, inspiring me to pursue CS as my second major. I joined the class with ZERO experience in coding, and I left the class with enough skills to start my CS journey here at Cal. I hope to support you throughout the course! . Jasmine Ma . jasminema@ . Hey! :) I’m currently a freshman studying CS and Data Science. This is my first time AI-ing for a class, so I am excited to be here. I started here last year with no coding experience (like actually, I didn’t know how to open up a terminal LOL). However, this class was so supportive, and I was able to learn so much through it. I am by no means a master at CS, but this class made me see the fun there is in coding. Jasper Shine . jshine@ . Hi everyone! I am a fourth year majoring in Computer Science with a minor in Data Science. I took CS10 way back in my first semester here at Cal and I can honestly say it’s the best class I’ve taken. Outside of school I love to watch soccer (Come on You Gunners!), play tennis, and travel with my family. I hope you enjoy CS10 as much as I did! . Jayita Mukunda . jayitamukunda@ . Hey! My name is Jayita and I’m a freshman studying Data Science and Molecular &amp; Cell Biology, and this is my first time helping out with CS-10! I am super excited to get to know everyone, and help students discover and understand CS! . Jimmy Zhang . jimmy.zhimeng.zhang@ . Hello! My name is Jimmy, and I’m a senior studying math. I took CS10 last semester. I have to say BJC is the class I enjoyed the most at Cal. I had no idea what programming was before I took this class. That’s also why I had to use the late drop for my math 128A(numerical analysis) last year; However, I absolutely love programming now. In my free time, I am always trying to explore restaurants in the city (I am a big foodie). Feel free to reach me out for food spots or anything else! . Julia Dashzeveg . juliamd@ . Hey! I’m Julia and I’m a sophomore studying EECS. I took CS10 my first semester at Cal and this is my second time being an AI. In my free time I love to read, bake, and do arts and crafts :) . Julia Moreno . juliamoreno@ . Hi! I’m a junior majoring in Data Science and this is my third semester AIing for CS10. I took CS10 my freshman year and it remains one of my favorite classes at Cal. I also enjoy bowling, taking advantage of my A-list membership at AMC, and playing volleyball :) . Julia Zhang . juliazhang2025@ . Hi everyone!!! My name is Julia, and I’m a sophomore studying Data Science! I really enjoyed taking CS10 in my freshman year, and this is my second time being an AI for CS10! I am excited to help students in CS10 this semester again as an AI! . Kai Qin . tonyqin2003@ . Hello! I am a sophomore studying computer science and data science. I love watching professional sports league (premier league, champions league, nba, f1), lifting weights, rubik’s cube, anime, etc. I really hope I could aid students who are new to computer science through CS10 smoothly. Kaitlyn Jun . kaitlyn.jun@ . Hi everyone! I’m Kait, a sophomore studying data science and computer science. This is my first time being an AI in cs10 so I’m excited to work with all of you! Before taking cs10 my first semester at Cal, I had zero programming experience. After taking this course, I am confident I want to puruse this field throughout my next couple of years and I can definitely say that it has opened my eyes to the beauty of programming :) In my free time, I love to try new coffee shops, listen to music, dance, and travel to new places. Kush Tummala . k.t@ . Hey! I’m a freshman intending to study Computer Science, and this is my first time teaching CS-10. I believe that CS-10 can be a challenging class (as I took it my first semester), but it is highly rewarding and that is why I want to continue my journey in this class. My primary goal this semester is to help students while simultaneously solidifying my coding experience. Lana Alsaedi . lalsaedi@ . Hi:) I’m a freshman majoring in CS with a minor in Data Science. This past fall I took CS-10 and instantly grew passionate about the intricate CS world. This will be my first time teaching CS10, and I look forward to contributing to the growth of the CS community at Berkeley! . Lauren Bae . lbae02@ . Hello there! I’m a sophomore studying Microbial Biology and Data Science. This is my first time teaching CS-10 :) Last year I took CS-10 with no previous coding experience. I am so grateful for this course because it helped me find my passion for CS and choose to minor in Data Science. Studying CS at UC Berkeley can feel intimidating, however I hope that with the help of peers and staff, students can find rewarding experiences in this course! . Malia Kowal . malia.kowal@ . Hi everyone! I’m a freshman studying mechanical engineering. This is my first time being an AI. Last semester, I went into CS 10 with zero coding experience and came out of it having learned a lot and had a lot of fun. I’m excited to meet everyone in lab this semester! . Marius Castro . mariuscastro@ . Yo! My name is Marius and I’m a second year here majoring in Applied Math and Computer Science. I took CS10 Spring 2022 and I’m pumped to be back AI’ing for my second time. I came into Berkeley with no coding experience and I remember how my roommates (who were in 61A/B at the time) screens used to look like giberish while they did hw. I had no idea what CS was so I decided just to try it out by taking CS10. The class quickly became my favorite I’ve taken so far at Berkeley as it opened up the world of programming to me in a very beginner-friendly way. I hope to lend other students a hand in finding their way into Computer Science as a whole and maybe even find a passion like I did :) . Maya Nalliah . maya.nalliah@ . Hi I’m Maya! I am a freshman majoring in data science with an interest in climate tech! I loved being in cs10, and can’t wait to help students find how remarkable cs is! . Mihir Mirchandani . mihirm@ . Hello! My name is Mihir and I am a second year Computer Science major and Data Science minor! I am really looking forward to this amazing semester and I hope you are too! It’s gonna be great! Two truths and 1 lie: I’ve been to New York, I’ve never taken CS 10, I’ve lived in the Bay Area for over 15 years. Nandini Sharma . nandini.sharma@ . Hey there! :) I’m a Sophomore studying Computer Science, and this is my third time being an AI for CS-10. CS-10 was the first CS class I took and it was a big reason I decided to pursue CS, and I am really excited to help you guys discover similar inspiration and passion throughout this course. Nathan Huynh . nathan1nathan@ . What’s up!!! Im currently a freshman intending to major in CS. This is going to be my first time being an AI so I’m very excited to meet new people and help you guys out. Things I like to do in my freetime are playing videogames (such as Valorant and Pokemon). Hit me up if you have any questions or just want to talk. :D . Nhaovaleth Macias . nhaovalethmacias@ . hello! I am a current sophomore majoring in Molecular and Cellular Biology with a minor in CS. I took CS10 my spring semester of my freshman year, so I am extremeley excited to be helping out with the course for the first time! I understand the struggles of such an intense subject as someone who came into college with no knowledge of CS, so this semester I hope to become a resource for everyone in their journey through CS10. I hope that you all are in love with CS10 and Imm Thai just as much as I am by the end of the semester, can’t wait to work with everyone :) . Nicole Martinez . nicole.martinez@ . Hi everyone! My name is Nicole, and I am a first-year intending to major in CS. I took CS10 last semester and I really enjoyed it! As someone who was new to programming, CS10 was extremely helpful and taught me a lot. I hope you all enjoy this class as much as I did, and please don’t hesitate to reach out. I look forward to being an AI this semester, and to be able to help in any way that I can :) . Pavit Singh . pavit@ . Hey everyone! My name is Pavit and I’m a sophomore studying CS. In my free time I like to play the guitar, follow the Premier League, and hang out with friends. I think CS 10 is a super cool intro to CS and I’m really excited to be helping you guys out as a returning AI this semester. Shoot me an email - I’m always down to grab coffee! . Rachel Hu . rchelhu@ . Hi, I’m Rachel and I’m a current Freshman studying computer science! I am excited to be an academic intern for CS-10. Although I have had some previous experience in web and iOS development through personal projects, CS-10 was my first official computer science class I have ever taken! As I believe coding is a catalyst for social change, I am excited to help teach computer science to all. Reem Elyas . relyas5645@ . Hello! I’m a first-year intended CS major, and this is my first time working as an AI for CS10! I began my programming journey as a high school sophomore, working for my local FIRST robotics team. At Berkeley, I have developed an even greater appreciation for the field, and I look forward to helping others discover their passion for it too! . Ruiyang Xu . ruiyang626@ . Hey there! :) I’m a sophomore MCB student. Glad that I took this course Fall 2021 and have been working as an AI for the third semester. Wonderful experience to help people just as I was. Sammie Shenon . sshenon@ . Hi! I’m a sophomore studying Computer Science with a minor in French. I took CS10 Fall 2021 and I loved the course and learned a ton! It was a great entry into the world of Computer Science and made me much more confident going into later Berkeley CS courses. In my free time I love to watch movies, read, get outdoors, and try new food spots. I look forward to being an AI again this semester! . Sofia Bourche . sbourche@ . Hi! :) I’m a junior studying CS from San Diego, CA and this is my 5th semester being an AI for CS-10. I discovered my love for programming as a student in CS10, and I hope you will too! In my free time, I enjoy dancing on the Cal Dance Team, baking, surfing, traveling and teaching! . Sophie Lenz . sophielenz@ . Hi! My name is Sophie and I’m a second year studying CogSci and Data Science. This is my second time as a CS10 AI, and I’m so excited to be helping out again this semester. Outside of class, you can catch me drinking boba, in Ocean Society, or going on walks. Hope to see you all in class! :) . Stacey Yoo . syoo3015@ . Hi there! My name is Stacey and I’m a sophomore studying Bioengineering. This is my second semester AI-ing for CS-10 (excited to be back)! Definitely looking forward to this year and meeting all of you! In my free time I love to cook, drive, and watch new shows. Talha Ijaz . talhaijaz@ . Hello Everyone! I am a freshman studying CS, Applied Maths, and Data Science. It’s my first time being part of the CS 10 Community. I took this course last semester and I can assure each and everyone of you that it will not only prepare you for further CS courses, but will also give you a set of skills that will help you succeed in various courses. So be prepared for a fun yet challenging course :) . Vianna Galindo . vgalindo03@ . Hi there!!! I’m Vianna and I am a first year interested in computer science and applied math. Taking CS10 during my first semester at Cal was my introduction to programming. I absolutely fell in love with the course and can’t wait to help other students discover the beauty and joy that is computing. Outside of school I like baking, dancing, listening to all kinds of music, and watching Asian dramas :) . Vivi Thai . vithai1@ . Hi everyone! I’m a sophomore majoring in Data Science. I took CS 10 Fall 2021 with no experience, had a great time, and I’ve been an AI ever since! I’m excited to meet and get to know everyone in labs. Wen Cao . wen_cao_wendy@ . Hi everyone! I’m Wen and I’m a freshman interested in Pure Math, Computer Science, and Mechanical Engineering. This is my second semester of college and my first time AIing CS10! I took CS10 last semester and had tons of joy. I’m a food lover and a big fan of ketchup. I also like running marathons and watching soccer games. Can’t wait to see you all this semester:)))) . Yale Han . y.han@ . Hey everyone! I’m a freshman studying computer science, and I’m excited to return to CS10 as an AI. As with many CS10 students, I started out with little prior experience, but this course helped to build my confidence and knowledge of CS. This is certainly a challenging course, but it is rewarding, and I hope to see everyone discover the ‘beauty and joy of computing” this semester. ",
+    "url": "http://localhost:4000/sp23/staff/#academic-interns-ais",
+    "relUrl": "/staff/#academic-interns-ais"
+  },"45": {
+    "doc": "Syllabus",
+    "title": "Syllabus",
+    "content": " ",
+    "url": "http://localhost:4000/sp23/syllabus/",
+    "relUrl": "/syllabus/"
+  },"46": {
+    "doc": "Syllabus",
+    "title": "Table of contents",
+    "content": ". | Welcome | Platforms | Primary Course Components | Grading Breakdown | Pro-Student Course Policies | Exam Policy | DSP Accommodations | Extension Requests | Exceptional and Extenuating Circumstances | Late Submissions | Academic Integrity | Diversity and Inclusion Statement | Academic Accommodations Hub | EECS Student Climate &amp; Incident Reporting Form | . ",
+    "url": "http://localhost:4000/sp23/syllabus/#table-of-contents",
+    "relUrl": "/syllabus/#table-of-contents"
+  },"47": {
+    "doc": "Syllabus",
+    "title": "Welcome",
+    "content": "Welcome to CS10: The Beauty and Joy of Computing! We’re really excited to have you on board with us this Spring for a gentle, but thorough introduction to computer science. Our course will start out in the block-based language Snap!, but will transition into Python once you’ve learned some fundamentals of programming. By the end of the course, we hope you’ll walk away with a deeper understanding of the ideas that have come to define computer science, the ability to build your own programs, and the confidence to apply these skills in whichever field you choose to pursue. ",
+    "url": "http://localhost:4000/sp23/syllabus/#welcome",
+    "relUrl": "/syllabus/#welcome"
+  },"48": {
+    "doc": "Syllabus",
+    "title": "Platforms",
+    "content": "This Spring, CS10 will be be primarily in person, but we will be able to provide remote accommodations as needed: . | Course Website: The day-to-day happenings of the course (and links to all the platforms below) can be found at cs10.org. Consult the daily schedule to find the times/locations for all synchronous course activities. | Ed: This will be our main Q&amp;A platform, where you can ask (and answer) questions, see announcements, and read Weekly Blasts, which are required readings. | Gradescope: This is where you will submit Reading Quizzes, Projects 1-4, and the Final Project. | BCourses: Lecture recordings can be found in the Media Gallery on BCourses. | Discord: Hybrid lab sections and office hours will be held via Discord, which offers more interactive, versatile spaces for you to connect with students and staff. | PrairieLearn: The three exams: Quest, Midterm, and Postterm, will be administered via PrairieLearn. You will also submit Project 5 here. | . ",
+    "url": "http://localhost:4000/sp23/syllabus/#platforms",
+    "relUrl": "/syllabus/#platforms"
+  },"49": {
+    "doc": "Syllabus",
+    "title": "Primary Course Components",
+    "content": ". | Lecture: Lecture will be live and in person in Birge Hall (Birge 50). Lectures will be recorded, with recordings posted on the website after class. Lecture introduces concepts and gives you an overview of what is happening in labs and discussions. | Lab Sections: Labs will be held synchronously and are the primary place you will learn to program. Note that you are required to complete all labs with a partner, and partner-matching threads have been added to our EdStem Forum. While lab attendance is not mandatory, you will need to attend lab or office hours to get credit for them. To earn full credit for a lab, it must be completed, submitted, and checked off. Checkoffs are to be completed synchronously either in lab or in staff office hours. If you have a special circumstance where you are unable to check off a lab, you may ask for an extension using our extension form (see the Extensions Requests section). Each lab will (usually) be due by the end of the following lab day, and you can reference the calendar on the CS10 home page to reference the deadlines of all labs. There will be 17 total labs — but only your top 15 lab scores will count towards your grade (i.e. you get two lab drops). Each lab is worth 2 points. Half a point will be deducted for each day that a lab is checked off late; however, a maximum of 1 point will be deducted for any given lab. You should plan on attending the lab you sign up for the entire term, but you may attend other lab sections or office hours to get checked off or get extra help. | Discussion Sections: Discussion sections are where you will delve into the content more deeply with worksheets in traditional “pen-and-paper” style. This is where you will develop the theoretical computational skills needed to understand the basics of programming. While we strongly encourage students to attend Discussions in-person, we will post recordings for students who can not attend some sections. | Office Hours: During office hours, you can meet with a TA for help with course material, assignments, or bigger picture questions. | Instructor Office Hours: Professor Garcia will be hosting Instructor office hours, which you may attend for more conceptual help or to discuss anything you like (e.g. career/major advice or how you’re doing in the class) within reason. | Reading Quizzes: Reading Quizzes are an opportunity for you to explore topics relevant to course content outside of the material presented in class. The readings are also meant to bring awareness to the social implications of computing across the globe, and get you to observe and analyze the ways in which computer science plays fundamental roles in varying aspects. Readings will be posted on the Readings Tab of the course website, and will be due every Friday at 11:59 PM PST. Of the 11 Reading Quizzes, you will get one drop, and each Reading Quiz is worth two points. | Projects: These assignments will be one of the best ways for you to apply what you have learned in lecture, lab and discussion. These will be a bit more time intensive than the other assignments and will require you to be caught up on the components of the course. | Project Parties: These will serve as specialized office hours where you will be able to come work and get help on whatever project is currently assigned. We strongly encourage you to attend project parties as they will help you finish your assignments on time. | . ",
+    "url": "http://localhost:4000/sp23/syllabus/#primary-course-components",
+    "relUrl": "/syllabus/#primary-course-components"
+  },"50": {
+    "doc": "Syllabus",
+    "title": "Grading Breakdown",
+    "content": "| Assignment | Points | . | Quest | 40 | . | Midterm (With Snap!) | 15 | . | Midterm (Without Snap!) | 65 | . | Postterm | 100 | . | Project 1: Wordle™-lite | 10 | . | Project 2: Wordle™ | 20 | . | Project 3: 2048 | 30 | . | Project 4: Explore | 40 | . | Project 5: Python | 50 | . | Final Project | 80 | . | Labs | 30 | . | Reading Quizzes | 20 | . Total: 500 Points . | Letter Grade | Range | . | A+ | 485-500 | . | A | 460-484 | . | A- | 450-459 | . | B+ | 440-449 | . | B | 420-439 | . | B- | 400-419 | . | C+ | 375-399 | . | C | 360-374 | . | C- | 350-359 | . | D | 300-349 | . | F | 0-299 | . ",
+    "url": "http://localhost:4000/sp23/syllabus/#grading-breakdown",
+    "relUrl": "/syllabus/#grading-breakdown"
+  },"51": {
+    "doc": "Syllabus",
+    "title": "Pro-Student Course Policies",
+    "content": " ",
+    "url": "http://localhost:4000/sp23/syllabus/#pro-student-course-policies",
+    "relUrl": "/syllabus/#pro-student-course-policies"
+  },"52": {
+    "doc": "Syllabus",
+    "title": "Exam Policy",
+    "content": "There will be three exams: The Quest, the Midterm and the Postterm Exam. Exams will be take-home and will be conducted online on PrairieLearn. If an emergency comes up close to the exam and you need accommodations, email cs10@ ASAP. Exam logistics and the specific times that exams will be opened, will be sent out in more detail closer to the date of each exam. | Absolute-Clobber Policy: Every exam score can be clobbered by a future exam. If your percentage score on the Midterm is better than your percentage score on the Quest, then we will replace your Quest score with your percentage score on the Midterm. Similarly, the Postterm exam score can be used to clobber both the Midterm and the Quest. | . ",
+    "url": "http://localhost:4000/sp23/syllabus/#exam-policy",
+    "relUrl": "/syllabus/#exam-policy"
+  },"53": {
+    "doc": "Syllabus",
+    "title": "DSP Accommodations",
+    "content": "If you have a DSP accommodation through the university that is not addressed by the above policies, please be sure to submit your official letter through the DSP portal. Once you have done so, we will be able to accommodate you. If you have an accommodation but are unable to promptly submit the letter for whatever reason, please reach out to cs10@. ",
+    "url": "http://localhost:4000/sp23/syllabus/#dsp-accommodations",
+    "relUrl": "/syllabus/#dsp-accommodations"
+  },"54": {
+    "doc": "Syllabus",
+    "title": "Extension Requests",
+    "content": "We understand that circumstances may arise that may cause you to not be able to meet assignment deadlines. For extension requests on LABS, please use this LAB regular extension requests form to request extensions on deadlines for any labs. The policy for regular extension requests on labs are as follows: . | A regular extension request will grant you an extra lab section in order to complete the lab assignment. For instance, if the lab is due on a Tuesday, then the extension request will make the lab due on a Thursday instead. | . For extension requests on PROJECTS, please use this PROJECT regular extension requests form to request extensions on deadlines for any projects. The policy for regular extension requests on projects are as follows: . | A regular extension request will grant that your submission deadline for the project be extended to the deadline of the next project. For instance, if you request an extension for Project 1, your new deadline for submitting Project 1 will be the same day that Project 2 is due. | . Extension requests are automatically approved after submission of the form, and you may use as many extension requests as you wish throughout the semester. However, you can only use one regular extension request for a single assignment. If you require extra time for an assignment you already submitted a regular extension request for, you must submit the exceptional circumstances form (see next section). NOTE: If you added the course late, please use your updated deadline as the ‘original due date’. Important: While extensions may not be visible on PrairieLearn/Gradescope (a.k.a your assignments may be marked as ‘Late’), they will be factored in when we compute your final grade. ",
+    "url": "http://localhost:4000/sp23/syllabus/#extension-requests",
+    "relUrl": "/syllabus/#extension-requests"
+  },"55": {
+    "doc": "Syllabus",
+    "title": "Exceptional and Extenuating Circumstances",
+    "content": "For emergency situations that require extra time for LABS that a regular extension request cannot resolve, please fill out the LAB emergency extension requests form. After filling out the LAB emergency form, you MUST speak with your TA in section in order for your request to be considered. For projects please fill out this PROJECT emergency extension requests form instead. The extensions granted for such circumstances are double the time allotted for regular extension requests. (This means two extra lab sections for labs, and project n will get extended to be due on the deadline of project n+2. For projects such that n + 2 &gt; 6 (a.k.a Projects 5 and 6), we will personally work out a deadline for submission and/or discuss options of taking an Incomplete.) . All students are only allowed one free submission of these forms throughout the semester. After submission, your case will be considered and either approved/denied. You will then have to schedule a conversation with a staff member and/or the CS 10 Course Manager (if the latter, the CS 10 Course Manager will contact you.) . However, we understand that there may be circumstances that will cause you to need this form more than once. If that’s the case, you must reach out to your Lab TA and/or email cs10@ to address your case. We cannot guarantee that your request will be granted. Feel free to reach out if you feel that your case was not rightfully addressed. At the end of the day, we’re here to help you succeed in our course. ",
+    "url": "http://localhost:4000/sp23/syllabus/#exceptional-and-extenuating-circumstances",
+    "relUrl": "/syllabus/#exceptional-and-extenuating-circumstances"
+  },"56": {
+    "doc": "Syllabus",
+    "title": "Late Submissions",
+    "content": "Late submissions for all assignments in this course will not be considered, and will all be awarded zero credit. If you anticipate a late submission, please utilize the extension requests form and/or the extenuating circumstances form depending on your situation. ",
+    "url": "http://localhost:4000/sp23/syllabus/#late-submissions",
+    "relUrl": "/syllabus/#late-submissions"
+  },"57": {
+    "doc": "Syllabus",
+    "title": "Academic Integrity",
+    "content": "Let’s get honest about being honest. It is truly a disappointment to catch students cheating. All we really want is for you to learn the material and if the class is stressful enough that you feel the need to cheat, we have failed as instructors. If you are feeling stressed out in the course, please tell us. We will do what we can to help you. Maintaining academic integrity is a crucial part of your learning experience, as cheating prevents us as instructors from understanding where our model of instruction isn’t working. We understand that academics can be stressful and that it might be tempting to cheat; however, there are ways to meet your goals that don’t require academically dishonest means. Here, we will lay out our academic integrity policies and some good practices that will help you avoid academic dishonesty and improve your overall mastery of the material. What constitutes cheating? . | Copying part or all of another student’s project code with the exception of your partner(s) assuming that the project you are working on allows for partnered work. This includes students from previous semesters (we still have their code and will know if you do this). | Sharing or receiving the exact steps used to solve a project problem (even if code is not explicitly sent). | Copying part or all of another student’s exam answers. | Collaborating with another student when taking the quest, midterm, or Post-term exams by receiving or giving assistance of any kind. | Copying code from online sources without crediting them | . What constitutes collaboration? . | Asking instead of telling. If you’re working with your friends and one of them is stuck on a part of an assignment, try to ask them guiding questions instead of telling them the answer. | Keeping things conceptual! It’s more beneficial to your learning if you come up with a solution yourself, rather than having it told to you. This also applies if you are helping someone else. We highly encourage collaboration, so let’s define what that means. Discussing approaches to problems is fine (in fact, we actively encourage it), as long as you eventually arrive at a good enough understanding of the problem that you are able to code the solution completely by yourself. You should not allow concerns about cheating to get in the way of discussing the class material with your classmates. It is okay if you have received some help with ideas along the way (but not a fully worked out solution).* *This policy was adapted from Professor Alistair Sinclair’s policy for CS 172. | . What happens if you cheat? We will set up a meeting with you to discuss the situation and determine the consequences. ",
+    "url": "http://localhost:4000/sp23/syllabus/#academic-integrity",
+    "relUrl": "/syllabus/#academic-integrity"
+  },"58": {
+    "doc": "Syllabus",
+    "title": "Diversity and Inclusion Statement",
+    "content": "We recognize that computer science is a demographically skewed field in the United States, and that even at Berkeley, minoritized students can find themselves feeling alone. It is our goal in this course to deliver an equitable learning experience for everyone involved. Concretely, this means a few things: . | In addition to teaching the technical skills necessary for programming, we will also teach the social implications of computer science. In doing so, we will directly address the contributions of underrepresented groups to the field, which are often overlooked. | We will do our absolute best to show you that while bias, discrimination, and judgment still exist, they should not stand in the way of you learning computer science. While acknowledging the struggles many students may face, we also hope to show that computer science is a field anyone can be successful in (in other words, there is no innate “talent” or “trait” required to understand computer science). Of course, different people have different opportunities, but one of the goals of CS10 is to equalize the playing field. | Discrimination or disrespect on the basis of race, ethnicity, religion, socioeconomic status, ability, gender, or sexual orientation will be tolerated under no circumstances. Should someone make you feel uncomfortable or disrespected in any way, please let the instructor/Head TA know immediately via email (cs10@) or by coming to office hours. You can also fill out the EECS Incident Reporting Form. | . ",
+    "url": "http://localhost:4000/sp23/syllabus/#diversity-and-inclusion-statement",
+    "relUrl": "/syllabus/#diversity-and-inclusion-statement"
+  },"59": {
+    "doc": "Syllabus",
+    "title": "Academic Accommodations Hub",
+    "content": "Here’s a link to the Academic Accommodations Hub. ",
+    "url": "http://localhost:4000/sp23/syllabus/#academic-accommodations-hub",
+    "relUrl": "/syllabus/#academic-accommodations-hub"
+  },"60": {
+    "doc": "Syllabus",
+    "title": "EECS Student Climate &amp; Incident Reporting Form",
+    "content": "It is very important to the EECS Department that every student in the EECS community feels safe, respected and welcome. We recognize though that incidents happen, sometimes unintentionally, that run counter to that goal. The EECS department provides a secure and anonymous form that can be used to report incidents including (but not limited to) of microaggressions, discrimination, marginalizing / alienating behaviour, etc. ",
+    "url": "http://localhost:4000/sp23/syllabus/#eecs-student-climate--incident-reporting-form",
+    "relUrl": "/syllabus/#eecs-student-climate--incident-reporting-form"
+  }
+}
