@@ -26,21 +26,6 @@ UC Berkeley, Fall 2023
 
 {% include youtube.html id='oG1OItm4JyU' %}
 
-<!-- <br/>
-
-<div class="d-flex">  
-  <div class="flex-justify-start" style="flex-grow: 1">
-  {% if site.announcements %}
-    {{ site.announcements.last }}
-  {% endif %}
-  </div>
-  <div class="float-right">
-    <img src="/sp22/assets/images/alonzo.png" alt="Alonzo, the CS10 Mascot" />
-  </div>
-</div>
-<div style="flex-grow: 0">
-  <a href="{{ site.baseurl }}/announcements" class="btn btn-outline">Previous Announcemnts</a>
-</div> -->
 
 ## CS10 Calendar
 

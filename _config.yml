@@ -3,7 +3,7 @@ tagline: The Beauty and Joy of Computing
 description: A gentle but thorough introduction to computer science.
 author: Victoria Phelps
 baseurl: fa24 # the subpath of your site, e.g. /blog
-url: https://cs10.org
+url: https://cs10.org/
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 
