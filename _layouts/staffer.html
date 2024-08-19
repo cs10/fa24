@@ -1,30 +1,35 @@
 <div class="staffer">
-  {% if page.photo %}
-  <img class="staffer-image" src="{{ site.baseurl }}{{ page.subpath }}{{ page.photo }}" alt="">
-  {% endif %}
+  {%- if page.photo -%}
+  <img class="staffer-image" src="{{ site.baseurl }}{{ page.subpath }}{{ page.photo }}" alt="{{ page.name }} profile photo" width="{{ page.width }}" height="{{ page.height }}">
+  {%- else -%}
+  <img class="staffer-image" src="{{ site.baseurl }}{{ page.subpath }}default_photo.jpg" alt="{{ page.name }} profile photo" width="{{ page.width }}" height="{{ page.height }}">
+  {%- endif -%}
   <div>
-    <h3 class="staffer-name">
-      {% if page.website %}
+    <h3 class="staffer-name" id="{{ page.name | slugify }}">
+      {%- if page.website -%}
       <a href="{{ page.website }}">{{ page.name }}</a>
-      {% else %}
+      {%- else -%}
       {{ page.name }}
-      {% endif %}
-      {% if page.pronouns %}
-      <span class="staffer-pronouns">{{ page.pronouns }}</span>
-      {% endif %}
+      {%- endif -%}
+      {%- if page.pronouns -%}
+      <span class="staffer-badge">{{ page.pronouns }}</span>
+      {%- endif -%}
+      {%- if page.access_email -%}
+      <span class="staffer-badge">{{ site.course_email }}</span>
+      {%- endif -%}
+      {%- if page.access_dsp -%}
+      <span class="staffer-badge">DSP</span>
+      {%- endif -%}
     </h3>
-    {% if page.email %}
+    {%- if page.email -%}
     <p><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
-    {% endif %}
-    {% if page.section %}
-    <p class="staffer-meta">Quiz Section: {{ page.section | markdownify | strip_html }}</p>
-    {% endif %}
-    {% if page.office-hours %}
-    <p class="staffer-meta">Office Hours: {{ page.office-hours | markdownify | strip_html }}</p>
-    {% endif %}
-    {% if page.name == "Mehul Gandhi"%}
-    <br/><form onsubmit="event.preventDefault();if(this.pass.value == 'Anya' || this.pass.value == 'anya'){this.parentElement.innerHTML = 'Kawaii!'; document.body.style.background = 'url(https://media.tenor.com/UYxyzzND5OEAAAAC/anime-spy-x-family.gif)'; document.body.style['background-size'] = '10em'; var style = document.createElement('style');style.textContent = '@keyframes spin { 100% { transform:rotate(360deg); } }';document.head.appendChild(style);var entries = document.getElementsByClassName('main')[0].getElementsByClassName('main-content-wrap')[0].getElementsByClassName('main-content')[0].getElementsByClassName('role');Array.from(entries).forEach(function(element) {element.style.backdropFilter = 'blur(0.3em)'; });var imageElements = document.querySelectorAll('.staffer-image');imageElements.forEach(function(element) {element.style.animation = 'spin 4s linear infinite';});} else {this.pass.value=''}">Secret Word: <input type="text" name="pass"><input type="submit" value="Submit"></form>
-    {% endif %}
+    {%- endif -%}
+    {%- if page.section -%}
+    <p class="staffer-meta">Section: {{ page.section | markdownify | strip_html }}</p>
+    {%- endif -%}
+    {%- if page.office_hours -%}
+    <p class="staffer-meta">Office Hours: {{ page.office_hours | markdownify | strip_html }}</p>
+    {%- endif -%}
     {{ content }}
   </div>
 </div>

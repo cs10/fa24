@@ -2,9 +2,10 @@ title: CS10 Summer 2024
 tagline: The Beauty and Joy of Computing
 description: A gentle but thorough introduction to computer science.
 author: Victoria Phelps
-baseurl: /su24 # the subpath of your site, e.g. /blog
+baseurl: /fa24 # the subpath of your site, e.g. /blog
 url: https://cs10.org
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+
 
 logo: "./assets/images/bjc.png"
 
@@ -13,8 +14,24 @@ sass:
         - _sass
         -  C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/bootstrap-5.2.3
 
+# Class settings
+
+course: SAMPLE 101
+course_email: cs10@berkeley.edu
+gradescope_course_id: 123456 # you can find this in the Gradescope URL after /courses
+bcourses_course_id: 123456 # Same as above, but for bCourses. Leave blank if not in use...
+ed_course_id: 123456 # Again, same as above.
+sememster: fa24
+# This should be one of eecs, dsus, stat
+# (Future) This will control some footer text, and later custom styling.
+course_department: dsus
+# This should be the page of all class archives
+# Typically just / for DS courses (with a visible index page), or /archives if you're hosting your own, or a link to the inst.eecs page
+# If you have no archive page, comment this line out or leave blank.
+class_archive_path: /
+
 # Theme settings
-remote_theme: pmarsceill/just-the-docs@v0.3.3
+
 color_scheme: light
 search_enabled: true
 heading_anchors: true
@@ -34,43 +51,51 @@ external_navigation:
     url: https://snap.berkeley.edu/run
 footer_content:
 
-################################################
-# Custom Data
-bCourses: 1513042
-labsCourse: cs10_fa21.html
-ed_id: 18545
-labsurl: https://cs10.org/
-
-###### TODO: UPDATE THESE, CURRENTLY UNUSED
-# This section controlls the interactive google calendar.
-# Should be in MomentJS format
-startDate: 2024-06-16 # First Sunday
-endDate:   2024-08-13 # Last Saturday
-
-# Change the calendar to show Sun-Sat instead of M-F when an exam is near
-questDate: 2024-06-16
-midtermDate: 2024-06-16
-finalDate: 2024-06-16
-# from console.developers.google.com
-# This key can be public and is tied to a users calendar accesses
-# whoever this key belongs to should have access to the CS10 galendars.
-gcalAPIKey: AIzaSyBcbN6F79dPHiGMvftIKZB86A6Ki2eIKZs
-
-###############################################
 # Collections for website data
 collections:
   staffers:
+    sort_by: name
   modules:
   schedules:
   announcements:
+  labs:
+    output: true
+    permalink: /:collection/:path/
+  hw:
+    output: true
+    permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
+
 # Default layouts for each collection type
 defaults:
   - scope:
       path: ''
+      type: labs
+    values:
+      layout: lab
+      nav_exclude: true
+  - scope:
+      path: ''
+      type: hw
+    values:
+      layout: hw
+      nav_exclude: true
+  - scope:
+      path: ''
+      type: projects
+    values:
+      layout: project
+      nav_exclude: true
+  - scope:
+      path: '_staffers'
       type: staffers
     values:
       layout: staffer
+      height: 300
       subpath: '/assets/images/'
+      width: 300
   - scope:
       path: ''
       type: modules
@@ -87,6 +112,43 @@ defaults:
     values:
       layout: announcement
 
+######################################################################
+# Just the Docs / Berkeley Class Site Common Config
+# Options below here will likely not need to be configured..
+######################################################################
+# TODO(template): CSS compilations. Handle warnings...
+sass:
+  style: expanded
+  sass_dir: _sass
+  sourcemap: always
+  quiet_deps: true
+  verbose: false
+
+# The sitemap **must** be enabled. It's published as /baseurl/sitemap.xml
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
+
+# Theme settings
+theme: just-the-docs
+search_enabled: true
+heading_anchors: true
+permalink: pretty
+
+## Footer Content.
+# You should probably not change these, but may add to footer_content if necessary.
+# Replace `true` with any additional HTML that you would like to add.
+# Footer *must* included the accessibility text defined in footer_custom.html
+footer_content: true
+back_to_top: true
+back_to_top_text: "Back to Top"
+last_edit_timestamp: true
+last_edit_time_format: '%m %d, %Y at %H:%M'
+
+# Compilation settings used by compress-html plugin:
+# https://github.com/penibelst/jekyll-compress-html/tree/v3.2.0?tab=readme-ov-file
 compress_html:
   clippings: all
   comments: all
@@ -95,9 +157,33 @@ compress_html:
   blanklines: false
   profile: false
 
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
+# Native Jeykll build options
+# You likely shouldn't need to touch these, but they are documented here just in case.
+# https://jekyllrb.com/docs/configuration/options/
 
-just_the_docs:
-  collections:
+# This makes it easier when pushing to a static directory.
+# The default false removes files in that directory, which is useful for when you unpublish pages.
+# keep_files: false
+
+# Likely not necessary, but a google default for Berkeley
+timezone: America/Los_Angeles
+
+# Note: dotfiles are excluded by default. .htaccess is included as a common case.
+include:
+  - LICENSE
+  - .htaccess
+  - robots.txt
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - README.md
+  - CONTRIBUTING.md
+  - tmp/
+  - spec/
+  - docs/
+  - node_modules/

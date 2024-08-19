@@ -3,24 +3,27 @@ layout: home
 title: Home
 nav_exclude: false
 nav_order: 1
+permalink: /
+seo:
+  type: Course
+  name: CS10 - The Beauty and Joy of Computing
 ---
+
+
 # **CS 10: The Beauty and Joy of Computing**
 {: .mb-2 }
-UC Berkeley, Summer 2024
+UC Berkeley, Fall 2023
 {: .mb-2 .fs-6 .text-grey-dk-100 }
 
 {{ site.description }}
 {: .mb-2 .fs-5 }
 
-**Instructors:** Victoria Phelps & Andrew Rothman<br/>
-**Victoria's OH:** Monday from 6-8PM, Wednesday from 6-7PM<br/>
-**Andrew's OH:** Tuesday, Thursday from 4-5PM in Soda-777<br/>
-**Lectures:** Monday through Thursday from 10-11AM in Physics North Building, Room 3<br/>
-**OH Queue:** <a href="https://oh.cs10.org/"> oh.cs10.org</a><br/>
-**Midterm Cheatsheet:** <a href="https://docs.google.com/document/d/1_VL-eUljVhNZc845Ciz6wOM5LipNzx8QX_w5PZvanlg/edit"> Midterm Cheatsheet</a>
+**Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a><br/>
+**Instructor's OH:** Friday 1-2PM in Soda-777<br/>
+**Lectures:** Monday, Wednesday 1-2PM in Evans-10<br/>
+**OH Queue:** <a href="https://oh.cs10.org/"> oh.cs10.org</a>
 {: .fs-4 }
 
-<br/>
 
 {% include youtube.html id='oG1OItm4JyU' %}
 
