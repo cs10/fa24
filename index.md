@@ -9,7 +9,6 @@ seo:
   name: CS10 - The Beauty and Joy of Computing
 ---
 
-
 # **CS 10: The Beauty and Joy of Computing**
 {: .mb-2 }
 UC Berkeley, Fall 2023
