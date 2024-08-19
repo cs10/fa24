@@ -5,6 +5,7 @@ author: Victoria Phelps
 baseurl: fa24 # the subpath of your site, e.g. /blog
 url: https://cs10.org/
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+theme: just-the-docs 
 
 
 logo: "./assets/images/bjc.png"
