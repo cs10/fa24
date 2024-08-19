@@ -2,8 +2,6 @@
 
 source 'https://rubygems.org'
 
-gem "bootstrap", "~> 5.2"
-
 gem 'jekyll', '~> 4'
 
 gem 'faraday-retry', '~> 2.2'
@@ -15,10 +13,6 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'just-the-docs'
 end
-
-source 'https://rubygems.org'
-gem 'github-pages', group: :jekyll_plugins
-
 
 group :development, :test do
   gem 'axe-core-capybara'
