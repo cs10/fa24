@@ -3,7 +3,6 @@
 source 'https://rubygems.org'
 
 gem "bootstrap", "~> 5.2"
-gem "webrick", "~> 1.7"
 
 gem 'jekyll', '~> 4'
 
