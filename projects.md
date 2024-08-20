@@ -9,17 +9,6 @@ nav_order: 4
 
 > This page will be updated with CS10's project specifications (specs) and walkthroughs. Recordings, if avaiable, will also be updated here. 
 
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-  }
-  th, td {
-    text-align: center;
-    padding: 8px;
-  }
-</style>
-
 <table>
   <thead>
     <tr>
