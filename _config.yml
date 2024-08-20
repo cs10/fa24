@@ -139,7 +139,7 @@ plugins:
 
 # Theme settings
 
-remote_theme: pmarsceill/just-the-docs@v0.8.2
+remote_theme: just-the-docs
 search_enabled: true
 heading_anchors: true
 permalink: pretty
