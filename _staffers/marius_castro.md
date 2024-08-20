@@ -1,6 +1,6 @@
 ---
 name: Marius Castro
-role: TA
+role: Teaching Assistant
 email: mariuscastro@berkeley.edu
 website:
 photo: marius_castro.jpeg

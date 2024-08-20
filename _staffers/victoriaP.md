@@ -1,6 +1,6 @@
 ---
 name: Victoria Phelps
-role: Instructor
+role: Head Teaching Assistant
 email: jedi_force@berkeley.edu
 website: https://linkedin.com/in/victoria-phelps-a57a9476/
 photo: victoria.png
