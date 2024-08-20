@@ -92,4 +92,4 @@ Note: correct, working code should handle those test cases, but not have the tes
 | (update score based on matched slots: [] and score: ())   | Z   |
 
 ## Feedback Form 
-Congratulations on finish your first project in CS10🥳. Please spend some time completing this [feedback form](link.com). This will be worth 1 point of your project grade. Thank you!
+Congratulations on finishing your first project in CS10🥳. Please spend some time completing this [feedback form](link.com). This will be worth 1 point of your project grade. 
