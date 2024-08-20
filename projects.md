@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Discussion
-description: A list of all discussion worksheets and Solutions.
-nav_order: 4
+title: Projects
+description: A list of all Project specifications and walkthroughs
+nav_order: 5
 ---
 
 # Projects
