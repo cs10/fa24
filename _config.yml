@@ -49,9 +49,14 @@ aux_links:
   Ed:
     - 'https://edstem.org'
   OH Queue:
-    - 'https://oh.c88c.org'
-  Berkeley Class Site on GitHub:
-    - 'https://github.com/berkeley-eecs/berkeley-class-site'
+    - 'https://oh.cs10.org'
+  Snap!:
+    - 'snap.berkeley.edu/run'
+  iClicker:
+    - 'https://student.iclicker.com/#/login'
+  Gradescope:
+    - ''
+
 
 
 # Collections for website data
