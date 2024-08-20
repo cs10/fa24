@@ -123,7 +123,6 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td><a href="https://docs.google.com/document/d/1e-5gG4YNemPciwf3G5gtU2D7CoTRP-o9/edit?usp=drive_link&ouid=100628398912857125629&rtpof=true&sd=true">Solutions</a><br/></td>
       <td>Slides</td>
     </tr>
-     <tr>
   </tbody>
 </table>
 
