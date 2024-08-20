@@ -60,5 +60,6 @@ nav_order: 5
       <td>-</td>
       <td>December</td>
       <td>TBD</td>
+    </tr>
   </tbody>
 </table> 
