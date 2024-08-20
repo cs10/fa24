@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome!
-nav_exclude: true
+nav_exclude: false
 permalink: /
 seo:
   type: Course
