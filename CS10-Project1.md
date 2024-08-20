@@ -77,7 +77,7 @@ Given two inputs, a guess and a secret code, the matching slots block should rep
 
 Finally, you’ll build a reporter block (aka the “update score” block) that will take the result of the matched slots and the old score and report an updated score based on the old score minus 10 (cost for a guess) plus the number of slots that matched (were not “-”). Here are some examples to make this clear:
 
-![Testcases for Part 3 Block](/fa24/assets/images/P1-Part3Tests)
+![Testcases for Part 3 Block](/assets/images/P1-Part3Tests.png)
 
 
 ## Rubric 
