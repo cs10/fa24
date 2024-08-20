@@ -139,6 +139,7 @@ plugins:
 
 # Theme settings
 theme: just-the-docs
+remote_theme: just-the-docs
 search_enabled: true
 heading_anchors: true
 permalink: pretty
