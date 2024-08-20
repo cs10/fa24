@@ -6,6 +6,7 @@ permalink: /
 seo:
   type: Course
   name: CS10 The Beauty and Joy of Computing
+nav_order: 1
 ---
 
 
