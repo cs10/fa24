@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome!
+title: Home
 nav_exclude: false
 permalink: /
 seo:
