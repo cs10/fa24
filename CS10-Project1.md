@@ -52,7 +52,7 @@ Here is an example of the game being played (make sure to resize HISTORY to see 
 `Player 2: love`  
 `Program: “love” is correct, great job! Final score: 85/100`
 
-![Example of Wordlite testcase described above, with person infront of Wheeler hall](/assets/images/wordlelite.png)
+![Example of Wordlite testcase described above, with person infront of Wheeler hall](/fa24/assets/images/wordlelite.png)
 
 Some notes – nothing in our code prevents either Player 1 or Player 2 from typing a gibberish word. We would hope Player 1 doesn’t do that, since the game is almost impossible if the secret word is a set of random letters. However, one strategy that Player 2 might employ (and this game allows it, making it easier than the actual Wordle™ game) is to type a word (say) of all e’s to see where the e’s are in the word. Also, the guesses Player 2 enters aren’t checked to see if they’re the same length as the secret word. When the guessed word is longer, we only look at the first N slots of the guess (where N is the length of the secret word). When the guessed word is shorter, it just shows the letters that weren’t guessed as missed “-” letters.
 
@@ -62,7 +62,7 @@ If you’re having trouble, please contact the course staff for assistance — E
 
 First, you’ll build a **predicate block** (aka the “game over” block) that will know when the game is over. This should report *True* if the guess equals the secret or if the score is not positive, and *False* otherwise. Here are some examples:
 
-![Testcases for Part 1 Block](/assets/images/P1-Part1Tests)
+![Testcases for Part 1 Block](/fa24/assets/images/P1-Part1Tests)
 
 ## **Part 2:** (matching "green" slots between guess: [ ] and secret: []) Block 
 
@@ -70,14 +70,14 @@ Next, you’ll build a **reporter block** (aka the “matching slots” block) t
 
 Given two inputs, a guess and a secret code, the matching slots block should report a word of letters or dashes to indicate the matching slots between guess and secret, the same length as secret, in which every matched letter is the letter itself, and any missed letter is a dash. Here are some examples to make this clear:
 
-![Testcases for Part 2 Block](/assets/images/P1-Part2Tests)
+![Testcases for Part 2 Block](/fa24/assets/images/P1-Part2Tests)
 
 ## **Part 3:** (update score based on matched slots: [] and score: ()) Block
 
 
 Finally, you’ll build a reporter block (aka the “update score” block) that will take the result of the matched slots and the old score and report an updated score based on the old score minus 10 (cost for a guess) plus the number of slots that matched (were not “-”). Here are some examples to make this clear:
 
-![Testcases for Part 3 Block](/assets/images/P1-Part3Tests)
+![Testcases for Part 3 Block](/fa24/assets/images/P1-Part3Tests)
 
 
 ## Rubric 
