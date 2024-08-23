@@ -5,6 +5,8 @@ description: >-
     Lab worksheets, links, and deadlines
 nav_order: 8
 ---
+# Labs
+
 All labs have a conceptual and a coding component except for the following labs: XXX. All labs assignments must be uploaded and autograded using Gradescope; the Gradescope link can be found on the worksheet. 
 
 The worksheets is a high-level overview and set of instructions for lab. It lists all the required blocks for a particular lab. The worksheets also contain some of the test cases used to grade the lab.

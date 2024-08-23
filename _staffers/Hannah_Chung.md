@@ -1,7 +1,7 @@
 ---
 name: Hannah Chung
 role: Tutor
-email: hchung72@
+email: hchung72@berkeley.edu
 website: 
 photo: hannah_chung.jpg
 ---

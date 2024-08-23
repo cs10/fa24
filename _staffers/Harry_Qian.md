@@ -1,7 +1,7 @@
 ---
 name: Harry Qian
 role: Tutor
-email: harry.qian26@
+email: harry.qian26@berkeley.edu
 website:
 photo: Harry_Qian.JPG
 ---
