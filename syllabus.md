@@ -139,8 +139,12 @@ To be determined.
 
 ## Exams
 
-here will be three take-home, untimed, online, open-note exams (Quest, Midterm, and Postterm):<br /><br /><b>Quest</b>: TBD<br />
-<br /><b>Midterm</b>: TBD.<br /><b>Postterm</b>: RRR and finals week. Specific dates and more logistics for the exams will be released closer to the exam date. The best way to prepare is to utilize the practice exams posted under `resources` and the practice exams we'll release on PrairieLearn.
+There will be three take-home, untimed, online, open-note exams (Quest, Midterm, and Postterm):
+- Quest
+- Midterm
+- Postterm
+
+Specific dates and more logistics for the exams will be released closer to the exam date. The best way to prepare is to utilize the practice exams posted under `resources` and the practice exams we'll release on PrairieLearn.
 
 ## Exam Clobber Policy
 If your percentage score on a latter exam is higher than your percentage score on a prior exam, then we'll replace your percentage score on the prior exam with the percentage score on the latter exam. The clobber can never hurt your grade: if you score lower, no replacement will be done.
