@@ -9,10 +9,13 @@
         border: 1px solid #A9A9A9; /* Darker border for all rows and columns */
         padding: 8px;
     }
-    .schedule-table tbody tr:nth-child(even) {
+    /* Fix for alternating row colors - tbody for each table must match */
+    #week1 tbody tr:nth-child(even), 
+    #week2 tbody tr:nth-child(even) {
         background-color: #f2f2f2; /* Gray background for even rows */
     }
-    .schedule-table tbody tr:nth-child(odd) {
+    #week1 tbody tr:nth-child(odd), 
+    #week2 tbody tr:nth-child(odd) {
         background-color: #ffffff; /* White background for odd rows */
     }
     .schedule-week-num {
