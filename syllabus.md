@@ -40,8 +40,8 @@ This semester, CS10 will run fully in-person. Consequently, remote (or hybrid) s
 * **Edstem**: This will be our main Q&A platform, where you can ask (and answer) questions, see announcements, and read Weekly Blasts, which are required readings in CS10. Click the `Ed Discussion` tab on the left to navigate to Edstem. Here is the link to the [EdStem](https://edstem.org/us/courses/63916/discussion/)
 * **Gradescope**: This is where you will submit Projects 1-4, and the Final Project. Click the `Gradescope` tab on the left to open Edstem. Submission instructions can be found at the following: [Gradescope](https://www.gradescope.com/courses/831412).
 * **Bcourses**: Lecture recordings can be found on [the Bcourses site](https://bcourses.berkeley.edu/courses/1538116/external_tools/90481), generally within 48h of lecture. You will have to be logged into your Berkeley email to access the recordings. The recordings are under the "Media Gallery" tab in Bcourses.
-* **PrairieLearn**: Project-5, Pyturis, will be submitted via PrairieLearn. A setup guide can be found [here]().
 * **IClicker**: You are required to [create a free iClicker account](https://mhe.my.site.com/iclicker/s/article/How-Students-Create-an-iClicker-Account-Through-a-Campus-Portal) and download the free iClicker app. Then, you should signup with your Berkeley email. To get credit for attending lecture, please open the app once you're seated in the lecture hall and mark your attendance. If for some reason you are not enrolled, use this [join iClicker link](https://join.iclicker.com/BKKC).
+* **PrairieLearn**: Project-5, Pyturis, will be submitted via PrairieLearn. This is also the platform you will use to take exams.
 
 
 ## Primary Course Components
@@ -67,9 +67,7 @@ Lab X will be due the day that Lab X+1 is scheduled, at midnight. That is, each 
 
 <b>Attendance to lab sections are required and part of your grade.</b> You can miss up to 3 lab sections without penalty so you do not need to inform us when you cannot attend lab. If there are extenuating circumstances which cause you to miss more than 5 lab sections (like prolonged sickness, family emergencies, etc.) then you should visit Support OH. Please note, the 3 "skip days" for lab sections only applies to attendance. You are still required to complete and submit the lab assignment. Lab attendance will be tracked through a Google form. 
 
-If you cannot attend a lab section, then the lab will be due before the start of the next lab. So if you either cannot reguarly attend lab, or if you miss a day, the lab will be due earlier. For example, if Lab X is due on Monday at 11:59PM, but you did not attend lab in-person. Then, you the deadline for you to submit Lab X is Monday at 5PM (the time before the first lab section).
-
-Lab submission instructions can be found here: [Lab Submission Instructions](https://docs.google.com/document/d/1vxyKrzmPNklv7zd1Ya0Z95jlFgaWlUgqBy0l0CtowZk/edit?usp=sharing).
+If you cannot attend a lab section, then the lab will be due before the start of the next lab. So if you either cannot reguarly attend lab, or if you miss a day, the lab will be due earlier. For example, if Lab X is due on Monday at 11:59PM, but you did not attend lab in-person; then, the deadline for you to submit Lab X is Monday at 5PM (the time before the first lab section).
 
 
 ### Discussion Sections
@@ -111,7 +109,6 @@ These are short weekly reading assignments that are submitted to Gradescope. We 
 
 These assignments will be one of the best ways for you to apply what you have learned in lecture, lab, and discussion. These will be a bit more time intensive than the other assignments and will require you to be caught up on the other components of the course.
 
-Project submission instructions can be found here: [Project Submission Instructions](https://docs.google.com/document/d/1vxyKrzmPNklv7zd1Ya0Z95jlFgaWlUgqBy0l0CtowZk/edit?usp=sharing).
 
 - There will be 3 Snap<em>!</em> projects, 1 Python project, 1 research-based project, and 1 project wherein you can use a language of your choice to build something of your choice. The number of points per project is listed in the Grading Breakdown. Project specs will be released on the website and on Edstem, and you should always read them before starting to work on a project.
 
@@ -136,16 +133,12 @@ Project submission instructions can be found here: [Project Submission Instructi
 
 | Week             | Date     | Time     |  Location  |
 | :----:           | :----:   | :----:   |  :----:    | 
-| Week-1           | TBD | TBD |  TBD   |
-| Week-2           | TBD | TBD |  TBD   |
-| Week-4           | TBD | TBD |  TBD   |
-| Week-7           | TBD | TBD |  TBD   |
-| Week-8           | TBD | TBD |  TBD   |
+To be determined.
 
 ## Exams
 
-here will be three take-home, untimed, online, open-note exams (Quest, Midterm, and Postterm):<br /><br /><b>Quest</b>: Week-4<br />
-<br /><b>Midterm</b>: Week-8.<br /><b>Postterm</b>: RRR and finals week. Specific dates and more logistics for the exams will be released closer to the exam date. The best way to prepare is to utilize the practice exams posted under `resources` and the practice exams we'll release on PrairieLearn.
+here will be three take-home, untimed, online, open-note exams (Quest, Midterm, and Postterm):<br /><br /><b>Quest</b>: TBD<br />
+<br /><b>Midterm</b>: TBD.<br /><b>Postterm</b>: RRR and finals week. Specific dates and more logistics for the exams will be released closer to the exam date. The best way to prepare is to utilize the practice exams posted under `resources` and the practice exams we'll release on PrairieLearn.
 
 ## Exam Clobber Policy
 If your percentage score on a latter exam is higher than your percentage score on a prior exam, then we'll replace your percentage score on the prior exam with the percentage score on the latter exam. The clobber can never hurt your grade: if you score lower, no replacement will be done.
