@@ -30,6 +30,6 @@ UC Berkeley, Fall 2024
 
 ## CS10 Calendar
 
-{% include_relative calendar.md %}
+{% include_relative schedule.md %}
 
 
