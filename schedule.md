@@ -9,7 +9,7 @@
       <th>Assignment</th>
     </tr>
   </thead>
-  <tbody class="content">
+  <tbody class="content" bordercolor="#ff00ff" text-align: center;>
     <tr>
         <td rowspan=5>Week 1</td> <!-- Week Number -->
         <!-- WEEK ONE------------------------------------------------------------ -->
@@ -49,7 +49,6 @@
         <td></td> <!-- Lab -->
         <td></td> <!-- Assignment -->
     </tr>
-</tbody>
 </table>
 
 <br/>
@@ -100,5 +99,4 @@
         <td></td> <!-- Lab -->
         <td></td> <!-- Assignment -->
     </tr>
-</tbody>
 </table>
