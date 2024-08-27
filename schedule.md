@@ -9,11 +9,10 @@
         border: 1px solid #A9A9A9; /* Darker border for all rows and columns */
         padding: 8px;
     }
-    /* Apply alternating row colors properly, excluding the rowspans */
-    .schedule-table tbody tr:nth-child(even) {
+    .schedule-table tbody tr:nth-child(even) td {
         background-color: #f2f2f2; /* Gray background for even rows */
     }
-    .schedule-table tbody tr:nth-child(odd) {
+    .schedule-table tbody tr:nth-child(odd) td {
         background-color: #ffffff; /* White background for odd rows */
     }
     .schedule-week-num {
@@ -41,7 +40,6 @@
   <tbody class="content">
     <tr>
         <td class="schedule-week-num" rowspan=5>Week 1</td> <!-- Week Number -->
-        <!-- WEEK ONE------------------------------------------------------------ -->
         <th>Mon 8/26</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
@@ -104,7 +102,6 @@
   <tbody class="content">
     <tr>
         <td class="schedule-week-num" rowspan=5>Week 2</td> <!-- Week Number -->
-        <!-- WEEK TWO------------------------------------------------------------ -->
         <th>Mon 9/2</th> <!-- Date -->
         <td colspan="4">NO CLASS (Holiday)</td><!-- Lecture -->
     </tr>
