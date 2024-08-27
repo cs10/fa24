@@ -49,18 +49,19 @@
         <td></td> <!-- Lab -->
         <td></td> <!-- Assignment -->
     </tr>
-    </tbody>
-</table>
+
+
+<br/>
 
 <table class="table table-bordered schedule-table">
   <thead>
     <tr>
-      <th class="center schedule-week-num">Week</th>
-      <th>Date</th>
-      <th>Lecture</th>
-      <th>Lab</th>
-      <th>Discussion</th>
-      <th>Assignment</th>
+        <th class="center schedule-week-num">Week</th>
+        <th>Date</th>
+        <th>Lecture</th>
+        <th>Lab</th>
+        <th>Discussion</th>
+        <th>Assignment</th>
     </tr>
   </thead>
   <tbody class="content">
@@ -98,5 +99,3 @@
         <td></td> <!-- Lab -->
         <td></td> <!-- Assignment -->
     </tr>
-    </tbody>
-</table>

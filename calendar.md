@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Schedule
-description: The weekly event schedule.
+layout: default
+title: Calendar
+description: The weekly event calendar.
 nav_order: 2
 ---
 
