@@ -20,7 +20,7 @@ UC Berkeley, Fall 2024
 
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a><br/>
 **Instructor's OH:** TBD<br/>
-**Lectures:** TBD<br/>
+**Lectures:**  Monday, Wednesday 1-2 PM @ Hearst Field Annex, Room A1<br/>
 **OH Queue:** <a href="https://oh.cs10.org/"> oh.cs10.org</a>
 
 <br/>
