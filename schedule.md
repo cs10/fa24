@@ -27,7 +27,7 @@
 </p>
 
 <!-- Week 1 Calendar -->
-<table class="table table-bordered schedule-table" id="week1" bordercolor="##000000" text-align="center">
+<table class="table table-bordered schedule-table" id="week1">
   <thead>
     <tr>
       <th class="center schedule-week-num">Week</th>
