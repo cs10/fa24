@@ -1,4 +1,4 @@
-<table class="table table-bordered schedule-table">
+<table class="table table-bordered schedule-table" bordercolor="#ff00ff" text-align: center;>
   <thead>
     <tr>
       <th class="center schedule-week-num">Week</th>
@@ -49,7 +49,7 @@
         <td></td> <!-- Lab -->
         <td></td> <!-- Assignment -->
     </tr>
-
+</table>
 
 <br/>
 
@@ -99,3 +99,4 @@
         <td></td> <!-- Lab -->
         <td></td> <!-- Assignment -->
     </tr>
+</table>
