@@ -6,7 +6,7 @@
         text-align: center;
     }
     .schedule-table th, .schedule-table td {
-        border: 2px solid #000; /* Darker border for all rows and columns */
+        border: 2px solid #A9A9A9; /* Darker border for all rows and columns */
         padding: 8px;
     }
     .schedule-table tbody tr:nth-child(even) {
@@ -112,7 +112,7 @@
         <th>Tue 9/3</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
-        <td></td> <!-- Discussion -->
+        <td rowspan="5"><a href="">Disc 1. Welcome to Snap!</a></td> <!-- Discussion -->
         <td><a href="">Proj 1: Worldle Released</a><br/><b>Due (9/10)</b></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -130,7 +130,7 @@
         <th>Thu 9/5</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
-        <td rowspan="5"><a href="">Disc 1. Boolean Operators and Truth Tables </a></td> <!-- Discussion -->
+        <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment -->
     </tr>
     <tr>
