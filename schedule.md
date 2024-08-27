@@ -49,6 +49,7 @@
         <td></td> <!-- Lab -->
         <td></td> <!-- Assignment -->
     </tr>
+</tbody>
 </table>
 
 <br/>
@@ -99,4 +100,5 @@
         <td></td> <!-- Lab -->
         <td></td> <!-- Assignment -->
     </tr>
+</tbody>
 </table>
