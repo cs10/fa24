@@ -133,7 +133,8 @@ These assignments will be one of the best ways for you to apply what you have le
 
 | Week             | Date     | Time     |  Location  |
 | :----:           | :----:   | :----:   |  :----:    | 
-| TBD               | TBD     | TBD      |  TBD       |
+| TBD              | TBD      | TBD      |  TBD       |
+
 To be determined.
 
 ## Exams
