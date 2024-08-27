@@ -17,13 +17,13 @@
     }
     .schedule-week-num {
         background-color: #ddd; /* Background color for week number column */
-        font-weight: bold;
+        
     }
 </style>
 
 <!-- Add a jump-to button to navigate to the current week -->
 <p>
-    <a href="#week2">Jump to Current Week</a>
+    <a href="#week1">Jump to Current Week</a>
 </p>
 
 <!-- Week 1 Calendar -->
@@ -45,7 +45,7 @@
         <th>Mon 8/26</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
-        <td></td> <!-- Discussion -->
+        <td rowspan="5"><a href="">Disc 1. Welcome to Snap!</a></td> <!-- Discussion -->
         <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -67,21 +67,18 @@
         <a href="">(Lecture Quiz 2)</a>
         </td> <!-- Lecture -->
         <td><a href="https://docs.google.com/document/d/1A-e8t_ow2SamdUqJC9tfT11-ZaCn351NW3CpD-KvxN8/edit?usp=sharing">Lab 1. Welcome to Snap!</a></td> <!-- Lab -->
-        <td></td> <!-- Discussion -->
         <td></td> <!-- Assignments -->
     </tr>
     <tr>
         <th>Thu 8/29</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
-        <td rowspan="5"><a href="">Disc 1. Boolean Operators and Truth Tables </a></td> <!-- Discussion -->
         <td></td> <!-- Assignment -->
     </tr>
     <tr>
         <th>Fri 8/30</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
-        <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment -->
     </tr>
   </tbody>
@@ -112,8 +109,8 @@
         <th>Tue 9/3</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
-        <td rowspan="5"><a href="">Disc 1. Welcome to Snap!</a></td> <!-- Discussion -->
-        <td><a href="">Proj 1: Worldle Released</a><br/><b>Due (9/10)</b></td> <!-- Assignment -->
+        <td rowspan="4"><a href="">Disc 2. Number Rep + Control Structures</a></td> <!-- Discussion -->
+        <td rowspan="4"><a href="">Proj 1: Worldle Released</a><br/><b>Due (9/10)</b></td> <!-- Assignment -->
     </tr>
     <tr>
         <th>Wed 9/4 </th> <!-- Date -->
@@ -123,22 +120,17 @@
         <a href="">(Lecture Quiz 3)</a>
         </td> <!-- Lecture -->
         <td><a href="">Lab 2. Build Your Own Blocks</a></td> <!-- Lab -->
-        <td></td> <!-- Discussion -->
         <td></td> <!-- Assignments -->
     </tr>
     <tr>
         <th>Thu 9/5</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
-        <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignment -->
     </tr>
     <tr>
         <th>Fri 9/6</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
-        <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignment -->
     </tr>
   </tbody>
 </table>
