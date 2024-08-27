@@ -1,4 +1,4 @@
-<table class="table table-bordered schedule-table" bordercolor="#ff00ff" text-align: center;>
+<table class="table table-bordered schedule-table" bordercolor="#ff00ff" text-align="center">
   <thead>
     <tr>
       <th class="center schedule-week-num">Week</th>
