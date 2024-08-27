@@ -12,11 +12,17 @@
     .schedule-table tbody tr:nth-child(even) td {
         background-color: #f2f2f2; /* Gray background for even rows */
     }
+    .schedule-table tbody tr:nth-child(even) th {
+        background-color: #f2f2f2; /* Gray background for even rows */
+    }
     .schedule-table tbody tr:nth-child(odd) td {
         background-color: #ffffff; /* White background for odd rows */
     }
+    .schedule-table tbody tr:nth-child(odd) th {
+        background-color: #ffffff; /* White background for odd rows */
+    }
     .schedule-week-num {
-        background-color: #ddd; /* Background color for week number column */
+        background-color: #ffffff; /* Background color for week number column */
     }
 </style>
 
