@@ -8,8 +8,6 @@ seo:
   name: CS10 The Beauty and Joy of Computing
 nav_order: 1
 ---
-## WEBSITE UNDER CONSTRUCTION
-### To be updated soon
 
 # **CS 10: The Beauty and Joy of Computing**
 UC Berkeley, Fall 2024
