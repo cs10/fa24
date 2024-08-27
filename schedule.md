@@ -16,6 +16,7 @@
         <th>Mon 8/26</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment -->
     <tr>
         <th>Tue 8/27</th> <!-- Date -->
@@ -25,6 +26,7 @@
         <a href="https://www.gradescope.com/courses/831412/assignments/4825047">(Lecture Quiz 1)</a>
         </td><!-- Lecture -->
         <td></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
         <td><a href="https://forms.gle/yzbXZa6y8No9jS9t9">Presemester Survey Released</a><br/> <b>Due (08/30)</b></td> <!-- Assignment -->
     <tr>
         <th>Wed 8/28 </th> <!-- Date -->
@@ -33,6 +35,7 @@
         <a href="">(Slides 2)</a><br/>
         <a href="">(Lecture Quiz 2)</a>
         </td> <!-- Lecture -->
+        <td></td> <!-- Discussion -->
         <td><a href="https://docs.google.com/document/d/1A-e8t_ow2SamdUqJC9tfT11-ZaCn351NW3CpD-KvxN8/edit?usp=sharing">Lab 1. Welcome to Snap!</a></td> <!-- Lab -->
         <td></td> <!-- Assignments -->
     </tr>
@@ -47,6 +50,7 @@
         <th>Fri 8/30</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment -->
     </tr>
 </table>
@@ -70,11 +74,13 @@
         <th>Mon 9/2</th> <!-- Date -->
         <td>NO CLASS (Holiday)</td><!-- Lecture -->
         <td>NO CLASS (Holiday)</td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
         <td>NO CLASS (Holiday)</td> <!-- Assignment -->
     <tr>
         <th>Tue 9/3</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
         <td><a href="">Proj 1: Worldle Released</a><br/><b>Due (9/10)</b></td> <!-- Assignment -->
     <tr>
         <th>Wed 9/4 </th> <!-- Date -->
@@ -84,6 +90,7 @@
         <a href="">(Lecture Quiz 3)</a>
         </td> <!-- Lecture -->
         <td><a href="">Lab 2. Build Your Own Blocks</a></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
         <td></td> <!-- Assignments -->
     </tr>
     <tr>
@@ -97,6 +104,7 @@
         <th>Fri 9/6</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment -->
     </tr>
 </table>
