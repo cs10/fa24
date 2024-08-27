@@ -9,21 +9,6 @@
         border: 1px solid #A9A9A9; /* Darker border for all rows and columns */
         padding: 8px;
     }
-    .schedule-table tbody tr:nth-child(odd) td {
-        background-color: #f2f2f2; /* Gray background for odd rows */
-    }
-    .schedule-table tbody tr:nth-child(odd) th {
-        background-color: #f2f2f2; /* Gray background for odd date rows */
-    }
-    .schedule-table tbody tr:nth-child(even) td {
-        background-color: #ffffff; /* White background for even rows */
-    }
-    .schedule-table tbody tr:nth-child(even) th {
-        background-color: #ffffff; /* White background for even date rows */
-    }
-    .schedule-week-num {
-        background-color: #ffffff; /* Background color for week number column */
-    }
 </style>
 
 <!-- Add a jump-to button to navigate to the current week -->
