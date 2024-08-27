@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Discussion
 description: >-
     Discussion worksheets and solutions
