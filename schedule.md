@@ -6,7 +6,7 @@
         text-align: center;
     }
     .schedule-table th, .schedule-table td {
-        border: 2px solid #A9A9A9; /* Darker border for all rows and columns */
+        border: 1px solid #A9A9A9; /* Darker border for all rows and columns */
         padding: 8px;
     }
     .schedule-table tbody tr:nth-child(even) {
