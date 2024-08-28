@@ -6,7 +6,7 @@ nav_order: 8
 ---
 # Labs
 
-Lab Section: [Folder](https://drive.google.com/drive/folders/1CXRHvlQswGr2eT0zNPsMEdKhJJl6zIcf?usp=sharing) or can be accessed using https://tinyurl.com/cs10-labs
+Lab Slides: [Folder](https://drive.google.com/drive/folders/1CXRHvlQswGr2eT0zNPsMEdKhJJl6zIcf?usp=sharing) or can be accessed using [https://tinyurl.com/cs10-labs](https://tinyurl.com/cs10-labs)
 
 Labs are an opportunity for you to apply what you've learned in lecture in code (and other forms). All labs have a conceptual and a coding component. All labs assignments must be uploaded and autograded using Gradescope; the Gradescope link can be found on the worksheet. 
 
@@ -14,12 +14,12 @@ Labs are an opportunity for you to apply what you've learned in lecture in code 
 
 The worksheeks linked below are high-level overviews and can be seen as a set of instructions for lab. Each worksheet lists all the required blocks, functions, or tasks for a particular lab. The worksheets also contain some of the test cases used to grade the lab.
 
-The workbook, which differs from the worksheet, is used as a step-by-step guide to complete each lab.
+The workbook, which differs from the worksheet, is used as a step-by-step guide to complete each lab. Lab worksheets will be released at 5:00 PM on the lab day. 
 
 | Labs                                          |  Submission Deadline  |
 | :----:                                        |  :----:               |
-| [Lab 1: Welcome to Snap!]()                   | WED 9/04              |
-| [Lab 2: Build Your Own Blocks]()              | MON 9/09              |
+| Lab 1: Welcome to Snap!                   | WED 9/04              |
+| Lab 2: Build Your Own Block              | MON 9/09              |
 | Lab 3: Conditionals, Reporters, Testing   | WED 9/11        |
 | Lab 4. Lists + Loops                  | MON 9/16             |
 | Lab 5. Lists + HOFs                       | WED 9/18                |
