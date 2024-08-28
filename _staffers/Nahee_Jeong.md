@@ -5,4 +5,4 @@ email: naheejeong@berkeley.edu
 website: https://www.linkedin.com/in/naheejeong
 photo: Nahee_Jeong.png
 ---
-Hi guys! I’m Nahee, a rising sophomore intending to study computer science. I was an Academic Intern for CS10 last semester, and this is my first time becoming a tutor. Outside of school, I love watching horror movies, writing short stories, and building cute mobile apps. Looking forward to getting to know you all!
+Hi all! My name is Nahee, and I'm a sophomore intending to study computer science. I was an Academic Intern for CS10 in my freshman year and a tutor over the summer. I also served as one of the Co-Instructors for the BJC Summer Computer Science Academy. Besides CS, I love dressing up, writing short stories, and drinking Starbucks (my go-to order is iced Americano with a splash of oat milk plus two Splenda packets). Looking forward to meeting you all!
