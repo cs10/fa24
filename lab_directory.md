@@ -18,7 +18,7 @@ The workbook, which differs from the worksheet, is used as a step-by-step guide 
 
 | Labs                                          |  Submission Deadline  |
 | :----:                                        |  :----:               |
-| Lab 1: Welcome to Snap!                   | WED 9/04              |
+| [Lab 1: Welcome to Snap!](https://docs.google.com/document/d/1A-e8t_ow2SamdUqJC9tfT11-ZaCn351NW3CpD-KvxN8/edit?usp=sharing)                   | WED 9/04              |
 | Lab 2: Build Your Own Block              | MON 9/09              |
 | Lab 3: Conditionals, Reporters, Testing   | WED 9/11        |
 | Lab 4. Lists + Loops                  | MON 9/16             |
