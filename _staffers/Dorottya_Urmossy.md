@@ -2,6 +2,6 @@
 name: Dorottya Urmossy
 role: Teaching Assistant
 email: durmossy@ 
-photo: dorottya.jpg
+photo: dorottya_urmossy.jpg
 ---
-Hi! I’m a senior studying Computer Science and Mathematics. I took CS 10 in Fall’21 and was an AI in Spring’21. CS 10 was one of my favorite courses, so I hope everyone will have fun while taking it! In my free time I like reading (especially fantasy), sewing and traveling :)
+Hi! I’m a senior studying Computer Science with an emphasis on Computer Architecture and EE. I took CS 10 back in Fall’21 and was an AI and tutor in the follwing years. CS 10 was one of my favorite courses, so I hope everyone will have fun while taking it! In my free time I like reading, crocheting and traveling :)
