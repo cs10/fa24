@@ -18,10 +18,10 @@ The workbook, which differs from the worksheet, is used as a step-by-step guide 
 
 | Labs                                          |  Submission Deadline  |
 | :----:                                        |  :----:               |
-| [Lab 1: Welcome to Snap!]()                   | MON 9/02              |
-| [Lab 2: Build Your Own Blocks]()              | WED 9/04              |
-| [Lab 3: Conditionals, Reporters, Testing]()   | WED 9/11              |
-| Lab 4. Lists + Loops                  | MON 9/16              |
-| Lab 5. Lists + HOFs                       | WED 9/18              |
-| Lab 6. Algorithms                        | MON 9/30              |
-| Lab 7. Algorithmic Complexity             | MON 10/02             |
+| [Lab 1: Welcome to Snap!]()                   | WED 9/04              |
+| [Lab 2: Build Your Own Blocks]()              | MON 9/09              |
+| Lab 3: Conditionals, Reporters, Testing   | WED 9/11        |
+| Lab 4. Lists + Loops                  | MON 9/16             |
+| Lab 5. Lists + HOFs                       | WED 9/18                |
+| Lab 6. Algorithms                        | MON 9/23          |
+| Lab 7. Algorithmic Complexity             | WED 9/25       |
