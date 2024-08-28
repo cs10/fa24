@@ -1,7 +1,7 @@
 ---
-name: Stacey Yoo
+name: Stacey Yoo (she/her) 
 role: Head Teaching Assistant
-email: syoo3015@berkeley.edu
+email: syoo3015@ 
 photo: Stacey_Yoo.png
 access_email: true
 access_dsp: true
