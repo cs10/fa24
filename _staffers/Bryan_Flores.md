@@ -2,6 +2,7 @@
 name: Bryan Flores
 role: Tutor
 email: bflores09@
+pronouns: he/him
 website: https://www.linkedin.com/in/bryan-flores-561a1a241/
 photo: Bryan_Flores.png
 ---
