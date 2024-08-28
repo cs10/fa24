@@ -1,6 +1,6 @@
 ---
 name: Dorottya Urmossy
-role: TA
+role: Teacher Assistant
 email: durmossy@
 photo: dorottya.png
 ---
