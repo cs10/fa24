@@ -1,6 +1,6 @@
 ---
 name: Bryan Flores
-role: UCS1
+role: Tutor
 email: bflores09@
 website: https://www.linkedin.com/in/bryan-flores-561a1a241/
 photo: Bryan_Flores.png
