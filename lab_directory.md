@@ -6,6 +6,8 @@ nav_order: 8
 ---
 # Labs
 
+Lab Section: [Folder](https://drive.google.com/drive/folders/1CXRHvlQswGr2eT0zNPsMEdKhJJl6zIcf?usp=sharing) or can be accessed using https://tinyurl.com/cs10-labs
+
 Labs are an opportunity for you to apply what you've learned in lecture in code (and other forms). All labs have a conceptual and a coding component. All labs assignments must be uploaded and autograded using Gradescope; the Gradescope link can be found on the worksheet. 
 
 >  Any important updates or clarifications will be made here
