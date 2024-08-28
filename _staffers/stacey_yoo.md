@@ -1,8 +1,9 @@
 ---
-name: Stacey Yoo (she/her) 
+name: Stacey Yoo
 role: Head Teaching Assistant
 email: syoo3015@ 
 photo: Stacey_Yoo.png
+pronouns: she/her
 access_email: true
 access_dsp: true
 ---
