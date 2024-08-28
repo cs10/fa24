@@ -52,8 +52,8 @@
         <th>Wed 8/28</th> <!-- Date -->
         <td>Lec 2. Functions + Conditional Logic<br/>
         <a href="">(Recording 2)</a><br/>      
-        <a href="">(Slides 2)</a><br/>
-        <a href="">(Lecture Quiz 2)</a>
+        <a href="https://docs.google.com/presentation/d/1GxnXco4qp9f0g5LQDmtR2noP5sheKB6VA2O51Re9gyo/edit?usp=sharing">(Slides 2)</a><br/>
+        <a href="https://www.gradescope.com/courses/831412/assignments/4833036">(Lecture Quiz 2)</a>
         </td> <!-- Lecture -->
         <td><a href="https://docs.google.com/document/d/1A-e8t_ow2SamdUqJC9tfT11-ZaCn351NW3CpD-KvxN8/edit?usp=sharing">Lab 1. Welcome to Snap!</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
