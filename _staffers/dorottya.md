@@ -1,6 +1,6 @@
 ---
-name: Dorottya 
-role: Tutor
+name: Dorottya Urmossy
+role: TA
 email: durmossy@
 photo: dorottya.png
 ---
