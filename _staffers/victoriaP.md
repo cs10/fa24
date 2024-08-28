@@ -1,7 +1,7 @@
 ---
 name: Victoria Phelps
 role: Head Teaching Assistant
-email: jedi_force@berkeley.edu
+email: jedi_force@
 website: https://linkedin.com/in/victoria-phelps-a57a9476/
 photo: victoria.png
 pronouns: she/her
