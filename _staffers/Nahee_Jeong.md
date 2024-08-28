@@ -1,7 +1,8 @@
 ---
 name: Nahee Jeong
 role: Tutor
-email: naheejeong@berkeley.edu
+email: naheejeong@ 
+pronouns: she/her
 website: https://www.linkedin.com/in/naheejeong
 photo: Nahee_Jeong.png
 ---
