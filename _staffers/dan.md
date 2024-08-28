@@ -1,8 +1,9 @@
 ---
-name: Teaching Professor Dan Garcia (he/him/his)
+name: Teaching Professor Dan Garcia
 role: Instructor
 email: ddgarcia@
 website: https://people.eecs.berkeley.edu/~ddgarcia/
+pronouns: he/him/his
 photo: dan.jpg
 ---
 **Office Hours: TBD in SODA-777**
