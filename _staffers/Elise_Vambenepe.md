@@ -1,7 +1,8 @@
 ---
 name: Elise Vambenepe
 role: Tutor
-email: elisevbp@berkeley.edu
+email: elisevbp@
+pronouns: she/her
 website: https://www.linkedin.com/in/elisevbp
 photo: Elise_Vambenepe.JPG
 ---
