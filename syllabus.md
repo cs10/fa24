@@ -117,7 +117,7 @@ These assignments will be one of the best ways for you to apply what you have le
 
 | Project                                       |  Submission Deadline     |
 | :----:                                        |  :----:                  |
-| Project 1: Wordle™-lite                       | Tues 9/11  |
+| Project 1: Wordle™-lite                       | Tues 9/10  |
 | Project 2: Spelling-Bee                       | TBD   |
 | Project 3: 2048                               | TBD   |
 | Project 4: Explore Post                       | TBD   |
