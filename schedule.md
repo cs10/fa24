@@ -63,7 +63,7 @@
         <th>Thu 8/29</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
-        <td><a href="">Disc 1. Welcome to Snap!</a></td> <!-- Discussion -->
+        <td><a href="https://drive.google.com/file/d/1kVcfONoJPqA5Iqv8cbxsu6_quSanSOxh/view?usp=drive_link">Disc 1. Welcome to Snap!</a></td> <!-- Discussion -->
         <td></td> <!-- Assignment -->
     </tr>
     <tr>

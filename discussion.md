@@ -34,92 +34,92 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Discussion 1</td>
       <td>Welcome to Snap<em>!</em></td>
-      <td><a href="https://docs.google.com/document/d/1Xp6E44WgCA06agDyrZGJ2Bmwn57j1DQk/edit?usp=sharing&ouid=113310664124216515894&rtpof=true&sd=true"> Worksheet</a></td>
+      <td><a href="https://drive.google.com/file/d/1kVcfONoJPqA5Iqv8cbxsu6_quSanSOxh/view?usp=drive_link"> Worksheet</a></td>
       <td><a href="">Solutions</a></td>
-      <td><a href="https://docs.google.com/presentation/d/1SE-XulujMVlRd3e2TcAqcYBDgUWRxbdXD_y0g7fRE5M/edit?usp=sharing"> Slides</a></td>
+      <td><a href=""> Slides</a></td>
     </tr> 
     <tr>
       <td>Discussion 2</td>
       <td>Boolean Operators and Truth Tables</td>
-      <td><a href="https://docs.google.com/document/d/1f7Mbk-OfVnlfZTIgcjlwg0djsm4xlCq_/edit?usp=sharing&ouid=113310664124216515894&rtpof=true&sd=true"> Worksheet</a></td>
+      <td><a href=""> Worksheet</a></td>
       <td><a href="">Solutions</a></td>
-      <td><a href="https://drive.google.com/file/d/1F14TiqGswqsUa5ucK-ogUoxBqCw6NQ0h/view?usp=sharing">Annotated Solution</a></td>
+      <td><a href="">Annotated Solution</a></td>
     </tr>
      <tr>
       <td>Discussion 3</td>
       <td>Data-types, Domain / Range, Scoping, Lists</td>
-      <td><a href="https://docs.google.com/document/d/1GoikxRX6ndwrOQtC5Sg7Zflx9Uc2bbYP/edit?usp=sharing&ouid=100628398912857125629&rtpof=true&sd=true"> Worksheet</a></td>
-      <td><a href="https://docs.google.com/document/d/1C1ntsHTSTBpPi6spHMQni39PTyNAnhkgjyciQGa5DCo/edit?usp=sharing"> Solutions</a>
+      <td><a href=""> Worksheet</a></td>
+      <td><a href=""> Solutions</a>
 </td>
-      <td><a href="https://drive.google.com/file/d/1A2oRgUqzwXJY1c2im4q2HzXOQLVF4xk_/view?usp=sharing"> Slides</a></td>
+      <td><a href=""> Slides</a></td>
     </tr>
     <tr>
       <td>Discussion 4</td>
       <td>Scoping, Lists, HOFs, & Number Representations</td>
-      <td><a href="https://docs.google.com/document/d/1J9IoIBB10SrCzSOIrUSLxqlmG4YT8crU/edit?usp=sharing&ouid=113310664124216515894&rtpof=true&sd=true">Worksheet</a></td>
+      <td><a href="">Worksheet</a></td>
       <td><a href="">Solutions</a></td>
-      <td><a href="https://drive.google.com/file/d/1SLsGOxdf3MiQ6N9KLzifOXZag2X5a4Pn/view?usp=sharing">Slides</a></td>
+      <td><a href="">Slides</a></td>
     </tr>
     <tr>
       <td>Discussion 5</td>
       <td>Linear Recursion</td>
-      <td><a href="https://docs.google.com/document/d/1_rWPr5R6fSsXPs0HOwpXQ9B8mBjq6cu3/edit?usp=drive_link&ouid=100628398912857125629&rtpof=true&sd=true"> Worksheet</a></td>
+      <td><a href=""> Worksheet</a></td>
       <td><a href="">Solutions</a></td>
-      <td><a href="https://drive.google.com/file/d/1t6I_wF27iH1GRKCEsPyCA1H_TNTnAYwA/view?usp=sharing">Slides</a></td>
+      <td><a href="">Slides</a></td>
     </tr>
     <tr>
       <td>Discussion 6</td>
       <td>Midterm Review 1</td>
-      <td><a href="https://docs.google.com/document/d/1ryVkSYk-g1zP71mvW3_-s5cV2SMIyRdlTyPx3Lij9Ko/edit?usp=sharing">Worksheet</a></td>
+      <td><a href="">Worksheet</a></td>
       <td><a href="">Solutions</a></td>
       <td>Slides</td>
     </tr>
     <tr>
       <td>Discussion 7</td>
       <td>Midterm Review 2</td>
-      <td><a href="https://docs.google.com/document/d/1clu-CkoLxV6RyTscL0zJ4QyklIf6NMJIcCGU9KMFBOM/edit?usp=drive_link">Worksheet</a></td>
+      <td><a href="">Worksheet</a></td>
       <td><a href="">Solutions</a></td>
       <td>Slides</td>
     </tr>
     <tr>
       <td>Discussion 8</td>
       <td>Welcome to Python!</td>
-      <td><a href="https://docs.google.com/document/d/1jwbZ4Bl_GHykgMk12-gQ5y0PP2HLADyj/edit?usp=sharing&ouid=100628398912857125629&rtpof=true&sd=true">Worksheet</a></td>
+      <td><a href="">Worksheet</a></td>
       <td><a href="">Solutions</a></td>
       <td>Slides</td>
     </tr>
      <tr>
       <td>Discussion 9</td>
       <td>Python Data-Structures & OOP</td>
-      <td><a href="https://docs.google.com/document/d/1JwRfb0sZ8Mmb8phaDL3LAyDpA8jCgrRi/edit?usp=sharing&ouid=100628398912857125629&rtpof=true&sd=true">Worksheet</a></td>
+      <td><a href="">Worksheet</a></td>
       <td><a href="">Solutions</a></td>
       <td>Slides</td>
     </tr>
     <tr>
     <td>Discussion 10</td>
       <td>TBD</td>
-      <td><a href="https://docs.google.com/document/d/1ul0g6_ExvZVpn9SI3vJYyOx2vjM773Pl/edit?usp=sharing&ouid=100628398912857125629&rtpof=true&sd=true">Worksheet</a></td>
+      <td><a href="">Worksheet</a></td>
       <td>Solutions</td>
       <td>Slides</td>
     </tr>
     <tr>
     <td>Discussion 11</td>
       <td>Discussion 11: Tree Recursion in Python</td>
-      <td><a href="https://docs.google.com/document/d/175AdX5iGyRdUzWFZGb31XPoisCioSBHw/edit?usp=sharing&ouid=100628398912857125629&rtpof=true&sd=true">Worksheet</a></td>
+      <td><a href="">Worksheet</a></td>
       <td><a href="">Solutions</a></td>
       <td>Slides</td>
     </tr>
     <tr>
     <td>Discussion 12</td>
       <td>Final Review I</td>
-      <td><a href="https://docs.google.com/document/d/1YhSst8vi8P-aCT8ql1N8rN5OSmAXSVjS/edit?usp=sharing&ouid=100628398912857125629&rtpof=true&sd=true">Worksheet</a></td>
+      <td><a href="">Worksheet</a></td>
       <td>Solutions</td>
       <td>Slides</td>
     </tr>
     <tr>
     <td>Discussion 13</td>
       <td>Final Review II</td>
-      <td><a href="https://docs.google.com/document/d/1qJyMtbpX69Ca6OYrfijeJ6wDIr2mhKjj/edit?usp=drive_link&ouid=100628398912857125629&rtpof=true&sd=true">Worksheet</a></td>
+      <td><a href="">Worksheet</a></td>
       <td><a href="">Solutions</a><br/></td>
       <td>Slides</td>
     </tr>
