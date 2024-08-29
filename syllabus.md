@@ -209,7 +209,7 @@ If you have a DSP accommodation through the university, please be sure to submit
 
 We understand that circumstances may arise that may cause you to not be able to meet assignment deadlines.<br /><br /> <b>For extension requests on LABS,</b> please use this [Extension requests form](https://forms.gle/LfE6YZG7GDub8Dqq9). The policy for extension requests on labs are as follows:
 
-- An extension request will grant you an extra lab section in order to complete the lab assignment without any lateness penalties. For instance, if you ask for an extension on lab-12, which is generally due on the day that lab-13 is scheduled, then it will now be due the day that lab-14 is scheduled.
+- An extension request will grant you an extra lab section in order to complete the lab assignment without any lateness penalties. For instance, if you ask for an extension on lab-12, which is generally due on the day that lab-13 is scheduled, then it will now be due the day that lab-14 is scheduled. So, if you are getting an exttension on Lab X, then the new deadline for Lab X is when Lax X + 2 is released.
 
 <b>For extension requests on PROJECTS,</b> please use this [Extension requests form](https://forms.gle/joSLNhB2bKnuEpu2A). The policy for extension requests on projects are as follows:
 
