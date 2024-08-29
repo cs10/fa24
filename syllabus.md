@@ -42,6 +42,7 @@ This semester, CS10 will run fully in-person. Consequently, remote (or hybrid) s
 * **Bcourses**: Lecture recordings can be found on [the Bcourses site](https://bcourses.berkeley.edu/courses/1538116/external_tools/90481), generally within 48h of lecture. You will have to be logged into your Berkeley email to access the recordings. The recordings are under the "Media Gallery" tab in Bcourses.
 * **IClicker**: You are required to [create a free iClicker account](https://mhe.my.site.com/iclicker/s/article/How-Students-Create-an-iClicker-Account-Through-a-Campus-Portal) and download the free iClicker app. Then, you should signup with your Berkeley email. To get credit for attending lecture, please open the app once you're seated in the lecture hall and mark your attendance. If for some reason you are not enrolled, use this [join iClicker link](https://join.iclicker.com/BKKC).
 * **PrairieLearn**: Project-5, Pyturis, will be submitted via PrairieLearn. This is also the platform you will use to take exams.
+* **Snap!**: The programming language we will be using for more than half the semester. The website can be found here: [Snap!](https://snap.berkeley.edu/)
 
 
 ## Primary Course Components
