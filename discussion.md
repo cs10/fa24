@@ -36,7 +36,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Welcome to Snap<em>!</em></td>
       <td><a href="https://drive.google.com/file/d/1kVcfONoJPqA5Iqv8cbxsu6_quSanSOxh/view?usp=drive_link"> Worksheet</a></td>
       <td><a href="">Solutions</a></td>
-      <td><a href=""> Slides</a></td>
+      <td><a href="https://drive.google.com/file/d/1KqjJ7_9mblF6ynqTmkXHPqm748AgiQ9J/view?usp=sharing"> Slides</a></td>
     </tr> 
     <tr>
       <td>Discussion 2</td>
