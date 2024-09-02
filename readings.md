@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Assigned Readings
+title: Readings
 description: A list of all readings.
 nav_exclude: false
 nav_order: 9
@@ -8,7 +8,7 @@ nav_order: 9
 
 # Readings
 
-This page will be updated with links to readings throughout the semester.
+Readings will be discussed and due at the beginning of Discussion section every Thursday
 
 **Week 2 Reading**{: .label .label-reading }
 
