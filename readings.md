@@ -8,7 +8,7 @@ nav_order: 9
 
 # Readings
 
-Readings will be discussed and due at the beginning of Discussion section every Thursday
+Readings will be discussed and due at the beginning of Discussion section every Thursday. Some of the 'readings' are videos, articles, journals, etc.
 
 **Week 2 Reading**{: .label .label-reading }
 
