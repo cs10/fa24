@@ -107,10 +107,10 @@
         <th>Wed 9/4 </th> <!-- Date -->
         <td>Lec 3. Numbers + Abstraction<br/>
         <a href="">(Recording 3)</a><br/>      
-        <a href="">(Slides 3)</a><br/>
-        <a href="">(Lecture Quiz 3)</a>
+        <a href="https://drive.google.com/file/d/1yvSoywTsFG36Hn8dXvbchaMtgLGMqiPT/view?usp=sharing">(Slides 3)</a><br/>
+        <a href="https://www.gradescope.com/courses/831412/assignments/4872499">(Lecture Quiz 3)</a>
         </td> <!-- Lecture -->
-        <td><a href="">Lab 2. Build Your Own Blocks</a></td> <!-- Lab -->
+        <td><a href="https://docs.google.com/document/d/1ewb7nT9CGZRqnbbYmKWaqXJHDqq6Nn0Y8vNOjgaMrBk/edit?usp=sharing">Lab 2. Build Your Own Blocks</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignments -->
     </tr>
@@ -118,11 +118,71 @@
         <th>Thu 9/5</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
-        <td><a href="">Disc 2. Number Rep + Control Structures</a></td> <!-- Discussion -->
-        <td><a href="https://www.youtube.com/watch?v=dU1xS07N-FA">Reading 1 Due</a></td> <!-- Assignment -->
+        <td><a href="">Disc 2. Number Rep + Conditionals</a></td> <!-- Discussion -->
+        <td><a href="https://www.youtube.com/watch?v=dU1xS07N-FA">Reading: Week 2 Due</a></td> <!-- Assignment -->
     </tr>
     <tr>
         <th>Fri 9/6</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td> <!-- Assignment -->
+    </tr>
+  </tbody>
+</table>
+
+
+<!-- Week 3 Calendar -->
+<table class="table table-bordered schedule-table" id="week3">
+  <thead>
+    <tr>
+        <th class="center schedule-week-num">Week</th>
+        <th>Date</th>
+        <th>Lecture</th>
+        <th>Lab</th>
+        <th>Discussion</th>
+        <th>Assignment</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+        <td class="schedule-week-num" rowspan=5>Week 3</td> <!-- Week Number -->
+        <th>Mon 9/9</th> <!-- Date -->
+        <td>Lec 4. List, Scope, + HOFs<br/>
+        <a href="">(Recording 4)</a><br/>      
+        <a href="https://drive.google.com/file/d/1yvqJWV8cPEzzpI3IUZiSqlKYpCq8VpHb/view?usp=sharing">(Slides 4)</a><br/>
+        <a href="">(Lecture Quiz 4)</a>
+        <td><a href="https://docs.google.com/document/d/1NkU9MzRESC0F1l3A520-F2AtSnf3rheOFxvUEGXd4F8/edit?usp=sharing">Lab 3. Conditionals, Reporters, Testing</a></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Tue 9/10</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td><a href="">Proj 1: Worldle Due</td> <!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Wed 9/11 </th> <!-- Date -->
+        <td>Lec 5. Algorithms<br/>
+        <a href="">(Recording 5)</a><br/>      
+        <a href="https://drive.google.com/file/d/1ywL4uVlKTZCLU6blUafGErlwuyGe2tIO/view?usp=sharing">(Slides 5)</a><br/>
+        <a href="">(Lecture Quiz 5)</a>
+        </td> <!-- Lecture -->
+        <td><a href="https://docs.google.com/document/d/1tSalQ3FU2pzuBn8eIS8LraeTva0gYjDe4wPZPffUhCM/edit?usp=sharing">Lab 4. Lists + Loops</a></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td> <!-- Assignments -->
+    </tr>
+    <tr>
+        <th>Thu 9/12</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td><a href="">Disc 2. Number Rep + Control Structures</a></td> <!-- Discussion -->
+        <td><a href="http://cs10.org/fa17/assign.html?//docs.google.com/document/d/1PZJ_LYYWRYu12cTbBKF9IyY4BqEG-BibgisBoQn9BpY/pub">Reading: Week 3 Due</a></td> <!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Fri 9/13</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
