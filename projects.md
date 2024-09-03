@@ -13,9 +13,7 @@ has_children: true
 <table>
   <thead>
     <tr>
-      <th>Project</th>
       <th>Title</th>
-      <th>Project Spec</th>
       <th>Walkthrough</th>
       <th>Release Date</th>
       <th>Due Date</th>
@@ -23,43 +21,39 @@ has_children: true
   </thead>
   <tbody>
     <tr>
-      <td>Project 1</td>
-      <td>Wordle™-lite</td>
-      <td><a href="/_projects/CS10-Project1.md">Project Spec</a></td>
+      <td><a href="_projects/CS10-Project1.md">Project 1: Wordle™-lite</a></td>
       <td><a href="https://drive.google.com/file/d/1liTxubkrh5-Vtp5CbQETI9BurAquIVSx/view?usp=sharing">Walkthrough Slides</a></td>
       <td>Tuesday, 9/3</td>
       <td>Tuesday, 9/10</td>
     </tr>
     <tr>
-      <td>Project 2</td>
-      <td>Spelling Bee</td>
-      <td><a href="https://docs.google.com/document/d/1_0umtodNf-ZmHfsGTT7XJZJDDlmlH-hxSjw5tVCacZ8/edit?usp=sharing">Project Spec</a></td>
+      <td>Project 2: Spelling Bee</td>
       <td><a href="https://drive.google.com/file/d/1eJQpY5PpUwt3vesplElChY293NFQk4Vp/view?usp=sharing">Walkthrough Slides</a></td>
       <td>September</td>
       <td>TBD</td>
     </tr>
      <tr>
-      <td>Project 3</td>
-      <td>2048</td>
-      <td><a href="https://docs.google.com/document/d/1tW9krWvFAa9KZOZo3pYTLFtvMc7ZkF7rft6GpzPpOTY/edit?usp=sharing">Project Spec</a></td>
+      <td>Project 3: 2048</td>
       <td><a href="https://drive.google.com/file/d/1koa1TbOmoDa5tiIEm6hohQjiMaWjLI1H/view?usp=sharing">Walkthrough Slides</a></td>
-      <td>October</td>
+      <td>TBD</td>
       <td>TBD</td>
     </tr>
     <tr>
-      <td>Project 4</td>
-      <td>Essay</td>
-      <td><a href="https://docs.google.com/document/d/1r-27JJstbzTC3UPuS3p9AADtRtCB1dEaRv4DhLjKrPM/edit">Project Spec</a></td>
+      <td>Project 4: Explorer</td>
       <td>-</td>
-      <td>November</td>
+      <td>TBD</td>
       <td>TBD</td>
     </tr>
     <tr>
-      <td>Project 5</td>
-      <td>Final Project</td>
-      <td><a href="https://docs.google.com/document/d/1aMf_Cdq8euuGD5g-4fRjra3miXztUeGTUAC7jfVOAC4/edit?usp=sharing">Project Spec</a></td>
+      <td>Project 5: Pyturis</td>
       <td>-</td>
-      <td>December</td>
+      <td>TBD</td>
+      <td>TBD</td>
+    </tr>
+        <tr>
+      <td>Project 6: Final Project</td>
+      <td>-</td>
+      <td>TBD</td>
       <td>TBD</td>
     </tr>
   </tbody>

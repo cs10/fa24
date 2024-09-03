@@ -1,9 +1,10 @@
 ---
 title: Project 1
 description: Instructions for Project 1
+parent: Projects
 due: "2024-09-10 11:59:59 PM PST"
 gradescope_assignment_id: 4882828
-parent: Projects
+
 ---
 
 # Project 1: Wordle™-lite
