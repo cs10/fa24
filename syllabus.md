@@ -202,20 +202,9 @@ If your percentage score on a latter exam is higher than your percentage score o
 Your total points will be rounded to the nearest integer when we compute letter grades. 0.5 will round to 1, but 0.49 will round to 0. We will not shift the bins / curve the class / ooch or round your grade beyond the listed rounding scheme, so please don't ask.
 
 
-## DSP Accommodations
-If you have a DSP accommodation through the university, please be sure to submit your official letter through the DSP portal. Once you have done so, we will be able to accommodate you. If you have an accommodation but are unable to promptly submit the letter for whatever reason, please reach out to [cs10@](mailto:cs10@berkeley.edu).
-
-
 ## Extension Requests
 
-We understand that circumstances may arise that may cause you to not be able to meet assignment deadlines.<br /><br /> <b>For extension requests on LABS,</b> please use this [Extension requests form](https://forms.gle/LfE6YZG7GDub8Dqq9). The policy for extension requests on labs are as follows:
-
-- An extension request will grant you an extra lab section in order to complete the lab assignment without any lateness penalties. For instance, if you ask for an extension on lab-12, which is generally due on the day that lab-13 is scheduled, then it will now be due the day that lab-14 is scheduled. So, if you are getting an exttension on Lab X, then the new deadline for Lab X is when Lax X + 2 is released.
-
-<b>For extension requests on PROJECTS,</b> please use this [Extension requests form](https://forms.gle/joSLNhB2bKnuEpu2A). The policy for extension requests on projects are as follows:
-
-- An extension request will automatically extend your project submission deadline by 72 hours  without any lateness penalties. For instance, if a project is due by Monday at midnight, then the project will now be due by Thursday at midnight.
-
+For all extension requests on any assignment, please use the [Extension Request Form](https://forms.gle/GATk6ApQYe5vgJdY6).
 
 You're also allowed to retroactively obtain extensions without penalty: i.e., you can obtain an extension even after the deadline of a lab/project, but not after the extended deadline for that assignment. The extended deadline for labs, as noted above, is the day that the next lab is scheduled, at 2359 hrs; for projects, it's 72h after the original deadline.
 
@@ -223,6 +212,27 @@ You're also allowed to retroactively obtain extensions without penalty: i.e., yo
 <b>NOTE: If you added the course late, please use your updated deadline as the 'original due date'.</b>
 
 <b>Important: While extensions may not be visible on PrairieLearn/Gradescope (a.k.a your assignments may be marked as 'Late'), they will be factored in when we compute your final grade. Extensions are AUTO-approved after filling in the form.</b>
+
+### Lab Extensions
+
+We understand that circumstances may arise that may cause you to not be able to meet assignment deadlines.<br /><br />The policy for extension requests on labs are as follows:
+
+- An extension request will grant you an extra lab section in order to complete the lab assignment without any lateness penalties. For instance, if you ask for an extension on lab-12, which is generally due on the day that lab-13 is scheduled, then it will now be due the day that lab-14 is scheduled. So, if you are getting an exttension on Lab X, then the new deadline for Lab X is when Lab X + 2 is released at 11:59PM. However, if you are trying to obtain lab attendance credit, then it is due by 5PM when Lab X + 2 is released.
+
+### Project Extensions
+
+The policy for project extension requests on projects are as follows:
+
+- An extension request will automatically extend your project submission deadline by 72 hours  without any lateness penalties. For instance, if a project is due by Monday at midnight, then the project will now be due by Thursday at midnight.
+
+### Lecture Quiz Extensions
+
+- An extension request will automatically extend your lecture quiz submission deadline and will be due the day of the following lecture at 11:59PM. For example, if the lecture quiz was due on Monday, with the extension, it is now due on Wednesday. Similar to the Lab extension and deadline policy, the Lecture Quiz, with the extension is due when Lecture Quiz X + 2 is released.
+
+
+### Discussion Worksheet Extensions
+
+- An extension request will automatically extend your discussion worksheetsubmission deadline and will be due the day of following discussion section at 11:59PM. For example, if the worksheet was due on 9/5, it is now due on 9/12. 
 
 
 ## Lateness Penalties
