@@ -27,8 +27,8 @@ has_children: true
       <td>Wordle™-lite</td>
       <td><a href="/_projects/CS10-Project1.md">Project Spec</a></td>
       <td><a href="https://drive.google.com/file/d/1liTxubkrh5-Vtp5CbQETI9BurAquIVSx/view?usp=sharing">Walkthrough Slides</a></td>
-      <td>August</td>
-      <td>TBD</td>
+      <td>Tuesday, 9/3</td>
+      <td>Tuesday, 9/10</td>
     </tr>
     <tr>
       <td>Project 2</td>
