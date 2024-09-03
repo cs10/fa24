@@ -131,7 +131,7 @@
   </tbody>
 </table>
 
-
+<br/>
 <!-- Week 3 Calendar -->
 <table class="table table-bordered schedule-table" id="week3">
   <thead>
@@ -161,7 +161,7 @@
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><a href="">Proj 1: Worldle Due</td> <!-- Assignment -->
+        <td><a href="">Proj 1: Worldle Due</a></td> <!-- Assignment -->
     </tr>
     <tr>
         <th>Wed 9/11 </th> <!-- Date -->
