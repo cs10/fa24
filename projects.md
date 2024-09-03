@@ -25,7 +25,7 @@ has_children: true
     <tr>
       <td>Project 1</td>
       <td>Wordle™-lite</td>
-      <td><a href="https://docs.google.com/document/d/1KUWjNNzFtBg3EGYuTAd422l7F1lxLbTy-LAsIy3rqV4/edit?usp=sharing">Project Spec</a></td>
+      <td><a href="/_projects/CS10-Project1.md">Project Spec</a></td>
       <td><a href="https://drive.google.com/file/d/1liTxubkrh5-Vtp5CbQETI9BurAquIVSx/view?usp=sharing">Walkthrough Slides</a></td>
       <td>August</td>
       <td>TBD</td>
