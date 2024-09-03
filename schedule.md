@@ -151,7 +151,7 @@
         <td>Lec 4. List, Scope, + HOFs<br/>
         <a href="">(Recording 4)</a><br/>      
         <a href="https://drive.google.com/file/d/1yvqJWV8cPEzzpI3IUZiSqlKYpCq8VpHb/view?usp=sharing">(Slides 4)</a><br/>
-        <a href="">(Lecture Quiz 4)</a>
+        <a href="">(Lecture Quiz 4)</a></td> <!-- Lecture -->
         <td><a href="https://docs.google.com/document/d/1NkU9MzRESC0F1l3A520-F2AtSnf3rheOFxvUEGXd4F8/edit?usp=sharing">Lab 3. Conditionals, Reporters, Testing</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment -->
