@@ -3,6 +3,7 @@ layout: default
 title: Projects
 description: A list of all Project specifications and walkthroughs
 nav_order: 6
+has_children: true
 ---
 
 # Projects
