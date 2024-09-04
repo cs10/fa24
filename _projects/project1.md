@@ -1,15 +1,12 @@
 ---
 title: Project 1
-description: Instructions for Project 1
+description: Wordle™-lite
 parent: Projects
-due: "2024-09-10 11:59:59 PM PST"
 gradescope_assignment_id: 4882828
 nav_order: 1
 ---
-
-# Project 1: Wordle™-lite
-
-Version 3.0. Last Updated: 2024-09-03. <br/> **Due: 2024-09-10** <br/>
+Version 3.0. Last Updated: 2024-09-03. 
+<br/> **Due: Tuesday, 9/10** at 11:59 PM<br/>
 We highly recommend reading through this spec in its entirety before you begin.
 
 *[Project walkthrough guide.pdf](https://drive.google.com/file/d/1liTxubkrh5-Vtp5CbQETI9BurAquIVSx/view)*
