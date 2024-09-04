@@ -6,14 +6,14 @@ due: "11:59 PM PST on Tuesday, 9/10"
 gradescope_assignment_id: 4882828
 nav_order: 1
 ---
-Version 3.0. Last Updated: 2024-09-03. 
-We highly recommend reading through this spec in its entirety before you begin.
-
-*[Project walkthrough guide.pdf](https://drive.google.com/file/d/1liTxubkrh5-Vtp5CbQETI9BurAquIVSx/view)*
-
-## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=dan%20garcia&ProjectName=BJC%20CS10%20Project%201%3A%20Wordle%E2%84%A2-lite)
+*Version 3.0. Last Updated: 2024-09-03.*
+*We highly recommend reading through this spec in its entirety before you begin.*
 
 > Any important updates or clarifications will be made here
+
+[Project 1 Walkthrough Guide.pdf](https://drive.google.com/file/d/1liTxubkrh5-Vtp5CbQETI9BurAquIVSx/view)
+
+## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=dan%20garcia&ProjectName=BJC%20CS10%20Project%201%3A%20Wordle%E2%84%A2-lite)
 
 ## Content
 
