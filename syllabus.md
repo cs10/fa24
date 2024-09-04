@@ -19,6 +19,9 @@ description: Course policies and information.
 
 
 ---
+
+> Added CS10 late? [Reading this](https://edstem.org/us/courses/63916/discussion/5218679)
+
 ## Preface
 
 All times below are in PST. Please add "berkeley.edu" at the end of all emails.
