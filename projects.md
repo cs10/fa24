@@ -3,7 +3,6 @@ layout: default
 title: Projects
 description: A list of all Project specifications and walkthroughs
 nav_order: 6
-has_children: true
 ---
 
 # Projects
@@ -21,7 +20,7 @@ has_children: true
   </thead>
   <tbody>
     <tr>
-      <td><a href="/fa24/project1">Project 1: Wordle™-lite</a></td>
+      <td><a href="/fa24/projects/project1">Project 1: Wordle™-lite</a></td>
       <td><a href="https://drive.google.com/file/d/1liTxubkrh5-Vtp5CbQETI9BurAquIVSx/view?usp=sharing">Proj 1 Walkthrough Slides</a></td>
       <td>Tuesday, 9/3</td>
       <td>Tuesday, 9/10</td>
