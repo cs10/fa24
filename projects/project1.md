@@ -4,7 +4,7 @@ description: Wordle™-lite
 parent: Projects
 nav_order: 1
 ---
-<br>Due: Tuesday, 9/10 at 11:59 PM PST</br>
+**Due: Tuesday, 9/10 at 11:59 PM PST**
 
 *Version 3.0. Last Updated: 2024-09-03.*
 
