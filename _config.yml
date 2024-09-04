@@ -31,7 +31,7 @@ url: 'http://cs10.org' # the hostname & protocol for your site, e.g. http://exam
 # TODO(setup): Set all of these course variables
 course: CS 10
 course_email: cs10@berkeley.edu
-gradescope_course_id: 123456 # you can find this in the Gradescope URL after /courses
+gradescope_course_id: 831412 # you can find this in the Gradescope URL after /courses
 bcourses_course_id: 123456 # Same as above, but for bCourses. Leave blank if not in use...
 ed_course_id: 123456 # Again, same as above.
 sememster: fa24 # set for the current seemester
