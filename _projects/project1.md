@@ -14,6 +14,7 @@ nav_order: 1
 
 ## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=dan%20garcia&ProjectName=BJC%20CS10%20Project%201%3A%20Wordle%E2%84%A2-lite)
 
+
 [Project 1 Walkthrough Guide.pdf](https://drive.google.com/file/d/1liTxubkrh5-Vtp5CbQETI9BurAquIVSx/view)
 
 ## Content
