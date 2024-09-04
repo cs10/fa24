@@ -1,7 +1,6 @@
 ---
 title: Project 1
 description: Wordle™-lite
-parent: Projects
 nav_order: 1
 ---
 <br>Due: Tuesday, 9/10 at 11:59 PM PST</br>
