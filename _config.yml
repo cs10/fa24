@@ -47,7 +47,7 @@ class_archive_path: /
 aux_links:
   # TODO(template): Move this to be built-in.
   Ed:
-    - 'https://edstem.org'
+    - 'https://edstem.org/us/courses/63916/discussion'
   OH Queue:
     - 'https://oh.cs10.org'
   Snap!:
