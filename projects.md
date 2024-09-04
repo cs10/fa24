@@ -21,7 +21,7 @@ has_children: true
   </thead>
   <tbody>
     <tr>
-      <td><a href="/projects/project1.md">Project 1: Wordle™-lite</a></td>
+      <td><a href="/fa24/projects/project1.md">Project 1: Wordle™-lite</a></td>
       <td><a href="https://drive.google.com/file/d/1liTxubkrh5-Vtp5CbQETI9BurAquIVSx/view?usp=sharing">Proj 1 Walkthrough Slides</a></td>
       <td>Tuesday, 9/3</td>
       <td>Tuesday, 9/10</td>
