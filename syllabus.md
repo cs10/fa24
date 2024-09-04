@@ -104,7 +104,7 @@ Professor Garcia will be hosting Instructor OH (TBD), which you may attend for m
 
 ### Reading Quizzes
 
-These are short weekly reading assignments that are submitted to Gradescope. We will discuss them as a class during discussion section. They are required reading.
+These are short assigned readings each week. We will discuss them as a class during discussion section. They are required reading, and you will answer the questions on the discussion worksheets pertaining to the readings.
 
 ### Projects 
 
