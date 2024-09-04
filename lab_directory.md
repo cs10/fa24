@@ -8,13 +8,11 @@ nav_order: 8
 
 Lab Slides: [Folder](https://drive.google.com/drive/folders/1CXRHvlQswGr2eT0zNPsMEdKhJJl6zIcf?usp=sharing) or can be accessed using [https://tinyurl.com/cs10-labs](https://tinyurl.com/cs10-labs)
 
-Labs are an opportunity for you to apply what you've learned in lecture in code (and other forms). All labs have a conceptual and a coding component. All labs assignments must be uploaded and autograded using Gradescope; the Gradescope link can be found on the worksheet. 
+> Labs are an opportunity for you to apply what you've learned in lecture in code (and other forms) All labs have a conceptual and a coding component. All labs assignments must be uploaded and autograded using Gradescope; the Gradescope link can be found on the worksheet. 
 
->  Any important updates or clarifications will be made here
+> The worksheeks linked below are high-level overviews and can be seen as a set of instructions for  lab. Each worksheet lists all the required blocks, functions, or tasks for a particular lab. The worksheets also contain some of the test cases used to grade the lab.
 
-The worksheeks linked below are high-level overviews and can be seen as a set of instructions for lab. Each worksheet lists all the required blocks, functions, or tasks for a particular lab. The worksheets also contain some of the test cases used to grade the lab.
-
-The workbook, which differs from the worksheet, is used as a step-by-step guide to complete each lab. Lab worksheets will be released at 5:00 PM on the lab day. 
+> The workbook, which differs from the worksheet, is used as a step-by-step guide to complete each lab. Lab worksheets will be released at 5:00 PM on the lab day. 
 
 | Labs                                          |  Submission Deadline  |
 | :----:                                        |  :----:               |
