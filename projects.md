@@ -28,7 +28,7 @@ nav_order: 6
     <tr>
       <td>Project 2: Spelling Bee</td>
       <td><a href="https://drive.google.com/file/d/1eJQpY5PpUwt3vesplElChY293NFQk4Vp/view?usp=sharing">Proj 2 Walkthrough Slides</a></td>
-      <td>September</td>
+      <td>TBD</td>
       <td>TBD</td>
     </tr>
      <tr>
