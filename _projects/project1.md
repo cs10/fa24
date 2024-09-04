@@ -2,10 +2,10 @@
 title: Project 1
 description: Wordle™-lite
 parent: Projects
-due: "11:59 PM PST on Tuesday, 9/10"
-gradescope_assignment_id: 4882828
 nav_order: 1
 ---
+<br>Due: Tuesday, 9/10 at 11:59 PM PST</br>
+
 *Version 3.0. Last Updated: 2024-09-03.*
 
 *We highly recommend reading through this spec in its entirety before you begin.*
