@@ -51,7 +51,7 @@
     <tr>
         <th>Wed 8/28</th> <!-- Date -->
         <td>Lec 2. Functions + Conditional Logic<br/>
-        <a href="">(Recording 2)</a><br/>      
+        <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 2)</a><br/>      
         <a href="https://docs.google.com/presentation/d/1GxnXco4qp9f0g5LQDmtR2noP5sheKB6VA2O51Re9gyo/edit?usp=sharing">(Slides 2)</a><br/>
         <a href="https://www.gradescope.com/courses/831412/assignments/4833036">(Lecture Quiz 2)</a>
         </td> <!-- Lecture -->
@@ -106,7 +106,7 @@
     <tr>
         <th>Wed 9/4 </th> <!-- Date -->
         <td>Lec 3. Numbers + Abstraction<br/>
-        <a href="">(Recording 3)</a><br/>      
+        <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 3)</a><br/>      
         <a href="https://drive.google.com/file/d/1yvSoywTsFG36Hn8dXvbchaMtgLGMqiPT/view?usp=sharing">(Slides 3)</a><br/>
         <a href="https://www.gradescope.com/courses/831412/assignments/4872499">(Lecture Quiz 3)</a>
         </td> <!-- Lecture -->
