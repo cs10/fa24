@@ -81,9 +81,11 @@ Discussion sections are where you will delve into the content more deeply with w
 
 <b>Attendance (in-person) is required as part of your grade and will be tracked. </b> You will fill out a Google Form with a password to receive credit. Discussion will be located in the Anthropology and Art Practice Building, Room 160. 
 
-You don't have to submit any work for discussions (besides filling out the attendance form). You can miss up-to 2 discussion sections without penalty (you don't need to tell us that you're missing class). Please reserve these drops for unexpected emergencies / sickness / ... If there are circumstances which cause you to miss more than 2 discussions (like prolonged sickness, family emergencies, etc.) then you should email your Discussion-TA and they'll discuss other options.
+You can miss up-to 2 discussion sections without penalty (you don't need to tell us that you're missing class). Please reserve these drops for unexpected emergencies / sickness / ... If there are circumstances which cause you to miss more than 2 discussions (like prolonged sickness, family emergencies, etc.) then you should email your Discussion-TA and they'll discuss other options.
 
-To makeup attendance for a missed discussion, you will need to complete and submit the discussion worksheet. You must complete the entire worksheet to receive credit. The discussion worksheets are located on the website, and you will submit them to Gradescope. You can submit the worksheet in any format, i.e. handwritten, electronically written, typed, etc. Again, submitting a worksheet is only required for those you are making up a missed attendance. Discussion worksheets are due the day of the next discussion section at 11:59 PM. So, if Discussion X is due when Discussion X + 1 is released.
+All students will be required to submit the discussion worksheets, whether you attended in-person or not. Discussion worksheets solutions will be shared during that discussion. 
+
+To makeup attendance for a missed discussion, you will need to complete and submit the discussion worksheet. You must complete the entire worksheet to receive credit. Worksheets will be graded on completion and honest effort. The discussion worksheets are located on the website, and you will submit them to Gradescope. You can submit the worksheet in any format, i.e. handwritten, electronically written, typed, etc. Discussion worksheets are due the day of the next discussion section at 11:59 PM. So, if Discussion X is due when Discussion X + 1 is released.
 
 From experience, we've observed that students who regularly attend and pay attention in discussions tend to do better on exams.
 
