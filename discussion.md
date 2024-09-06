@@ -50,7 +50,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Data-types, Domain / Range, Scoping, Lists</td>
       <td> Worksheet</a></td>
       <td>Solutions</td>
-      <td>Recording</a></td>
+      <td>Recording</td>
     </tr>
     <tr>
       <td>Discussion 4</td>
