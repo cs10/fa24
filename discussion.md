@@ -40,8 +40,8 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr> 
     <tr>
       <td>Discussion 2</td>
-      <td>Boolean Operators and Truth Tables</td>
-      <td><a href=""> Worksheet</a></td>
+      <td>Disc 2. Number Rep + Control Structures</td>
+      <td><a href="https://docs.google.com/document/d/1j_GBxd3LCkBpO9ydLBgU1xHmx8d-dCct/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true"> Worksheet</a></td>
       <td><a href="">Solutions</a></td>
       <td><a href="">Annotated Solution</a></td>
     </tr>

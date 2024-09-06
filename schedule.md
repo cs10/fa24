@@ -178,7 +178,7 @@
         <th>Thu 9/12</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
-        <td><a href="">Disc 2. Number Rep + Control Structures</a></td> <!-- Discussion -->
+        <td><a href="https://docs.google.com/document/d/1j_GBxd3LCkBpO9ydLBgU1xHmx8d-dCct/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Disc 2. Number Rep + Control Structures</a></td> <!-- Discussion -->
         <td><a href="http://cs10.org/fa17/assign.html?//docs.google.com/document/d/1PZJ_LYYWRYu12cTbBKF9IyY4BqEG-BibgisBoQn9BpY/pub">Reading: Week 3 Due</a></td> <!-- Assignment -->
     </tr>
     <tr>
