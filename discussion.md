@@ -40,56 +40,56 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr> 
     <tr>
       <td>Discussion 2</td>
-      <td>Disc 2. Number Rep + Control Structures</td>
+      <td>Number Rep + Control Structures</td>
       <td><a href="https://docs.google.com/document/d/1j_GBxd3LCkBpO9ydLBgU1xHmx8d-dCct/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true"> Worksheet</a></td>
       <td>Solutions</td>
       <td><a href="https://drive.google.com/file/d/1FPV77VJGZCIohNDd7e0TZ_KOGzhZwifo/view?usp=sharing">Recording</a></td>
     </tr>
      <tr>
       <td>Discussion 3</td>
-      <td>Data-types, Domain / Range, Scoping, Lists</td>
+      <td>Domain/Range, Scoping, Lists & HOFs</td>
       <td> Worksheet</a></td>
       <td>Solutions</td>
       <td>Recording</td>
     </tr>
     <tr>
       <td>Discussion 4</td>
-      <td>Scoping, Lists, HOFs, & Number Representations</td>
+      <td>Algorithms</td>
       <td>Worksheet</td>
       <td>Solutions</td>
       <td>Recording</td>
     </tr>
     <tr>
       <td>Discussion 5</td>
-      <td>Linear Recursion</td>
+      <td>Algorithmic Complexity</td>
       <td>Worksheet</td>
       <td>Solutions</td>
       <td>Recording</td>
     </tr>
     <tr>
       <td>Discussion 6</td>
-      <td>Midterm Review 1</td>
+      <td>Recursion I</td>
       <td>Worksheet</td>
       <td>Solutions</td>
       <td>Recording</td>
     </tr>
     <tr>
       <td>Discussion 7</td>
-      <td>Midterm Review 2</td>
+      <td>Recursion II</td>
       <td>Worksheet</td>
       <td>Solutions</td>
       <td>Recording</td>
     </tr>
     <tr>
       <td>Discussion 8</td>
-      <td>Welcome to Python!</td>
+      <td>TBD</td>
       <td>Worksheet</td>
       <td>Solutions</td>
       <td>Recording</td>
     </tr>
      <tr>
       <td>Discussion 9</td>
-      <td>Python Data-Structures & OOP</td>
+      <td>TBD</td>
       <td>Worksheet</td>
       <td>Solutions</td>
       <td>Recording</td>
@@ -103,21 +103,21 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
     <tr>
     <td>Discussion 11</td>
-      <td>Discussion 11: Tree Recursion in Python</td>
+      <td>TBD</td>
      <td>Worksheet</td>
       <td>Solutions</td>
       <td>Recording</td>
     </tr>
     <tr>
     <td>Discussion 12</td>
-      <td>Final Review I</td>
+      <td>TBD</td>
       <td>Worksheet</td>
       <td>Solutions</td>
       <td>Recording</td>
     </tr>
     <tr>
     <td>Discussion 13</td>
-      <td>Final Review II</td>
+      <td>TBD</td>
       <td>Worksheet</td>
       <td>Solutions</td>
       <td>Recording</td>
