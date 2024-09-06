@@ -27,7 +27,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <th>Title</th>
       <th>Worksheet</th>
       <th>Solutions</th>
-      <th>Slides</th>
+      <th>Recordings</th>
     </tr>
   </thead>
   <tbody>
@@ -36,14 +36,14 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Welcome to Snap<em>!</em></td>
       <td><a href="https://drive.google.com/file/d/1kVcfONoJPqA5Iqv8cbxsu6_quSanSOxh/view?usp=drive_link"> Worksheet</a></td>
       <td><a href="">Solutions</a></td>
-      <td><a href="https://drive.google.com/file/d/1KqjJ7_9mblF6ynqTmkXHPqm748AgiQ9J/view?usp=sharing"> Slides</a></td>
+      <td><a href="https://drive.google.com/file/d/1KqjJ7_9mblF6ynqTmkXHPqm748AgiQ9J/view?usp=sharing"> Recording</a></td>
     </tr> 
     <tr>
       <td>Discussion 2</td>
       <td>Disc 2. Number Rep + Control Structures</td>
       <td><a href="https://docs.google.com/document/d/1j_GBxd3LCkBpO9ydLBgU1xHmx8d-dCct/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true"> Worksheet</a></td>
       <td><a href="">Solutions</a></td>
-      <td><a href="">Annotated Solution</a></td>
+      <td><a href="https://drive.google.com/file/d/1FPV77VJGZCIohNDd7e0TZ_KOGzhZwifo/view?usp=sharing">Recording</a></td>
     </tr>
      <tr>
       <td>Discussion 3</td>
@@ -51,48 +51,48 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td><a href=""> Worksheet</a></td>
       <td><a href=""> Solutions</a>
 </td>
-      <td><a href=""> Slides</a></td>
+      <td><a href=""> Recording</a></td>
     </tr>
     <tr>
       <td>Discussion 4</td>
       <td>Scoping, Lists, HOFs, & Number Representations</td>
       <td><a href="">Worksheet</a></td>
       <td><a href="">Solutions</a></td>
-      <td><a href="">Slides</a></td>
+      <td><a href="">Recording</a></td>
     </tr>
     <tr>
       <td>Discussion 5</td>
       <td>Linear Recursion</td>
       <td><a href=""> Worksheet</a></td>
       <td><a href="">Solutions</a></td>
-      <td><a href="">Slides</a></td>
+      <td><a href="">Recording</a></td>
     </tr>
     <tr>
       <td>Discussion 6</td>
       <td>Midterm Review 1</td>
       <td><a href="">Worksheet</a></td>
-      <td><a href="">Solutions</a></td>
+      <td><a href="">Recording</a></td>
       <td>Slides</td>
     </tr>
     <tr>
       <td>Discussion 7</td>
       <td>Midterm Review 2</td>
       <td><a href="">Worksheet</a></td>
-      <td><a href="">Solutions</a></td>
+      <td><a href="">Recording</a></td>
       <td>Slides</td>
     </tr>
     <tr>
       <td>Discussion 8</td>
       <td>Welcome to Python!</td>
       <td><a href="">Worksheet</a></td>
-      <td><a href="">Solutions</a></td>
+      <td><a href="">Recording</a></td>
       <td>Slides</td>
     </tr>
      <tr>
       <td>Discussion 9</td>
       <td>Python Data-Structures & OOP</td>
       <td><a href="">Worksheet</a></td>
-      <td><a href="">Solutions</a></td>
+      <td><a href="">Recording</a></td>
       <td>Slides</td>
     </tr>
     <tr>
@@ -100,28 +100,28 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>TBD</td>
       <td><a href="">Worksheet</a></td>
       <td>Solutions</td>
-      <td>Slides</td>
+      <td>Recording</td>
     </tr>
     <tr>
     <td>Discussion 11</td>
       <td>Discussion 11: Tree Recursion in Python</td>
       <td><a href="">Worksheet</a></td>
       <td><a href="">Solutions</a></td>
-      <td>Slides</td>
+      <td>Recording</td>
     </tr>
     <tr>
     <td>Discussion 12</td>
       <td>Final Review I</td>
       <td><a href="">Worksheet</a></td>
       <td>Solutions</td>
-      <td>Slides</td>
+      <td>Recording</td>
     </tr>
     <tr>
     <td>Discussion 13</td>
       <td>Final Review II</td>
       <td><a href="">Worksheet</a></td>
       <td><a href="">Solutions</a><br/></td>
-      <td>Slides</td>
+      <td>Recording</td>
     </tr>
   </tbody>
 </table>
