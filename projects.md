@@ -23,12 +23,12 @@ nav_order: 6
       <td><a href="/fa24/projects/project1">Project 1: Wordle™-lite</a></td>
       <td><a href="https://drive.google.com/file/d/1liTxubkrh5-Vtp5CbQETI9BurAquIVSx/view?usp=sharing">Proj 1 Walkthrough Slides</a></td>
       <td>Tuesday, 9/3</td>
-      <td>Tuesday, 9/10</td>
+      <td>Thursday, 9/12</td>
     </tr>
     <tr>
       <td>Project 2: Spelling Bee</td>
       <td><a href="https://drive.google.com/file/d/1eJQpY5PpUwt3vesplElChY293NFQk4Vp/view?usp=sharing">Proj 2 Walkthrough Slides</a></td>
-      <td>TBD</td>
+      <td>Thursday, 9/12</td>
       <td>TBD</td>
     </tr>
      <tr>

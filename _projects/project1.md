@@ -1,13 +1,13 @@
 ---
 title: Project 1
 description: Wordle™-lite
-due: "11:59 PM PST on Tuesday, 9/10"
+due: "11:59 PM PST on Thursday, 9/12"
 gradescope_assignment_id: 4882828
 submission_files:
     - starter.xml
 ---
 
-*Version 3.0. Last Updated: 2024-09-03.*
+*Version 3.0. Last Updated: 2024-09-08.*
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 

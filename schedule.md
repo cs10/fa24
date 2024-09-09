@@ -101,7 +101,7 @@
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><a href="/fa24/projects/project1">Proj 1: Worldle Released</a><br/><b>Due (9/10)</b></td> <!-- Assignment -->
+        <td><a href="/fa24/projects/project1">Proj 1: Worldle Released</a><br/><b>Due (9/12)</b></td> <!-- Assignment -->
     </tr>
     <tr>
         <th>Wed 9/4 </th> <!-- Date -->
