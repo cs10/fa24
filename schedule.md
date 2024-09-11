@@ -170,7 +170,7 @@
         <a href="https://drive.google.com/file/d/1ywL4uVlKTZCLU6blUafGErlwuyGe2tIO/view?usp=sharing">(Slides 5)</a><br/>
         <a href="">(Lecture Quiz 5)</a>
         </td> <!-- Lecture -->
-        <td><a href="https://docs.google.com/document/d/1tSalQ3FU2pzuBn8eIS8LraeTva0gYjDe4wPZPffUhCM/edit?usp=sharing">Lab 4. Lists + HOFs</a></td> <!-- Lab -->
+        <td><a href="https://docs.google.com/document/d/1UBSwk2pluznTyzE2tj1keDubTy3xUVD9TvAyu9PtboY/edit?usp=sharing">Lab 4. Lists + HOFs</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignments -->
     </tr>
