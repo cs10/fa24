@@ -178,7 +178,7 @@
         <th>Thu 9/12</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
-        <td><a href="">Disc 3. Data-types, Domain / Range, Scoping, Lists</a></td> <!-- Discussion -->
+        <td><a href="https://docs.google.com/document/d/1Yy1Dn08SYHF8caX6urQx8DtGGocMbzRg/edit?usp=drivesdk&ouid=106220240438634734707&rtpof=true&sd=true">Disc 3. Data-types, Domain / Range, Scoping, Lists</a></td> <!-- Discussion -->
         <td><a href="http://cs10.org/fa17/assign.html?//docs.google.com/document/d/1PZJ_LYYWRYu12cTbBKF9IyY4BqEG-BibgisBoQn9BpY/pub">Reading: Week 3 Due</a></td> <!-- Assignment -->
     </tr>
     <tr>

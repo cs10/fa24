@@ -34,21 +34,21 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Discussion 1</td>
       <td>Welcome to Snap<em>!</em></td>
-      <td><a href="https://drive.google.com/file/d/1kVcfONoJPqA5Iqv8cbxsu6_quSanSOxh/view?usp=drive_link"> Worksheet</a></td>
+      <td><a href="https://drive.google.com/file/d/1kVcfONoJPqA5Iqv8cbxsu6_quSanSOxh/view?usp=drive_link"> Worksheet 1</a></td>
       <td>Solutions</td>
       <td><a href="https://drive.google.com/file/d/1KqjJ7_9mblF6ynqTmkXHPqm748AgiQ9J/view?usp=sharing"> Recording</a></td>
     </tr> 
     <tr>
       <td>Discussion 2</td>
       <td>Number Rep + Control Structures</td>
-      <td><a href="https://docs.google.com/document/d/1j_GBxd3LCkBpO9ydLBgU1xHmx8d-dCct/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true"> Worksheet</a></td>
+      <td><a href="https://docs.google.com/document/d/1j_GBxd3LCkBpO9ydLBgU1xHmx8d-dCct/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true"> Worksheet 2</a></td>
       <td>Solutions</td>
       <td><a href="https://drive.google.com/file/d/1FPV77VJGZCIohNDd7e0TZ_KOGzhZwifo/view?usp=sharing">Recording</a></td>
     </tr>
      <tr>
       <td>Discussion 3</td>
       <td>Domain/Range, Scoping, Lists & HOFs</td>
-      <td> Worksheet</a></td>
+      <td><a href="https://docs.google.com/document/d/1Yy1Dn08SYHF8caX6urQx8DtGGocMbzRg/edit?usp=drivesdk&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 3</a></td>
       <td>Solutions</td>
       <td>Recording</td>
     </tr>
