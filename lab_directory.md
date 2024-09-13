@@ -18,8 +18,7 @@ Lab Slides: [Folder](https://drive.google.com/drive/folders/1CXRHvlQswGr2eT0zNPs
 | :----:                                        |  :----:               |
 | [Lab 1: Welcome to Snap!](https://docs.google.com/document/d/1A-e8t_ow2SamdUqJC9tfT11-ZaCn351NW3CpD-KvxN8/edit?usp=sharing)                   | WED 9/04              |
 | [Lab 2: Build Your Own Block](https://docs.google.com/document/d/1ewb7nT9CGZRqnbbYmKWaqXJHDqq6Nn0Y8vNOjgaMrBk/edit?usp=sharing)              | MON 9/09              |
-| Lab 3: Conditionals, Reporters, Testing   | WED 9/11        |
-| Lab 4. Lists + Loops                  | MON 9/16             |
-| Lab 5. Lists + HOFs                       | WED 9/18                |
-| Lab 6. Algorithms                        | MON 9/23          |
-| Lab 7. Algorithmic Complexity             | WED 9/25       |
+| [Lab 3: Conditionals, Reporters, Testing](https://docs.google.com/document/d/1NkU9MzRESC0F1l3A520-F2AtSnf3rheOFxvUEGXd4F8/edit#heading=h.ew4i1encppj2)   | WED 9/11        |
+| [Lab 4. Lists + HOFs](https://docs.google.com/document/d/1UBSwk2pluznTyzE2tj1keDubTy3xUVD9TvAyu9PtboY/edit)                 | MON 9/16             |
+| Lab 5. Algorithms                        | WED 9/18          |
+| Lab 6. Algorithmic Complexity             | MON 9/23         |
