@@ -48,9 +48,9 @@ This page will be updated with discussion Worksheets and Solutions throughout th
      <tr>
       <td>Discussion 3</td>
       <td>Domain/Range, Scoping, Lists & HOFs</td>
-      <td><a href="https://docs.google.com/document/d/1Yy1Dn08SYHF8caX6urQx8DtGGocMbzRg/edit?usp=drivesdk&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 3</a></td>
+      <td><a href="https://docs.google.com/document/d/1Yy1Dn08SYHF8caX6urQx8DtGGocMbzRg/edit usp=drivesdk&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 3</a></td>
       <td>Solutions</td>
-      <td><a href="ttps://drive.google.com/file/d/1fPbSVISiJQewK5ZG30sLlkmf7Qyg8pOK/view?usp=sharing">Recording</a></td>
+      <td><a href="https://drive.google.com/file/d/1fPbSVISiJQewK5ZG30sLlkmf7Qyg8pOK/view?usp=sharing">Recording</a></td>
     </tr>
     <tr>
       <td>Discussion 4</td>
