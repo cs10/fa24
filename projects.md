@@ -26,10 +26,10 @@ nav_order: 6
       <td>Thursday, 9/12</td>
     </tr>
     <tr>
-      <td>Project 2: Spelling Bee</td>
+      <td><a href="/fa24/projects/project2">Project 2: Spelling Bee</a></td>
       <td><a href="https://drive.google.com/file/d/1eJQpY5PpUwt3vesplElChY293NFQk4Vp/view?usp=sharing">Proj 2 Walkthrough Slides</a></td>
-      <td>Thursday, 9/12</td>
-      <td>TBD</td>
+      <td>Sunday, 9/15</td>
+      <td>Thursday, 9/26</td>
     </tr>
      <tr>
       <td>Project 3: 2048</td>
