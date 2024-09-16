@@ -1,0 +1,7 @@
+---
+name: Hala Boges
+role: Academic Intern
+email: hala.boges@
+photo: Hala_boges.png
+---
+Hi there :) My name is Hala and I’m a junior studying EECS. CS10 has been such a fun and exciting way to kickstart my coding journey, and the amazing staff make it even better! Outside of class, I love an adventure—whether it’s rock climbing, jiu-jitsu, or exploring the outdoors. I’m also passionate about cooking, baking, and finding new ways to be creative. Looking forward to a great semester with all of you! 
