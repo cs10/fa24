@@ -13,7 +13,7 @@
 
 <!-- Add a jump-to button to navigate to the current week -->
 <p>
-    <a href="#week2">Jump to Current Week</a>
+    <a href="#week4">Jump to Current Week</a>
 </p>
 
 <!-- Week 1 Calendar -->
@@ -238,7 +238,7 @@
         <th>Thu 9/12</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
-        <td><a href="">Disc 4.Algorithms</a></td> <!-- Discussion -->
+        <td><a href="">Disc 4. Algorithms</a></td> <!-- Discussion -->
         <td><a href="">Reading: Week 4 Due</a></td> <!-- Assignment -->
     </tr>
     <tr>
