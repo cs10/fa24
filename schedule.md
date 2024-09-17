@@ -221,7 +221,7 @@
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><!-- Assignment --><td>
+        <td></td><!-- Assignment -->
     </tr>
     <tr>
         <th>Wed 9/18 </th> <!-- Date -->
