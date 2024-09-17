@@ -77,15 +77,11 @@ If you cannot attend a lab section, then the lab will be due before the start of
 ### Discussion Sections
 
 
-Discussion sections are where you will delve into the content more deeply with worksheets in traditional “pen-and-paper” style. This is where you will develop the theoretical computational skills needed to understand the basics of programming and to prepare for our exams. 
-
-<b>Attendance (in-person) is required as part of your grade and will be tracked. </b> Your grade will be tracked by submitting the Discussion worksheet on Gradescope. Discussion will be located in the Anthropology and Art Practice Building, Room 160. 
-
-You can miss up-to 2 discussion sections without penalty (you don't need to tell us that you're missing class). Please reserve these drops for unexpected emergencies / sickness / ... If there are circumstances which cause you to miss more than 2 discussions (like prolonged sickness, family emergencies, etc.) then you should email your Discussion-TA and they'll discuss other options.
-
-All students will be required to submit the discussion worksheets, whether you attended in-person or not. Discussion worksheets solutions will be shared during that discussion. 
+Discussion sections are where you will delve into the content more deeply with worksheets in traditional “pen-and-paper” style. This is where you will develop the theoretical computational skills needed to understand the basics of programming and to prepare for our exams. Discussion will be located in the Anthropology and Art Practice Building, Room 160. 
 
 To get attendance credit for discussion, you will need to complete and submit the discussion worksheet (just the required portions). You must complete the entire required portions of the worksheet to receive credit. Worksheets will be graded on completion and honest effort. The discussion worksheets are located on the website, and you will submit them to Gradescope. You can submit the worksheet in any format, i.e. handwritten, electronically written, typed, etc. Discussion worksheets are due the day of the next discussion section at 11:59 PM. So, if Discussion X is due when Discussion X + 1 is released.
+
+Your two lowest discussion worksheet scores / misses will be dropped. This means you can not submit two worksheets and still get full credit in your discussion grade. Please reserve these drops for unexpected emergencies / sickness / etc. You do not need to contact us if you miss or do not attend discussion. If you need an extension, please see the extension request section. 
 
 From experience, we've observed that students who regularly attend and pay attention in discussions tend to do better on exams.
 
