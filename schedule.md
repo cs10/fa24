@@ -209,9 +209,9 @@
         <td class="schedule-week-num" rowspan=5>Week 4</td> <!-- Week Number -->
         <th>Mon 9/16</th> <!-- Date -->
         <td>Lec 6. Algorithmic Complexity<br/>
-        <a href="">(Recording 5)</a><br/>      
-        <a href="https://drive.google.com/file/d/1yxeaa3WPBIVSknjNPHnrb5Glq4IP-VuO/view?usp=sharing">(Slides 5)</a><br/>
-        <a href="">(Lecture Quiz 5)</a></td> <!-- Lecture -->
+        <a href="">(Recording 6)</a><br/>      
+        <a href="https://drive.google.com/file/d/1yxeaa3WPBIVSknjNPHnrb5Glq4IP-VuO/view?usp=sharing">(Slides 6)</a><br/>
+        <a href="">(Lecture Quiz 6)</a></td> <!-- Lecture -->
         <td><a href="https://docs.google.com/document/d/103lH4tS0RIKgsYHGcCr4935RTvF7YF0AlJg7Zscu9_E/edit?usp=sharing">Lab 5. Algorithms</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment -->
@@ -221,7 +221,7 @@
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><!-- Assignment -->
+        <td><!-- Assignment --><td>
     </tr>
     <tr>
         <th>Wed 9/18 </th> <!-- Date -->
@@ -239,7 +239,7 @@
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
         <td><a href="">Disc 4. Algorithms</a></td> <!-- Discussion -->
-        <td><a href="">Reading: Week 4 Due</a></td> <!-- Assignment -->
+        <td><a href="/fa24/readings">Reading: Week 4 Due</a></td> <!-- Assignment -->
     </tr>
     <tr>
         <th>Fri 9/13</th> <!-- Date -->
