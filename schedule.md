@@ -230,7 +230,7 @@
         <a href="">(Slides 7)</a><br/>
         <a href="">(Lecture Quiz 7)</a>
         </td> <!-- Lecture -->
-        <td><a href="">Lab 6. Algorithmic Complexity</a></td> <!-- Lab -->
+        <td><a href="https://docs.google.com/document/d/1y6HksX18w8Nknp55tdY4lFw16ea2WxvswE9_w8px_lM/edit?usp=sharing">Lab 6. Algorithmic Complexity</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignments -->
     </tr>
