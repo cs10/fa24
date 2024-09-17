@@ -22,7 +22,7 @@ Readings will be discussed and due at the beginning of Discussion section every 
 - Discussion Question: Why is a car a good example of abstraction? Using this example, give one reason why abstraction is helpful and then also give one reason why abstraction can do more harm than good. Finally, what is an example of abstraction in your daily life? (Expected length: 2 - 4 sentences).
 
 
-**Week 5 Reading**{: .label .label-reading}
+**Week 4 Reading**{: .label .label-reading}
 
 - Required:
   - [What is an Algorithm?](https://www.sciencenewsforstudents.org/article/explainer-what-is-an-algorithm)
