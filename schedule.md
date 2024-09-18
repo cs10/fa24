@@ -238,7 +238,7 @@
         <th>Thu 9/12</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
-        <td><a href="">Disc 4. Algorithms</a></td> <!-- Discussion -->
+        <td><a href="">Disc 4. HOFs + Quest Review</a></td> <!-- Discussion -->
         <td><a href="/fa24/readings">Reading: Week 4 Due</a></td> <!-- Assignment -->
     </tr>
     <tr>

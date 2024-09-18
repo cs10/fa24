@@ -54,7 +54,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
     <tr>
       <td>Discussion 4</td>
-      <td>Algorithms</td>
+      <td>HOFs + Quest Review</td>
       <td>Worksheet</td>
       <td>Solutions</td>
       <td>Recording</td>
