@@ -149,7 +149,7 @@
         <td class="schedule-week-num" rowspan=5>Week 3</td> <!-- Week Number -->
         <th>Mon 9/9</th> <!-- Date -->
         <td>Lec 4. List, Scope, + HOFs<br/>
-        <a href="">(Recording 4)</a><br/>      
+        <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 4)</a><br/>      
         <a href="https://drive.google.com/file/d/1yvqJWV8cPEzzpI3IUZiSqlKYpCq8VpHb/view?usp=sharing">(Slides 4)</a><br/>
         <a href="https://www.gradescope.com/courses/831412/assignments/4918842">(Lecture Quiz 4)</a></td> <!-- Lecture -->
         <td><a href="https://docs.google.com/document/d/1NkU9MzRESC0F1l3A520-F2AtSnf3rheOFxvUEGXd4F8/edit?usp=sharing">Lab 3. Conditionals, Reporters, Testing</a></td> <!-- Lab -->
@@ -166,7 +166,7 @@
     <tr>
         <th>Wed 9/11 </th> <!-- Date -->
         <td>Lec 5. Algorithms<br/>
-        <a href="">(Recording 5)</a><br/>      
+        <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 5)</a><br/>      
         <a href="https://drive.google.com/file/d/1ywL4uVlKTZCLU6blUafGErlwuyGe2tIO/view?usp=sharing">(Slides 5)</a><br/>
         <a href="">(Lecture Quiz 5)</a>
         </td> <!-- Lecture -->
@@ -209,9 +209,9 @@
         <td class="schedule-week-num" rowspan=5>Week 4</td> <!-- Week Number -->
         <th>Mon 9/16</th> <!-- Date -->
         <td>Lec 6. Algorithmic Complexity<br/>
-        <a href="">(Recording 6)</a><br/>      
+        <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 6)</a><br/>      
         <a href="https://drive.google.com/file/d/1yxeaa3WPBIVSknjNPHnrb5Glq4IP-VuO/view?usp=sharing">(Slides 6)</a><br/>
-        <a href="">(Lecture Quiz 6)</a></td> <!-- Lecture -->
+        <a href="https://www.gradescope.com/courses/831412/assignments/4993952">(Lecture Quiz 6)</a></td> <!-- Lecture -->
         <td><a href="https://docs.google.com/document/d/103lH4tS0RIKgsYHGcCr4935RTvF7YF0AlJg7Zscu9_E/edit?usp=sharing">Lab 5. Algorithms</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment -->
@@ -226,9 +226,9 @@
     <tr>
         <th>Wed 9/18 </th> <!-- Date -->
         <td>Quest Review<br/>
-        <a href="">(Recording 7)</a><br/>      
+        <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 7)</a><br/>      
         <a href="">(Slides 7)</a><br/>
-        <a href="">(Lecture Quiz 7)</a>
+        <a href="https://www.gradescope.com/courses/831412/assignments/4993957">(Lecture Quiz 7)</a>
         </td> <!-- Lecture -->
         <td><a href="https://docs.google.com/document/d/1y6HksX18w8Nknp55tdY4lFw16ea2WxvswE9_w8px_lM/edit?usp=sharing">Lab 6. Algorithmic Complexity</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->

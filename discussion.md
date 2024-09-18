@@ -61,7 +61,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
     <tr>
       <td>Discussion 5</td>
-      <td>Algorithmic Complexity</td>
+      <td>TBD</td>
       <td>Worksheet</td>
       <td>Solutions</td>
       <td>Recording</td>
