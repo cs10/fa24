@@ -11,7 +11,7 @@ If the calendar below appears blank, make sure you're signed in to your Berkeley
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_d46870da777fca144487a7047bbc6043a6fb4b290974ec093e5f9199fbaf8331%40group.calendar.google.com&ctz=America%2FLos_Angeles&mode=WEEK&
 src=c_46b04536f0e774749c09b60cd3daf72d7f9a4d739c3d31f94f7c469e7855749f%40group.calendar.google.com&ctz=America%2FLos_Angeles&mode&
-src=c_307130288b53ce7cd9a0509f9934a94b30425e1cdc2f631322ae321ec3bb5746%40group.calendar.google.com&ctz=America%2FLos_Angelesmode&color=%23B39DDB&color=%239E69AF&color=%238E24AA" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+src=c_307130288b53ce7cd9a0509f9934a94b30425e1cdc2f631322ae321ec3bb5746%40group.calendar.google.com&ctz=America%2FLos_Angelesmode&color=%23D81B60&color=%239E69AF&color=%238E24AA" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 To add these calendars to your Google Calendar, use <a href="https://calendar.google.com/calendar/ical/c_307130288b53ce7cd9a0509f9934a94b30425e1cdc2f631322ae321ec3bb5746%40group.calendar.google.com/public/basic.ics&
 c_d46870da777fca144487a7047bbc6043a6fb4b290974ec093e5f9199fbaf8331%40group.calendar.google.com/public/basic.ics&
 c_46b04536f0e774749c09b60cd3daf72d7f9a4d739c3d31f94f7c469e7855749f%40group.calendar.google.com/public/basic.ics">(this link)</a>
