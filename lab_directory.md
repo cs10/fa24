@@ -22,4 +22,5 @@ Lab Slides: [Folder](https://drive.google.com/drive/folders/1CXRHvlQswGr2eT0zNPs
 | [Lab 4. Lists + HOFs](https://docs.google.com/document/d/1UBSwk2pluznTyzE2tj1keDubTy3xUVD9TvAyu9PtboY/edit)                 | MON 9/16             |
 | [Lab 5. Algorithms](https://docs.google.com/document/d/103lH4tS0RIKgsYHGcCr4935RTvF7YF0AlJg7Zscu9_E/edit#heading=h.ew4i1encppj2)                        | WED 9/18          |
 | [Lab 6. Algorithmic Complexity](https://docs.google.com/document/d/1y6HksX18w8Nknp55tdY4lFw16ea2WxvswE9_w8px_lM/edit?usp=sharing)             | MON 9/23         |
-| [Lab 7. Lab 7. Testing + Proj 3]()             | MON 9/23         |
+| [Lab 7. Lab 7. Testing + Proj 3]()             | Wed 9/25         |
+| [Lab 8. Boards]()             | Mon 9/30         |
