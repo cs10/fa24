@@ -57,7 +57,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>HOFs + Quest Review</td>
       <td><a href="https://docs.google.com/document/d/1BppWjxXgXmr-CgCrqT1xrXBUITbZtAYD/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 4</a></td>
       <td>Solutions 4</td>
-      <td>Recording 4</td>
+      <td><a href="https://drive.google.com/file/d/1X4GDGuyXCzQ0B0ghyPNtVsmSw39unORw/view?usp=sharing">Recording </a></td>
     </tr>
     <tr>
       <td>Discussion 5</td>
