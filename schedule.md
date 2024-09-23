@@ -268,7 +268,7 @@
   </thead>
   <tbody class="content">
     <tr>
-        <td class="schedule-week-num" rowspan=5>Week 4</td> <!-- Week Number -->
+        <td class="schedule-week-num" rowspan=5>Week 5</td> <!-- Week Number -->
         <th>Mon 9/23</th> <!-- Date -->
         <td>Lec 8. Testing + 2048 <br/>
         <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 8)</a><br/>      
@@ -330,7 +330,7 @@
   </thead>
   <tbody class="content">
     <tr>
-        <td class="schedule-week-num" rowspan=5>Week 4</td> <!-- Week Number -->
+        <td class="schedule-week-num" rowspan=5>Week 6</td> <!-- Week Number -->
         <th>Mon 9/30</th> <!-- Date -->
         <td>Lec 10. Recursion I (Functional) <br/>
         <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 10)</a><br/>      
