@@ -332,7 +332,7 @@
     <tr>
         <td class="schedule-week-num" rowspan=5>Week 6</td> <!-- Week Number -->
         <th>Mon 9/30</th> <!-- Date -->
-        <td>Lec 10. Recursion I (Functional) <br/>
+        <td>Lec 10. Recursion I (Functional)<br/>
         <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 10)</a><br/>      
         <a href="https://drive.google.com/file/d/1z1SKQDwiBZ1ridzHkJirnoFhpW0Ck8w7/view?usp=drive_link">(Slides 10)</a><br/>
         <a href="">(Lecture Quiz 10)</a></td> <!-- Lecture -->
@@ -351,7 +351,7 @@
         <th>Wed 10/2 </th> <!-- Date -->
         <td>Lec 11. Recursion II (Fractals)<br/>
         <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 11)</a><br/>      
-        <a href=https://drive.google.com/file/d/1z39PWmUIog27k9gIpIdxU9wkdsIqPuRL/view?usp=drive_link">(Slides 11)</a><br/>
+        <a href="https://drive.google.com/file/d/1z39PWmUIog27k9gIpIdxU9wkdsIqPuRL/view?usp=drive_link">(Slides 11)</a><br/>
         <a href="">(Lecture Quiz 11)</a><br/>
         <a href="https://drive.google.com/file/d/1z4PEAPfJ5RgWcben58gTN91qMI_Bkwik/view?usp=drive_link">(Recursion Code)</a>
         </td> <!-- Lecture -->
