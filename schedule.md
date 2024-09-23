@@ -292,7 +292,7 @@
         <a href="https://drive.google.com/file/d/1yzy8PjTc0BHbw4cK8dn0x7UeqnZ3K0vR/view?usp=drive_link">(Slides 9)</a><br/>
         <a href="https://www.gradescope.com/courses/831412/assignments/5023452">(Lecture Quiz 9)</a>
         </td> <!-- Lecture -->
-        <td><a href="">No Lab Assignment <br/>Project Party 2 during lab</a></td> <!-- Lab -->
+        <td>No Lab Assignment:<br/>Project Party 2 during lab</td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignments -->
     </tr>
