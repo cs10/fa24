@@ -13,7 +13,7 @@
 
 <!-- Add a jump-to button to navigate to the current week -->
 <p>
-    <a href="#week4">Jump to Current Week</a>
+    <a href="#week5">Jump to Current Week</a>
 </p>
 
 <!-- Week 1 Calendar -->
@@ -179,7 +179,8 @@
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
         <td><a href="https://docs.google.com/document/d/1Yy1Dn08SYHF8caX6urQx8DtGGocMbzRg/edit?usp=drivesdk&ouid=106220240438634734707&rtpof=true&sd=true">Disc 3. Data-types, Domain / Range, Scoping, Lists</a></td> <!-- Discussion -->
-        <td><a href="http://cs10.org/fa17/assign.html?//docs.google.com/document/d/1PZJ_LYYWRYu12cTbBKF9IyY4BqEG-BibgisBoQn9BpY/pub">Reading: Week 3 Due</a></td> <!-- Assignment -->
+        <td><a href="http://cs10.org/fa17/assign.html?//docs.google.com/document/d/1PZJ_LYYWRYu12cTbBKF9IyY4BqEG-BibgisBoQn9BpY/pub">Reading: Week 3 Due</a><br/>
+            <a href="/fa24/projects/project2">Proj 2: Worldle Released (due 9/26)</a></td> <!-- Assignment -->
     </tr>
     <tr>
         <th>Fri 9/13</th> <!-- Date -->
@@ -225,7 +226,7 @@
     </tr>
     <tr>
         <th>Wed 9/18 </th> <!-- Date -->
-        <td>Quest Review<br/>
+        <td>Lec 7. Quest Review<br/>
         <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 7)</a><br/>      
         <a href="">(Slides 7)</a><br/>
         <a href="https://www.gradescope.com/courses/831412/assignments/4993957">(Lecture Quiz 7)</a>
@@ -235,18 +236,142 @@
         <td></td> <!-- Assignments -->
     </tr>
     <tr>
-        <th>Thu 9/12</th> <!-- Date -->
+        <th>Thu 9/19</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
         <td><a href="">Disc 4. HOFs + Quest Review</a></td> <!-- Discussion -->
         <td><a href="/fa24/readings">Reading: Week 4 Due</a></td> <!-- Assignment -->
     </tr>
     <tr>
-        <th>Fri 9/13</th> <!-- Date -->
+        <th>Fri 9/20</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
+        <td>Quest (from Sat to Sun)</td> <!-- Assignment -->
+    </tr>
+  </tbody>
+</table>
+
+
+<br/>
+<!-- Week 5 Calendar -->
+<table class="table table-bordered schedule-table" id="week5">
+  <thead>
+    <tr>
+        <th class="center schedule-week-num">Week</th>
+        <th>Date</th>
+        <th>Lecture</th>
+        <th>Lab</th>
+        <th>Discussion</th>
+        <th>Assignment</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+        <td class="schedule-week-num" rowspan=5>Week 4</td> <!-- Week Number -->
+        <th>Mon 9/23</th> <!-- Date -->
+        <td>Lec 8. Testing + 2048 <br/>
+        <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 8)</a><br/>      
+        <a href="https://drive.google.com/file/d/1yzKF1fkzG9iek-LGiVZOKzSmK4BAERDH/view?usp=sharing">(Slides 8)</a><br/>
+        <a href="https://www.gradescope.com/courses/831412/assignments/5023438">(Lecture Quiz 8)</a></td> <!-- Lecture -->
+        <td><a href="">Lab 7. Testing + Proj 3</a></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Tue 9/24</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td><!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Wed 9/25 </th> <!-- Date -->
+        <td>Lec 9. Social Implications of Computing: Computers in Education<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 9)</a><br/>      
+        <a href="https://drive.google.com/file/d/1yzy8PjTc0BHbw4cK8dn0x7UeqnZ3K0vR/view?usp=drive_link">(Slides 9)</a><br/>
+        <a href="https://www.gradescope.com/courses/831412/assignments/5023452">(Lecture Quiz 9)</a>
+        </td> <!-- Lecture -->
+        <td><a href="">No Lab Assignment <br/>Project Party 2 during lab</a></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td> <!-- Assignments -->
+    </tr>
+    <tr>
+        <th>Thu 9/26</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td><a href="">Disc 5. Algorithms</a></td> <!-- Discussion -->
+        <td><a href="/fa24/readings">Reading: Week 5 Due</a><br/>
+            <a href="/fa24/projects/project2">Proj 2 Due</a><br/>
+            <a href="">Proj 3 Released (due 10/10)</a></td> <!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Fri 9/27</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td>Quest Retake</td> <!-- Assignment -->
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+<!-- Week 6 Calendar -->
+<table class="table table-bordered schedule-table" id="week6">
+  <thead>
+    <tr>
+        <th class="center schedule-week-num">Week</th>
+        <th>Date</th>
+        <th>Lecture</th>
+        <th>Lab</th>
+        <th>Discussion</th>
+        <th>Assignment</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+        <td class="schedule-week-num" rowspan=5>Week 4</td> <!-- Week Number -->
+        <th>Mon 9/30</th> <!-- Date -->
+        <td>Lec 10. Recursion I (Functional) <br/>
+        <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 10)</a><br/>      
+        <a href="https://drive.google.com/file/d/1z1SKQDwiBZ1ridzHkJirnoFhpW0Ck8w7/view?usp=drive_link">(Slides 10)</a><br/>
+        <a href="">(Lecture Quiz 10)</a></td> <!-- Lecture -->
+        <td><a href="">Lab 8. Boards</a></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Tue 10/1</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td><!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Wed 10/2 </th> <!-- Date -->
+        <td>Lec 11. Recursion II (Fractals)<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 11)</a><br/>      
+        <a href=https://drive.google.com/file/d/1z39PWmUIog27k9gIpIdxU9wkdsIqPuRL/view?usp=drive_link">(Slides 11)</a><br/>
+        <a href="">(Lecture Quiz 11)</a><br/>
+        <a href="https://drive.google.com/file/d/1z4PEAPfJ5RgWcben58gTN91qMI_Bkwik/view?usp=drive_link">(Recursion Code)</a>
+        </td> <!-- Lecture -->
+        <td><a href="">Lab 9. Trees & Fractals</a></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td> <!-- Assignments -->
+    </tr>
+    <tr>
+        <th>Thu 10/3</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td><a href="">Disc 6. Recursion</a></td> <!-- Discussion -->
+        <td><a href="/fa24/readings">Reading: Week 6 Due</a></td> <!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Fri 10/4</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td>Quest Retake</td> <!-- Assignment -->
     </tr>
   </tbody>
 </table>

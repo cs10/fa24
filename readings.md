@@ -33,46 +33,46 @@ Readings will be discussed and due at the beginning of Discussion section every 
   - [The 10 Algorithms That Dominate Our World](http://io9.gizmodo.com/the-10-algorithms-that-dominate-our-world-1580110464)
 
 
-**Week 6 Reading**{: .label .label-reading }
+**Week 5 Reading**{: .label .label-reading }
 
 - Required:
   - [Blown to Bits: Chapter 1](http://cs10.org/sp19/resources/readings/btb/chapter1.pdf)
   - [Big O Notation — Simply explained](https://www.freecodecamp.org/news/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174/)
 
-**Week 7 Reading**{: .label .label-reading }
+**Week 6 Reading**{: .label .label-reading }
 
 - Required:
   - [Connected, but alone?](https://www.youtube.com/watch?v=t7Xr3AsBEK4&ab_channel=TED)
 - Optional:
   - [Cogs in the Machine of Our Own Lives](https://drive.google.com/drive/folders/1liEi-2_a8yPSfgaApedtHIWWTVX2-_kN)
 
-**Week 8 Reading**{: .label .label-reading }
+**Week 7 Reading**{: .label .label-reading }
 
 - Required:
   - [These are the sneaky ways apps like Instagram, Facebook, Tinder lure you in and get you 'addicted'](https://www.businessinsider.com/how-app-developers-keep-us-addicted-to-our-smartphones-2018-1)
 
-**Week 9 Reading**{: .label .label-reading }
+**Week 8 Reading**{: .label .label-reading }
 - Required:
   - [Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU)
 
-**Week 11 Reading**{: .label .label-reading }
+**Week 9 Reading**{: .label .label-reading }
 
 - Required:
   - [Why Python is a Great First Language](https://blog.trinket.io/why-python/)
 
-**Week 12 Reading**{: .label .label-reading }
+**Week 10 Reading**{: .label .label-reading }
 
 - Required:
   - [StarCraft II-playing AI AlphaStar takes out pros undefeated](https://techcrunch.com/2019/01/24/starcraft-ii-playing-ai-alphastar-takes-out-pros-undefeated/)
 
-**Week 13 Reading**{: .label .label-reading }
+**Week 11 Reading**{: .label .label-reading }
 
 - Required:
   - [What is Data Science?](https://www.thinkful.com/blog/what-is-data-science/)
   - [How to Start Thinking Like a Data Scientist](https://hbr.org/2013/11/how-to-start-thinking-like-a-data-scientist)
   - [Spurious Correlations](http://www.tylervigen.com/spurious-correlations)
 
-**Week 14 Reading**{: .label .label-reading }
+**Week 12 Reading**{: .label .label-reading }
 
   - Optional: [The Secret History of Women in Coding](https://drive.google.com/file/d/1m9ycbBZLf5WXTwVmtGw9-i-wz4-QgdOV/view?usp=sharing)
 
