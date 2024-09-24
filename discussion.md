@@ -61,10 +61,10 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
     <tr>
       <td>Discussion 5</td>
-      <td>TBD</td>
-      <td>Worksheet</td>
-      <td>Solutions</td>
-      <td>Recording</td>
+      <td>Algorithms</td>
+      <td>Worksheet 5</td>
+      <td>Solutions 5</td>
+      <td><a href="">Recording 5</a></td>
     </tr>
     <tr>
       <td>Discussion 6</td>
