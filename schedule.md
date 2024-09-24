@@ -274,7 +274,7 @@
         <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 8)</a><br/>      
         <a href="https://drive.google.com/file/d/1yzKF1fkzG9iek-LGiVZOKzSmK4BAERDH/view?usp=sharing">(Slides 8)</a><br/>
         <a href="https://www.gradescope.com/courses/831412/assignments/5023438">(Lecture Quiz 8)</a></td> <!-- Lecture -->
-        <td><a href="">Lab 7. Testing + Proj 3</a></td> <!-- Lab -->
+        <td><a href="https://docs.google.com/document/d/1x65mJTTFzVyOTU2uZYnrQvzL5H6SQ-ccJIgz0XKbsIY/edit">Lab 7. Testing + Proj 3</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment -->
     </tr>
