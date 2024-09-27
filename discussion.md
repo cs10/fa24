@@ -57,14 +57,14 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>HOFs + Quest Review</td>
       <td><a href="https://docs.google.com/document/d/1BppWjxXgXmr-CgCrqT1xrXBUITbZtAYD/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 4</a></td>
       <td>Solutions 4</td>
-      <td><a href="https://drive.google.com/file/d/1X4GDGuyXCzQ0B0ghyPNtVsmSw39unORw/view?usp=sharing">Recording </a></td>
+      <td><a href="https://drive.google.com/file/d/1X4GDGuyXCzQ0B0ghyPNtVsmSw39unORw/view?usp=sharing">Recording 4</a></td>
     </tr>
     <tr>
       <td>Discussion 5</td>
       <td>Algorithms</td>
       <td><a href="https://docs.google.com/document/d/1hPJkV1ZR-NF4ydqPYAy5y_VSLdr2alJQ/edit?usp=sharing&ouid=102828999467017092876&rtpof=true&sd=true">Worksheet 5</a></td>
       <td>Solutions 5</td>
-      <td><a href="">Recording 5</a></td>
+      <td><a href="https://drive.google.com/file/d/1CBVRPAj-qU3pEBOJEmGsMcKO3trMrz-Z/view?usp=sharing">Recording 5</a></td>
     </tr>
     <tr>
       <td>Discussion 6</td>
