@@ -300,7 +300,7 @@
         <th>Thu 9/26</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
-        <td><a href="">Disc 5. Algorithms</a></td> <!-- Discussion -->
+        <td><a href="https://docs.google.com/document/d/1hPJkV1ZR-NF4ydqPYAy5y_VSLdr2alJQ/edit?usp=sharing&ouid=102828999467017092876&rtpof=true&sd=true">Disc 5. Algorithms</a></td> <!-- Discussion -->
         <td><a href="/fa24/readings">Reading: Week 5 Due</a><br/>
             <a href="/fa24/projects/project2">Proj 2 Due</a><br/>
             <a href="">Proj 3 Released (due 10/10)</a></td> <!-- Assignment -->
