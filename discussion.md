@@ -62,7 +62,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Discussion 5</td>
       <td>Algorithms</td>
-      <td>Worksheet 5</td>
+      <td><a href="https://docs.google.com/document/d/1hPJkV1ZR-NF4ydqPYAy5y_VSLdr2alJQ/edit?usp=sharing&ouid=102828999467017092876&rtpof=true&sd=true">Worksheet 5</a></td>
       <td>Solutions 5</td>
       <td><a href="">Recording 5</a></td>
     </tr>
