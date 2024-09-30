@@ -336,7 +336,7 @@
         <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 10)</a><br/>      
         <a href="https://drive.google.com/file/d/1z1SKQDwiBZ1ridzHkJirnoFhpW0Ck8w7/view?usp=drive_link">(Slides 10)</a><br/>
         <a href="">(Lecture Quiz 10)</a></td> <!-- Lecture -->
-        <td><a href="">Lab 8. Boards</a></td> <!-- Lab -->
+        <td><a href="https://docs.google.com/document/d/1kjg8lereiUnvM6XltHGN-XlrzOqgPEjwCGroBEt78eY/edit">Lab 8. Boards</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment -->
     </tr>
@@ -355,7 +355,7 @@
         <a href="">(Lecture Quiz 11)</a><br/>
         <a href="https://drive.google.com/file/d/1z4PEAPfJ5RgWcben58gTN91qMI_Bkwik/view?usp=drive_link">(Recursion Code)</a>
         </td> <!-- Lecture -->
-        <td><a href="">Lab 9. Trees & Fractals</a></td> <!-- Lab -->
+        <td><a href="https://docs.google.com/document/d/1UtbGEcQo7wyQvMvNEv87ob1NQZOFRjcHah2twnNQL-Y/edit?usp=drive_link">Lab 9. Trees & Fractals</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignments -->
     </tr>
