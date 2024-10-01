@@ -32,10 +32,10 @@ nav_order: 6
       <td>Thursday, 9/26</td>
     </tr>
      <tr>
-      <td>Project 3: 2048</td>
+      <td><a href="/fa24/projects/project3">Project 3: 2048</a></td>
       <td><a href="https://drive.google.com/file/d/1koa1TbOmoDa5tiIEm6hohQjiMaWjLI1H/view?usp=sharing">Proj 3 Walkthrough Slides</a></td>
-      <td>TBD</td>
-      <td>TBD</td>
+      <td>Tuesday, 10/1</td>
+      <td>Thursday, 10/10</td>
     </tr>
     <tr>
       <td>Project 4: Explorer</td>

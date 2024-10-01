@@ -13,7 +13,7 @@
 
 <!-- Add a jump-to button to navigate to the current week -->
 <p>
-    <a href="#week5">Jump to Current Week</a>
+    <a href="#week6">Jump to Current Week</a>
 </p>
 
 <!-- Week 1 Calendar -->
@@ -303,7 +303,7 @@
         <td><a href="https://docs.google.com/document/d/1hPJkV1ZR-NF4ydqPYAy5y_VSLdr2alJQ/edit?usp=sharing&ouid=102828999467017092876&rtpof=true&sd=true">Disc 5. Algorithms</a></td> <!-- Discussion -->
         <td><a href="/fa24/readings">Reading: Week 5 Due</a><br/>
             <a href="/fa24/projects/project2">Proj 2 Due</a><br/>
-            <a href="">Proj 3 Released (due 10/10)</a></td> <!-- Assignment -->
+            </td> <!-- Assignment -->
     </tr>
     <tr>
         <th>Fri 9/27</th> <!-- Date -->
@@ -335,7 +335,7 @@
         <td>Lec 10. Recursion I (Functional)<br/>
         <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 10)</a><br/>      
         <a href="https://drive.google.com/file/d/1z1SKQDwiBZ1ridzHkJirnoFhpW0Ck8w7/view?usp=drive_link">(Slides 10)</a><br/>
-        <a href="">(Lecture Quiz 10)</a></td> <!-- Lecture -->
+        <a href="https://www.gradescope.com/courses/831412/assignments/5080498">(Lecture Quiz 10)</a></td> <!-- Lecture -->
         <td><a href="https://docs.google.com/document/d/1kjg8lereiUnvM6XltHGN-XlrzOqgPEjwCGroBEt78eY/edit">Lab 8. Boards</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment -->
@@ -345,7 +345,7 @@
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td><!-- Assignment -->
+        <td><a href="/fa24/projects/project3">Proj 3 Released (due 10/10)</a></td><!-- Assignment -->
     </tr>
     <tr>
         <th>Wed 10/2 </th> <!-- Date -->
