@@ -73,10 +73,6 @@ we won’t know when or how to help unless you let us know!
 
 ***Note*: You can import blocks from libraries**
 
-## Starter File
-
-Please save a copy of this [skeleton Snap! file](https://snap.berkeley.edu/snap/snap.html#present:Username=dan%20garcia&ProjectName=BJC%20CS10%20Project%203%3A%202048) using ‘Save As’ to begin.
-
 ## Helper Blocks
 
 [](/fa24/assets/images/p3/p2.png)
