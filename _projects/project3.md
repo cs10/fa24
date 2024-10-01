@@ -71,7 +71,7 @@ assistance —Ed, Office hours, labs, and the project party are all here to help
 you’re doing! If you can’t make the times, tell us, and we’ll figure out how you can still get support. But
 we won’t know when or how to help unless you let us know!
 
-***Note*: You are not allowed to import any blocks from libraries**
+***Note*: You can import blocks from libraries**
 
 ## Starter File
 
