@@ -46,7 +46,7 @@ be reporters, and should not update the board display — that’s handled for y
 So **make sure not to mutate the original board.** Once you’ve completed those five block definitions,
 you won’t need to change anything else about the code; it should work!
 
-[2048 Example](/fa24/assets/images/p3/p1.png)
+[](/fa24/assets/images/p3/p1.png)
 
 In a nutshell, the game works like this:
 
@@ -79,7 +79,7 @@ Please save a copy of this [skeleton Snap! file](https://snap.berkeley.edu/snap/
 
 ## Helper Blocks
 
-[Board Example](/fa24/assets/images/p3/p2.png)
+[](/fa24/assets/images/p3/p2.png)
 
 
 You will not need to know how we represent a board in this game — we have provided the following nine helper blocks for you to use to interface with our board implementation. *The Power of Abstraction!*  With this in mind, **please make sure not to modify the input board** in any of the blocks you write! In addition, **please use these blocks, rather than coming up with your own.** Also keep in mind that you generally want to abstract as much as possible, meaning you should not use global variables within blocks. We created all custom blocks (including the five you will fill out) so that any information you’ll need will be passed into the block as input.
@@ -149,11 +149,11 @@ Hint: We found the “cascade” block helpful…
 
 An important part of learning to program is being able to test your code effectively. We’ve taken the training wheels off; in earlier projects we gave you all the tests, here we ask you to create the tests yourself. In the TESTER sprite, you will see four blocks:
 
-[Tests Example](/fa24/assets/images/p3/p3.png)
+[](/fa24/assets/images/p3/p3.png)
 
 You need to create at least two separate test cases for these four blocks, with their respective expected output. Once you are done with all your tests, to get credit from the autograder, you have to drag these four blocks into the four holes of the append block and then click that block to assign GRADED TESTS, which the Autograder will use to give you credit.
 
-[Graded Tests Example](/fa24/assets/images/p3/p4.png)
+[](/fa24/assets/images/p3/p4.png)
 
 Please note that your test cases should output True, not False. This is because the goal of testing is to check that your blocks work in normal cases as well as edge cases, not to check that it fails when expected. If your block outputs False, we assume this means your block does not pass the case and is therefore faulty. When writing test cases, each test should include input and output (follow the format in the Testing lab), and you should think about a genuine input for the block that would help you test if it accomplishes the task it should do, or catches some edgecase. For example, does the merge column up block work on a column with the values [0, 0, 2, 2]? If the merge column with this input correctly outputs [4, 0, 0, 0] in that column, the test block should output True.
 Check out these workbook pages which go deeper into the Test block and testing. Feel free to test your concepts in the 2048 lab section. Tests only present in your lab sprite will not be counted for project credit. The tests must be present in the “TESTER” section. 
