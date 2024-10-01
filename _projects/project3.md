@@ -1,9 +1,23 @@
-# Project 3 - 2048
+---
+title: Project 3
+description: 2048
+due: "11:59 PM PST on Thursday, 10/10"
+gradescope_assignment_id: 5082827
+submission_files:
+    - starter.xml
+---
 
-Version 2.0 Last Updated: 2024-07-02
+*Version 3.0. Last Updated: 2024-10-01.*
 
-We highly recommend reading through this spec in its entirety before you begin.
-We also recommend you complete all labs up to and including Lab 7: Boards
+*We highly recommend reading through this spec in its entirety before you begin.*
+
+*We also recommend you complete all labs up to and including Lab 8: Boards*
+
+*[Project walkthrough guide.pdf](https://drive.google.com/file/d/1koa1TbOmoDa5tiIEm6hohQjiMaWjLI1H/view?usp=sharing)*
+
+## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=dan%20garcia&ProjectName=BJC%20CS10%20Project%203%3A%202048)
+
+> Any important updates or clarifications will be made here.
 
 ## Content
 
