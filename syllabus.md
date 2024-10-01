@@ -50,6 +50,7 @@ This semester, CS10 will run fully in-person. Consequently, remote (or hybrid) s
 
 ## Primary Course Components
 
+[](/fa24/assets/images/general/i1.png)
 
 ### Lecture 
 
