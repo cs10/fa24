@@ -363,7 +363,7 @@
         <th>Thu 10/3</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
-        <td><a href="">Disc 6. Recursion</a></td> <!-- Discussion -->
+        <td><a href="https://docs.google.com/document/d/1vJmLNpMSUxD05ibt1vWhZ8xl677ytRwl/edit#heading=h.a896o5zg6s8y">Disc 6. Recursion</a></td> <!-- Discussion -->
         <td><a href="/fa24/readings">Reading: Week 6 Due</a></td> <!-- Assignment -->
     </tr>
     <tr>
