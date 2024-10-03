@@ -69,7 +69,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Discussion 6</td>
       <td>Recursion I</td>
-      <td><a href="https://docs.google.com/document/d/1vJmLNpMSUxD05ibt1vWhZ8xl677ytRwl/edit#heading=h.a896o5zg6s8y">Worksheet</a></td>
+      <td><a href="https://docs.google.com/document/d/1vJmLNpMSUxD05ibt1vWhZ8xl677ytRwl/edit#heading=h.a896o5zg6s8y">Worksheet 6</a></td>
       <td>Solutions</td>
       <td>Recording</td>
     </tr>
