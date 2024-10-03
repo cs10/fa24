@@ -67,7 +67,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td><a href="https://drive.google.com/file/d/1CBVRPAj-qU3pEBOJEmGsMcKO3trMrz-Z/view?usp=sharing">Recording 5</a></td>
     </tr>
     <tr>
-      <td>Discussion 6</td>
+      <td><a href="https://docs.google.com/document/d/1vJmLNpMSUxD05ibt1vWhZ8xl677ytRwl/edit#heading=h.a896o5zg6s8y">Discussion 6</a></td>
       <td>Recursion I</td>
       <td>Worksheet</td>
       <td>Solutions</td>
