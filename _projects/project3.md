@@ -131,8 +131,8 @@ This [article breaks](https://steven.codes/blog/cs10/2048-merge/) down the compo
 **Output**: a copy of the board in which column col has been completely merged up
 
 'merge up'
-Input: board - a 2048 game board at some point in the game
-Output: a copy of board in which all columns have been merged up
+**Input**: board - a 2048 game board at some point in the game
+**Output**: a copy of board in which all columns have been merged up
 
 Make sure you aren’t modifying the original board when working on this. Your output should be a new version of the board, and should not update the existing board. Updating the existing board is done for you in the provided game code. 
 Note that we only need one block that merges upward (rather than four blocks that each merge left, right, up, down) because we have the ‘rotate clockwise’ block. If we want to merge left, for example, we can first rotate the board clockwise 90 degrees, merge up, and then rotate the board clockwise 270 degrees. The provided skeleton code implements this for you, though!
