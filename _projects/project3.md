@@ -122,12 +122,20 @@ Make sure you aren’t modifying the original board when working on this. Your o
 
 ## Part 3: Merging
 
-In this section of the project, you’ll be filling out two blocks: ‘merge column _ of _ up’ and ‘merge up _’. It is highly recommended that you make helper blocks as part of your implementation of ‘merge column _ of _ up’. Note that you can create helper blocks by right clicking in the scripting area and selecting “make a block…”
+In this section of the project, you’ll be filling out two blocks: ‘merge column _ of _ up’ and ‘merge up _’. It is highly recommended that you make helper blocks as part of your implementation of ‘merge column _ of _ up’. Note that you can create **helper blocks** by right clicking in the scripting area and selecting “make a block…”
 
-**Input:** board - a 2048 game board with at least one empty space  
-**Output:** a copy of board with an added value at a random location
+This [article breaks](https://steven.codes/blog/cs10/2048-merge/) down the components of merging a single column, which you should mimic with your implementation. Also, make sure that you’re maintaining the abstraction provided by ‘merge column __ of __ up’ when you build ‘merge up __’ which is to say try to use ‘merge column __ of __ up’ while coding up ‘merge up __’. 
 
-Make sure you aren’t modifying the original board when working on this. Your output should be a new copy of the board, and should not update the existing board. Updating the existing board is done for you in the provided game code.
+'merge column __ of __ up’
+**Input**: col (number, 1 is the leftmost column), board - a 2048 game board
+**Output**: a copy of the board in which column col has been completely merged up
+
+'merge up'
+Input: board - a 2048 game board at some point in the game
+Output: a copy of board in which all columns have been merged up
+
+Make sure you aren’t modifying the original board when working on this. Your output should be a new version of the board, and should not update the existing board. Updating the existing board is done for you in the provided game code. 
+Note that we only need one block that merges upward (rather than four blocks that each merge left, right, up, down) because we have the ‘rotate clockwise’ block. If we want to merge left, for example, we can first rotate the board clockwise 90 degrees, merge up, and then rotate the board clockwise 270 degrees. The provided skeleton code implements this for you, though!
 
 *Hint:* Stuck? Check out some of the existing blocks in Snap! How will you find where to insert the value in the board? Are there any blocks we provide that could help?
 
