@@ -702,7 +702,6 @@
         <th>Mon 11/11</th> <!-- Date -->
         <td colspan="4">NO CLASS (Holiday)</td>
     </tr>
-    </tr>
     <tr>
         <th>Tue 11/12</th> <!-- Date -->
         <td></td><!-- Lecture -->
