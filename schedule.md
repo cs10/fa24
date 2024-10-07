@@ -394,7 +394,7 @@
     <tr>
         <td class="schedule-week-num" rowspan=5>Week 7</td> <!-- Week Number -->
         <th>Mon 10/7</th> <!-- Date -->
-        <td>Lec 10. Guest - Saving the World with Computing<br/>
+        <td>Lec 12. Guest - Saving the World with Computing<br/>
         <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 12)</a><br/>      
         <a href="https://drive.google.com/file/d/1yzy8PjTc0BHbw4cK8dn0x7UeqnZ3K0vR/view?usp=drive_link">(Slides 12)</a><br/>
         <a href="https://www.gradescope.com/courses/831412/assignments/5112744">(Lecture Quiz 12)</a></td> <!-- Lecture -->
@@ -411,7 +411,7 @@
     </tr>
     <tr>
         <th>Wed 10/9 </th> <!-- Date -->
-        <td>Lec 11. Tree Recursion (Count Change)<br/>
+        <td>Lec 13. Tree Recursion (Count Change)<br/>
         <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 13)</a><br/>      
         <a href="https://drive.google.com/file/d/1z541Ky4_wmBRYIQClyyVK-DWPkBxdoUK/view?usp=drive_link">(Slides 13)</a><br/>
         <a href="https://www.gradescope.com/courses/831412/assignments/5112745">(Lecture Quiz 13)</a><br/>
@@ -436,6 +436,558 @@
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td>Quest Retake</td> <!-- Assignment -->
+    </tr>
+  </tbody>
+</table>
+
+
+<br/>
+<!-- Week 8 Calendar -->
+<table class="table table-bordered schedule-table" id="week8">
+  <thead>
+    <tr>
+        <th class="center schedule-week-num">Week</th>
+        <th>Date</th>
+        <th>Lecture</th>
+        <th>Lab</th>
+        <th>Discussion</th>
+        <th>Assignment</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+        <td class="schedule-week-num" rowspan=5>Week 8</td> <!-- Week Number -->
+        <th>Mon 10/14</th> <!-- Date -->
+        <td>Lec 14. Higher-Order Functions<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 14)</a><br/>      
+        <a href="https://drive.google.com/file/d/1zGWjOyOWXA2lEyEaRBZcE5pLuBME2TIP/view?usp=drive_link">(Slides 14)</a><br/>
+        <a href="">(Lecture Quiz 14)</a></td> <!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Tue 10/15</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td><!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Wed 10/16 </th> <!-- Date -->
+        <td>Lec 15. Programming Paradigms<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 15)</a><br/>      
+        <a href="">(Slides 15)</a><br/>
+        <a href="">(Lecture Quiz 15)</a>
+        </td> <!-- Lecture -->
+        <td><a href="">Midterm Review + Practice Midterm</a></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td> <!-- Assignments -->
+    </tr>
+    <tr>
+        <th>Thu 10/17</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td><a href="">Disc 8. Proj 4 Presentations</a></td> <!-- Discussion -->
+        <td><a href="/fa24/readings">Reading: Week 8 Due</a><br/>
+        Proj 4 Due</td> <!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Fri 10/18</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td>Midterm</td> <!-- Assignment -->
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+<!-- Week 9 Calendar -->
+<table class="table table-bordered schedule-table" id="week9">
+  <thead>
+    <tr>
+        <th class="center schedule-week-num">Week</th>
+        <th>Date</th>
+        <th>Lecture</th>
+        <th>Lab</th>
+        <th>Discussion</th>
+        <th>Assignment</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+        <td class="schedule-week-num" rowspan=5>Week 9</td> <!-- Week Number -->
+        <th>Mon 10/21</th> <!-- Date -->
+        <td>Lec 16. Intro to Python<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 16)</a><br/>      
+        <a href="https://drive.google.com/file/d/1zKWK7HjrfsacsH8LSNF7t_tlaJ9uCqbb/view?usp=drive_link">(Slides 16)</a><br/>
+        <a href="">(Lecture Quiz 16)</a></td> <!-- Lecture -->
+        <td><a href="">Lab 12. Welcome to Python</a></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Tue 10/22</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td><!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Wed 10/23</th> <!-- Date -->
+        <td>Lec 17. Data Types & Structures (Python II)<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 17)</a><br/>      
+        <a href="https://drive.google.com/file/d/1zM2cHCUe2vL9uIPWoQFl_CNnjJbGjPZq/view?usp=drive_link">(Slides 17)</a><br/>
+        <a href="">(Lecture Quiz 17)</a>
+        </td> <!-- Lecture -->
+        <td><a href="">Lab 13. Data Structures in Python</a></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td><a href="">Final Proj Released</a></td> <!-- Assignments -->
+    </tr>
+    <tr>
+        <th>Thu 10/24</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td><a href="">Disc 9. Intro to Python</a></td> <!-- Discussion -->
+        <td><a href="/fa24/readings">Reading: Week 9 Due</a></td> <!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Fri 10/25</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td>Midterm Retake</td> <!-- Assignment -->
+    </tr>
+  </tbody>
+</table>
+
+
+<br/>
+<!-- Week 10 Calendar -->
+<table class="table table-bordered schedule-table" id="week10">
+  <thead>
+    <tr>
+        <th class="center schedule-week-num">Week</th>
+        <th>Date</th>
+        <th>Lecture</th>
+        <th>Lab</th>
+        <th>Discussion</th>
+        <th>Assignment</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+        <td class="schedule-week-num" rowspan=5>Week 10</td> <!-- Week Number -->
+        <th>Mon 10/28</th> <!-- Date -->
+        <td>Lec 18. Linear Recursion (Python III)<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 18)</a><br/>      
+        <a href="">(Slides 18)</a><br/>
+        <a href="">(Lecture Quiz 18)</a></td> <!-- Lecture -->
+        <td><a href="">Lab 14. Linear Recursion</a></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Tue 10/29</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td><!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Wed 10/30</th> <!-- Date -->
+        <td>Lec 19. Tree Recursion & Game Theory (Python IV)<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 19)</a><br/>      
+        <a href="https://drive.google.com/drive/folders/1zMu4kA_ijbOTFFdWgP8q1mAKz23kPxrs?usp=drive_link">(Slides 19)</a><br/>
+        <a href="">(Lecture Quiz 19)</a>
+        </td> <!-- Lecture -->
+        <td><a href="">Lab 15. Tree Recursion</a></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td><a href="">Final Proj Prosposal Due</a></td> <!-- Assignments -->
+    </tr>
+    <tr>
+        <th>Thu 10/31</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td><a href="">Disc 10. List Comprehension + Dictionaries</a></td> <!-- Discussion -->
+        <td><a href="/fa24/readings">Reading: Week 10 Due</a></td> <!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Fri 11/1</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td>Midterm Retake</td> <!-- Assignment -->
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+<!-- Week 11 Calendar -->
+<table class="table table-bordered schedule-table" id="week11">
+  <thead>
+    <tr>
+        <th class="center schedule-week-num">Week</th>
+        <th>Date</th>
+        <th>Lecture</th>
+        <th>Lab</th>
+        <th>Discussion</th>
+        <th>Assignment</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+        <td class="schedule-week-num" rowspan=5>Week 11</td> <!-- Week Number -->
+        <th>Mon 11/4</th> <!-- Date -->
+        <td>Lec 20. OOP (Python V)<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 20)</a><br/>      
+        <a href="">(Slides 20)</a><br/>
+        <a href="">(Lecture Quiz 20)</a></td> <!-- Lecture -->
+        <td><a href="">Lab 16. OOP in Python</a></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Tue 11/5</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td><!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Wed 11/6</th> <!-- Date -->
+        <td>Lec 21. HOFs in Python (Python VI)<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 21)</a><br/>      
+        <a href="">(Slides 21)</a><br/>
+        <a href="">(Lecture Quiz 21)</a>
+        </td> <!-- Lecture -->
+        <td><a href="">Lab 17. Text Processing in Python</a></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td> <!-- Assignments -->
+    </tr>
+    <tr>
+        <th>Thu 11/7</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td><a href="">Disc 11: OOP + Python HOFs</a></td> <!-- Discussion -->
+        <td><a href="/fa24/readings">Reading: Week 11 Due</a></td> <!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Fri 11/8</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td>Midterm Retake</td> <!-- Assignment -->
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+<!-- Week 12 Calendar -->
+<table class="table table-bordered schedule-table" id="week12">
+  <thead>
+    <tr>
+        <th class="center schedule-week-num">Week</th>
+        <th>Date</th>
+        <th>Lecture</th>
+        <th>Lab</th>
+        <th>Discussion</th>
+        <th>Assignment</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+        <td class="schedule-week-num" rowspan=5>Week 12</td> <!-- Week Number -->
+        <th>Mon 11/11</th> <!-- Date -->
+        <td colspan="4">NO CLASS (Holiday)</td>
+    </tr>
+    </tr>
+    <tr>
+        <th>Tue 11/12</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td>Proj 5 Due</td><!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Wed 11/13</th> <!-- Date -->
+        <td>Lec 22. Concurrency + Parallelism<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 22)</a><br/>      
+        <a href="">(Slides 22)</a><br/>
+        <a href="">(Lecture Quiz 22)</a>
+        </td> <!-- Lecture -->
+        <td><a href="">Lab 18. Concurrency + Parallelism</a></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td> <!-- Assignments -->
+    </tr>
+    <tr>
+        <th>Thu 11/14</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td><a href="">Disc 12: Concurrency + Review</a></td> <!-- Discussion -->
+        <td><a href="/fa24/readings">Reading: Week 12 Due</a></td> <!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Fri 11/15</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td>Postterm</td> <!-- Assignment -->
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+<!-- Week 13 Calendar -->
+<table class="table table-bordered schedule-table" id="week13">
+  <thead>
+    <tr>
+        <th class="center schedule-week-num">Week</th>
+        <th>Date</th>
+        <th>Lecture</th>
+        <th>Lab</th>
+        <th>Discussion</th>
+        <th>Assignment</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+        <td class="schedule-week-num" rowspan=5>Week 13</td> <!-- Week Number -->
+        <th>Mon 11/18</th> <!-- Date -->
+        <td>Lec 23. Generative AI<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 23)</a><br/>      
+        <a href="https://drive.google.com/file/d/1zWS044M3w1PBy62KRJ1DKS7ldruEAQXl/view?usp=drive_link">(Slides 23)</a><br/>
+        <a href="">(Lecture Quiz 23)</a></td> <!-- Lecture -->
+        <td><a href="">Lab 19. Generative AI</a></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Tue 11/19</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td><!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Wed 11/20</th> <!-- Date -->
+        <td>Lec 24. Ethics in AI<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 24)</a><br/>      
+        <a href="https://drive.google.com/file/d/1zXUWs0ZjDk2KAvR7gGql175tZJn5AP94/view?usp=drive_link">(Slides 24)</a><br/>
+        <a href="">(Lecture Quiz 24)</a>
+        </td> <!-- Lecture -->
+        <td><a href="">Lab 20. Data Science</a></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td> <!-- Assignments -->
+    </tr>
+    <tr>
+        <th>Thu 11/21</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td><a href="">Disc 13: Review</a></td> <!-- Discussion -->
+        <td><a href="/fa24/readings">Reading: Week 13 Due</a></td> <!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Fri 11/22</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td>Postterm Retake</td> <!-- Assignment -->
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+<!-- Week 14 Calendar -->
+<table class="table table-bordered schedule-table" id="week14">
+  <thead>
+    <tr>
+        <th class="center schedule-week-num">Week</th>
+        <th>Date</th>
+        <th>Lecture</th>
+        <th>Lab</th>
+        <th>Discussion</th>
+        <th>Assignment</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+        <td class="schedule-week-num" rowspan=5>Week 14</td> <!-- Week Number -->
+        <th>Mon 11/25</th> <!-- Date -->
+        <td>Lec 25. Human-computer Interaction (HCI) - Guest<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 25)</a><br/>      
+        <a href="">(Slides 25)</a><br/>
+        <a href="">(Lecture Quiz 25)</a></td> <!-- Lecture -->
+        <td>Final Proj Party</td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Tue 11/26</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td><!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Wed 11/27</th> <!-- Date -->
+        <td colspan="4">NO CLASS (Holiday)</td>
+    </tr>
+    <tr>
+        <th>Thu 11/28</th> <!-- Date -->
+        <td colspan="4">NO CLASS (Holiday)</td>
+    </tr>
+    <tr>
+        <th>Fri 11/29</th> <!-- Date -->
+        <td colspan="4">NO CLASS (Holiday)</td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+<!-- Week 15 Calendar -->
+<table class="table table-bordered schedule-table" id="week15">
+  <thead>
+    <tr>
+        <th class="center schedule-week-num">Week</th>
+        <th>Date</th>
+        <th>Lecture</th>
+        <th>Lab</th>
+        <th>Discussion</th>
+        <th>Assignment</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+        <td class="schedule-week-num" rowspan=5>Week 15</td> <!-- Week Number -->
+        <th>Mon 12/2</th> <!-- Date -->
+        <td>Lec 26. Alumni Panel<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 26)</a><br/>      
+        <a href="https://drive.google.com/file/d/1zWS044M3w1PBy62KRJ1DKS7ldruEAQXl/view?usp=drive_link">(Slides 26)</a><br/>
+        <a href="">(Lecture Quiz 26)</a></td> <!-- Lecture -->
+        <td>Final Proj Party</td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Tue 12/3</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td><!-- Lab -->
+        <td></td><!-- Discussion -->
+        <td></td><!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Wed 12/4</th> <!-- Date -->
+        <td>Lec 27. Conclusion + Farewell<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 27)</a><br/>      
+        <a href="https://drive.google.com/file/d/1zXUWs0ZjDk2KAvR7gGql175tZJn5AP94/view?usp=drive_link">(Slides 27)</a><br/>
+        <a href="">(Lecture Quiz 27)</a>
+        </td> <!-- Lecture -->
+        <td><a href="">Practice Postterm</td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td> <!-- Assignments -->
+    </tr>
+    <tr>
+        <th>Thu 12/5</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td><a href="">Disc 14: Review</a></td> <!-- Discussion -->
+        <td><a href="/fa24/readings">Reading: Week 15 Due</a></td> <!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Fri 12/6</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td>Final Proj Due<br/>
+        Postterm Retake</td> <!-- Assignment -->
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+<!-- Week 16 Calendar -->
+<table class="table table-bordered schedule-table" id="week16">
+  <thead>
+    <tr>
+        <th class="center schedule-week-num">Week</th>
+        <th>Date</th>
+        <th>Lecture</th>
+        <th>Lab</th>
+        <th>Discussion</th>
+        <th>Assignment</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+        <td class="schedule-week-num" rowspan=5>Week 16</td> <!-- Week Number -->
+        <th>Mon 12/9</th> <!-- Date -->
+        <td colspan="3">NO CLASS (RRR Week)</td>
+        <td>Postterm Retake</td> <!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Tue 12/10</th> <!-- Date -->
+        <td colspan="3">NO CLASS (RRR Week)</td>
+        <td>Postterm Retake</td> <!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Wed 12/11</th> <!-- Date -->
+        <td colspan="3">NO CLASS (RRR Week)</td>
+        <td>Postterm Retake</td> <!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Thu 12/12</th> <!-- Date -->
+        <td colspan="3">NO CLASS (RRR Week)</td>
+        <td>Postterm Retake</td> <!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Fri 12/13</th> <!-- Date -->
+        <td colspan="3">NO CLASS (RRR Week)</td>
+        <td>Postterm Retake</td> <!-- Assignment -->
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+<!-- Week 17 Calendar -->
+<table class="table table-bordered schedule-table" id="week17">
+  <thead>
+    <tr>
+        <th class="center schedule-week-num">Week</th>
+        <th>Date</th>
+        <th>Lecture</th>
+        <th>Lab</th>
+        <th>Discussion</th>
+        <th>Assignment</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+        <td class="schedule-week-num" rowspan=5>Week 16</td> <!-- Week Number -->
+        <th>Mon 12/16</th> <!-- Date -->
+        <td colspan="3">NO CLASS (Finals Week)</td>
+        <td>Postterm Retake</td> <!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Tue 12/17</th> <!-- Date -->
+        <td colspan="3">NO CLASS (Finals Week)</td>
+        <td>Postterm Retake</td> <!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Wed 12/18</th> <!-- Date -->
+        <td colspan="3">NO CLASS (Finals Week)</td>
+        <td>Postterm Retake</td> <!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Thu 12/19</th> <!-- Date -->
+        <td colspan="3">NO CLASS (Finals Week)</td>
+        <td>Postterm Retake</td> <!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Fri 12/20</th> <!-- Date -->
+        <td colspan="3">NO CLASS (Finals Week)</td>
+        <td>Postterm Retake</td> <!-- Assignment -->
     </tr>
   </tbody>
 </table>
