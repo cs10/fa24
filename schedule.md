@@ -882,8 +882,7 @@
         <td>Lec 27. Conclusion + Farewell<br/>
         <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 27)</a><br/>      
         <a href="https://drive.google.com/file/d/1zXUWs0ZjDk2KAvR7gGql175tZJn5AP94/view?usp=drive_link">(Slides 27)</a><br/>
-        <a href="">(Lecture Quiz 27)</a>
-        </td> <!-- Lecture -->
+        <a href="">(Lecture Quiz 27)</a></td> <!-- Lecture -->
         <td><a href="">Practice Postterm</td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignments -->
@@ -964,7 +963,7 @@
   </thead>
   <tbody class="content">
     <tr>
-        <td class="schedule-week-num" rowspan=5>Week 16</td> <!-- Week Number -->
+        <td class="schedule-week-num" rowspan=5>Week 17</td> <!-- Week Number -->
         <th>Mon 12/16</th> <!-- Date -->
         <td colspan="3">NO CLASS (Finals Week)</td>
         <td>Postterm Retake</td> <!-- Assignment -->
