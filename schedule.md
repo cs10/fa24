@@ -13,7 +13,7 @@
 
 <!-- Add a jump-to button to navigate to the current week -->
 <p>
-    <a href="#week6">Jump to Current Week</a>
+    <a href="#week7">Jump to Current Week</a>
 </p>
 
 <!-- Week 1 Calendar -->
@@ -368,6 +368,70 @@
     </tr>
     <tr>
         <th>Fri 10/4</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td>Quest Retake</td> <!-- Assignment -->
+    </tr>
+  </tbody>
+</table>
+
+
+<br/>
+<!-- Week 7 Calendar -->
+<table class="table table-bordered schedule-table" id="week7">
+  <thead>
+    <tr>
+        <th class="center schedule-week-num">Week</th>
+        <th>Date</th>
+        <th>Lecture</th>
+        <th>Lab</th>
+        <th>Discussion</th>
+        <th>Assignment</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+        <td class="schedule-week-num" rowspan=5>Week 7</td> <!-- Week Number -->
+        <th>Mon 10/7</th> <!-- Date -->
+        <td>Lec 10. Guest - Saving the World with Computing<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 12)</a><br/>      
+        <a href="https://drive.google.com/file/d/1yzy8PjTc0BHbw4cK8dn0x7UeqnZ3K0vR/view?usp=drive_link">(Slides 12)</a><br/>
+        <a href="https://www.gradescope.com/courses/831412/assignments/5112744">(Lecture Quiz 12)</a></td> <!-- Lecture -->
+        <td><a href="">Proj 3 Party (no new lab)</a></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Tue 10/8</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td><!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Wed 10/9 </th> <!-- Date -->
+        <td>Lec 11. Tree Recursion (Count Change)<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 13)</a><br/>      
+        <a href="https://drive.google.com/file/d/1z541Ky4_wmBRYIQClyyVK-DWPkBxdoUK/view?usp=drive_link">(Slides 13)</a><br/>
+        <a href="https://www.gradescope.com/courses/831412/assignments/5112745">(Lecture Quiz 13)</a><br/>
+        <a href="https://drive.google.com/file/d/1z7C59Vyb6lFBzGBScl7vLqURaW8uTzTa/view?usp=drive_link">(Tree Recursion Code)</a>
+        </td> <!-- Lecture -->
+        <td><a href="">Lab 10: Recursive Reporters</a></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td> <!-- Assignments -->
+    </tr>
+    <tr>
+        <th>Thu 10/10</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td><a href="">Disc 7. Tree Recursion</a></td> <!-- Discussion -->
+        <td><a href="/fa24/readings">Reading: Week 7 Due</a><br/>
+        Proj 3 Due<br/>
+        Proj 4 Released (due 10/17)</td> <!-- Assignment -->
+    </tr>
+    <tr>
+        <th>Fri 10/10</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
