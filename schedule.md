@@ -883,7 +883,7 @@
         <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 27)</a><br/>      
         <a href="https://drive.google.com/file/d/1zXUWs0ZjDk2KAvR7gGql175tZJn5AP94/view?usp=drive_link">(Slides 27)</a><br/>
         <a href="">(Lecture Quiz 27)</a></td> <!-- Lecture -->
-        <td><a href="">Practice Postterm</td> <!-- Lab -->
+        <td><a href="">Practice Postterm</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignments -->
     </tr>
