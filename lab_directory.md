@@ -25,3 +25,4 @@ Lab Slides: [Folder](https://drive.google.com/drive/folders/1CXRHvlQswGr2eT0zNPs
 | [Lab 7.Testing + Proj 3](https://docs.google.com/document/d/1x65mJTTFzVyOTU2uZYnrQvzL5H6SQ-ccJIgz0XKbsIY/edit?usp=sharing)             | WED 9/25         |
 | [Lab 8. Boards](https://docs.google.com/document/d/1kjg8lereiUnvM6XltHGN-XlrzOqgPEjwCGroBEt78eY/edit#heading=h.ew4i1encppj2)             | WED 10/2         |
 | [Lab 9. Trees + Recursion](https://docs.google.com/document/d/1UtbGEcQo7wyQvMvNEv87ob1NQZOFRjcHah2twnNQL-Y/edit)             | WED 10/9         |
+| [Lab 10. Linear Recursion](https://docs.google.com/document/d/1J1HO00NO8zZqt1jcY_2Bp0dJBrc0U9fpqiD7pcSFkCM/edit)             | MON 10/14         |
