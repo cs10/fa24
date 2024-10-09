@@ -417,7 +417,7 @@
         <a href="https://www.gradescope.com/courses/831412/assignments/5112745">(Lecture Quiz 13)</a><br/>
         <a href="https://drive.google.com/file/d/1z7C59Vyb6lFBzGBScl7vLqURaW8uTzTa/view?usp=drive_link">(Tree Recursion Code)</a>
         </td> <!-- Lecture -->
-        <td><a href="">Lab 10: Recursive Reporters</a></td> <!-- Lab -->
+        <td><a href="https://docs.google.com/document/d/1J1HO00NO8zZqt1jcY_2Bp0dJBrc0U9fpqiD7pcSFkCM/edit">Lab 10: Recursive Reporters</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignments -->
     </tr>
