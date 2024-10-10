@@ -17,7 +17,10 @@ submission_files:
 
 ## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=dan%20garcia&ProjectName=BJC%20CS10%20Project%203%3A%202048)
 
-> Any important updates or clarifications will be made here.
+> Any important updates or clarifications will be made here:
+>> Project 3 Party: Thursday, 10/10 from 5 - 7PM in Soda 326
+>> Project 3 Party: Monday, 10/7 from 5 - 7PM in Moffit 145
+>> [Guide](https://edstem.org/us/courses/63916/discussion/5443066) to help with Testing Blocks
 
 ## Content
 
@@ -161,6 +164,10 @@ You need to create at least two separate test cases for these four blocks, with 
 
 Please note that your test cases should output True, not False. This is because the goal of testing is to check that your blocks work in normal cases as well as edge cases, not to check that it fails when expected. If your block outputs False, we assume this means your block does not pass the case and is therefore faulty. When writing test cases, each test should include input and output (follow the format in the Testing lab), and you should think about a genuine input for the block that would help you test if it accomplishes the task it should do, or catches some edgecase. For example, does the merge column up block work on a column with the values [0, 0, 2, 2]? If the merge column with this input correctly outputs [4, 0, 0, 0] in that column, the test block should output True.
 Check out these workbook pages which go deeper into the Test block and testing. Feel free to test your concepts in the 2048 lab section. Tests only present in your lab sprite will not be counted for project credit. The tests must be present in the “TESTER” section. 
+
+Here is guide and some examples of the testing block:
+
+![Testing Block Guide](/fa24/assets/images/p3/p5.png)
 
 ## Feedback Form
 
