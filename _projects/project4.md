@@ -158,6 +158,9 @@ If you can not attend the allotted Discussion Time for any reason. You will have
 
 ### Presentation Guidelines (7 minutes)
 
+- Signing up for a time
+    - You must sign up for a time slot. Please do so by adding your first and last name to the [Google Sheet](https://docs.google.com/spreadsheets/d/1bDtOn49qoq-UXtEvn5_7DbgBgI5fOOiKo3iRFjW7gOo/edit?usp=sharing)
+    - Please note, you are expected to stay the full discussion hour
 - Artifact/Visual Aids
     - Present your physical project or digital archive
     - You may have supplementary notes and material although not required.
