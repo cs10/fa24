@@ -12,6 +12,7 @@ submission_files:
 *We highly recommend reading through this spec in its entirety before you begin.*
 
 [Project + Documentation](https://www.gradescope.com/courses/831412/assignments/5139139/) Due: Thursday, 10/16/2024 at 11:59 PM PT on Gradescope
+
 [Comments + Peer Feedback](https://www.gradescope.com/courses/831412/assignments/5139188/) Due: Wednesday, 10/23/2024 at 11:59 PM PT on Gradescope
 
 
