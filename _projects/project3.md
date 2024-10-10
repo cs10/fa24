@@ -7,7 +7,7 @@ submission_files:
     - starter.xml
 ---
 
-*Version 3.0. Last Updated: 2024-10-01.*
+*Version 3.1. Last Updated: 2024-10-10.*
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
