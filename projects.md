@@ -38,10 +38,10 @@ nav_order: 6
       <td>Thursday, 10/10</td>
     </tr>
     <tr>
-      <td>Project 4: Explorer</td>
+      <td><a href="/fa24/projects/project4">Project 4: Tech in Context</a></td>
       <td>-</td>
-      <td>TBD</td>
-      <td>TBD</td>
+      <td>Thursday, 10/10</td>
+      <td>Wednesday, 10/16</td>
     </tr>
     <tr>
       <td>Project 5: Pyturis</td>

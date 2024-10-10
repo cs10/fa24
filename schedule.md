@@ -394,9 +394,9 @@
     <tr>
         <td class="schedule-week-num" rowspan=5>Week 7</td> <!-- Week Number -->
         <th>Mon 10/7</th> <!-- Date -->
-        <td>Lec 12. Guest - Saving the World with Computing<br/>
+        <td>Lec 12. Dr. Kathy Yelick - Saving the World with Computing<br/>
         <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 12)</a><br/>      
-        <a href="https://drive.google.com/file/d/1yzy8PjTc0BHbw4cK8dn0x7UeqnZ3K0vR/view?usp=drive_link">(Slides 12)</a><br/>
+        <a href="https://drive.google.com/file/d/19hGogPSi8L0C-W-FXQ6xZSpAT_xh2-xk/view?usp=drive_link">(Slides 12)</a><br/>
         <a href="https://www.gradescope.com/courses/831412/assignments/5112744">(Lecture Quiz 12)</a></td> <!-- Lecture -->
         <td><a href="">Proj 3 Party (no new lab)</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
@@ -428,7 +428,7 @@
         <td><a href="https://docs.google.com/document/d/1XD8Eu8zQJhMK3_88GG5iMQbNH5BbiCIa/edit?usp=sharing&ouid=102828999467017092876&rtpof=true&sd=true">Disc 7. Tree Recursion</a></td> <!-- Discussion -->
         <td><a href="/fa24/readings">Reading: Week 7 Due</a><br/>
         Proj 3 Due<br/>
-        Proj 4 Released (due 10/17)</td> <!-- Assignment -->
+        <a href="/fa24/projects/project4">Project 4 Released (due 10/16)</a></td> <!-- Assignment -->
     </tr>
     <tr>
         <th>Fri 10/10</th> <!-- Date -->
@@ -482,15 +482,14 @@
         </td> <!-- Lecture -->
         <td><a href="">Midterm Review + Practice Midterm</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignments -->
+        <td>Proj 4 Due</td> <!-- Assignments -->
     </tr>
     <tr>
         <th>Thu 10/17</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
         <td><a href="">Disc 8. Proj 4 Presentations</a></td> <!-- Discussion -->
-        <td><a href="/fa24/readings">Reading: Week 8 Due</a><br/>
-        Proj 4 Due</td> <!-- Assignment -->
+        <td><a href="/fa24/readings">Reading: Week 8 Due</a><br/></td> <!-- Assignment -->
     </tr>
     <tr>
         <th>Fri 10/18</th> <!-- Date -->
