@@ -45,7 +45,7 @@ VII. Rubric & Grading
 
 This semester, you have explored how computer science and technological innovations shape society—from individual experiences to global transformations. For this project, you'll step away from coding to select a creative media format that allows you to critically examine an intersection between technology and society. The project will consist of three parts: creation of an artifact with project documentation, live presentation, and peer reflection. This approach offers an opportunity to engage with the actions and consequences of technology in a non-traditional format.
 
-You will select a creative medium to explore a tech-related topic of your choice. Acceptable formats include art/drawings, sculptures, videos, infographics, short films or sketches (stop motion, live action, or digital using Snap! only), collages, or dioramas. Written works like essays, songs, or poems are not permitted, nor are photographs or single-plane AI-generated content. Additional guidelines regarding AI or generative tools are written below. If you'd like to use a different medium, you must get approval from the TAs.
+You will select a creative medium to explore a tech-related topic of your choice. Acceptable formats include art/drawings, sculptures, videos, infographics, short films or sketches (stop motion, live action, or digital using Snap! only), collages, or dioramas. Written works like essays, songs, or poems are not permitted, nor are single photographs or single-plane AI-generated content. Additional guidelines regarding AI or generative tools are written below. If you'd like to use a different medium, you must get approval from the TAs.
 
 The medium you select should effectively convey the societal, economic, or cultural impact of your chosen topic—whether it’s a technology, theory, program, event (past or present), or object. Previous topics have included artificial intelligence (AI), Facebook, smart farming, the internet, the TikTok algorithm, robotic teachers, and online security. Examples of accepted artifacts could look like an Infographic on AI Bias in Decision-Making, a Handmade Collage on Social Media’s Impact on Youth, or a Sculpture on Data Privacy. 
 
@@ -79,7 +79,7 @@ The artifact should adhere to the following guidelines:
 - Use of creative medium to explore a tech-related topic of your choice.
     - Acceptable formats include: art/drawings (digital or traditional), sculptures, collages (physical), videos, infographics, short film/sketches (stop motion, live action, or digital using Snap! only), and dioramas
     - Please note that video submissions should be no longer than 5 minutes in length
-    - Banned: Essays, songs, poems, or photographs
+    - Banned: Essays, songs, poems, or single photographs
 - Focuses on a single topic/innovation and its impacts
 - Projects should be created in a manner that maximizes accessibility to all audiences (e.g., captions for videos, clear visuals, minimum 12pt font).
 - Ability to be showcased (either through digital projection/download or physical presentation)
@@ -207,7 +207,9 @@ Conclude the Q&A with a brief summary of your project’s key points or takeaway
 
 ## Feedback Form
 
-Congratulations on finishing your third project in CS10🥳Please spend some time completing this [feedback form](https://forms.gle/hPmggueTSx2EuiDq5). This will be worth 1 point of your project grade. Thank you!
+Congratulations on finishing your fourth project in CS10🥳
+
+Please spend some time completing this [feedback form](https://forms.gle/hPmggueTSx2EuiDq5). This will be worth 1 point of your project grade. Thank you!
 
 ## Rubric & Grading
 
