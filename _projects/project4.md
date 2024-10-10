@@ -51,6 +51,8 @@ The medium you select should effectively convey the societal, economic, or cultu
 
 If you’re unsure of a topic, consider a technological innovation that has significantly transformed the way we live, work, or interact—socially, economically, or culturally. Be sure to focus on a specific topic that allows for in-depth analysis or creative expression within the scope of the project.
 
+We want this to be a fun and exciting project that allows you to pursue your interests. This project shouldn't feel like a grind (we are hoping!). The expected time spent on this should not exceed five hours. Ideally, most of the time spent on the project will be doing research on the topic.
+
 
 ## Project 4 Timeline
 
