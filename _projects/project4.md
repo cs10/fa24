@@ -205,7 +205,7 @@ Conclude the Q&A with a brief summary of your project’s key points or takeaway
 
 ## Feedback Form
 
-Congratulations on finishing your third project in CS10🥳Please spend some time completing this [feedback form](https://forms.gle/hPmggueTSx2EuiDq5). This will be worth 1 point of your project grade. Each member of your group should submit to the form. Thank you!
+Congratulations on finishing your third project in CS10🥳Please spend some time completing this [feedback form](https://forms.gle/hPmggueTSx2EuiDq5). This will be worth 1 point of your project grade. Thank you!
 
 ## Rubric & Grading
 
