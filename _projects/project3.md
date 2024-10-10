@@ -18,8 +18,11 @@ submission_files:
 ## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=dan%20garcia&ProjectName=BJC%20CS10%20Project%203%3A%202048)
 
 > Any important updates or clarifications will be made here:
+
 >> Project 3 Party: Thursday, 10/10 from 5 - 7PM in Soda 326
+
 >> Project 3 Party: Monday, 10/7 from 5 - 7PM in Moffit 145
+
 >> [Guide](https://edstem.org/us/courses/63916/discussion/5443066) to help with Testing Blocks
 
 ## Content
