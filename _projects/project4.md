@@ -11,11 +11,11 @@ submission_files:
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
-- [Artifact + Documentation](https://www.gradescope.com/courses/831412/assignments/5139139/) Due: Thursday, 10/16/2024 at 11:59 PM PT on Gradescope
+- [Artifact + Documentation](https://www.gradescope.com/courses/831412/assignments/5139139/) Due: **Thursday, 10/16 at 11:59 PM PT** on Gradescope
 
-- Presention on Thursday, 10/17 during discussion.
+- Presention on **Thursday, 10/17** during discussion.
 
-- [Comments + Peer Feedback](https://www.gradescope.com/courses/831412/assignments/5139188/) Due: Wednesday, 10/23/2024 at 11:59 PM PT on Gradescope
+- [Comments + Peer Feedback](https://www.gradescope.com/courses/831412/assignments/5139188/) Due: **Wednesday, 10/23 at 11:59 PM PT** on Gradescope
 
 > Any important updates or clarifications will be made here.
 
