@@ -1,6 +1,6 @@
 ---
 title: Project 4
-description: : Tech in Context
+description: Tech in Context
 due: "11:59 PM PST on Wednesday, 10/17"
 gradescope_assignment_id: 5139139
 submission_files:
