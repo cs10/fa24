@@ -424,7 +424,7 @@
     <tr>
         <th>Thu 10/10</th> <!-- Date -->
         <td></td><!-- Lecture -->
-        <td><a href="https://docs.google.com/document/d/1iC-9COcumR8FDQmSAsg19u-iN1hzr8YjPiq14t4k4ao/edit">Lab 11:  HOFs and Functions as Data</a></td></td> <!-- Lab -->
+        <td></td> <!-- Lab -->
         <td><a href="https://docs.google.com/document/d/1XD8Eu8zQJhMK3_88GG5iMQbNH5BbiCIa/edit?usp=sharing&ouid=102828999467017092876&rtpof=true&sd=true">Disc 7. Tree Recursion</a></td> <!-- Discussion -->
         <td><a href="/fa24/readings">Reading: Week 7 Due</a><br/>
         Proj 3 Due<br/>
@@ -462,7 +462,7 @@
         <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 14)</a><br/>      
         <a href="https://drive.google.com/file/d/1zGWjOyOWXA2lEyEaRBZcE5pLuBME2TIP/view?usp=drive_link">(Slides 14)</a><br/>
         <a href="">(Lecture Quiz 14)</a></td> <!-- Lecture -->
-        <td></td> <!-- Lab -->
+        <td><a href="https://docs.google.com/document/d/1iC-9COcumR8FDQmSAsg19u-iN1hzr8YjPiq14t4k4ao/edit">Lab 11:  HOFs and Functions as Data</a></td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment -->
     </tr>
