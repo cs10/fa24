@@ -35,49 +35,49 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Discussion 1</td>
       <td>Welcome to Snap<em>!</em></td>
       <td><a href="https://drive.google.com/file/d/1kVcfONoJPqA5Iqv8cbxsu6_quSanSOxh/view?usp=drive_link"> Worksheet 1</a></td>
-      <td>Solutions 1</td>
+      <td><a>Solutions 1</a></td>
       <td><a href="https://drive.google.com/file/d/1KqjJ7_9mblF6ynqTmkXHPqm748AgiQ9J/view?usp=sharing"> Recording 1</a></td>
     </tr> 
     <tr>
       <td>Discussion 2</td>
       <td>Number Rep + Control Structures</td>
       <td><a href="https://docs.google.com/document/d/1j_GBxd3LCkBpO9ydLBgU1xHmx8d-dCct/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true"> Worksheet 2</a></td>
-      <td>Solutions 2</td>
+      <td><a href="https://docs.google.com/document/d/1hzeyiZkwM950m2E186bdeFAkUfm0809B/edit?usp=drivesdk&ouid=102828999467017092876&rtpof=true&sd=true">Solutions 2</a></td>
       <td><a href="https://drive.google.com/file/d/1FPV77VJGZCIohNDd7e0TZ_KOGzhZwifo/view?usp=sharing">Recording 2</a></td>
     </tr>
      <tr>
       <td>Discussion 3</td>
       <td>Domain/Range, Scoping, Lists & HOFs</td>
       <td><a href="https://drive.google.com/file/d/1oeNbxrKtcNI2szAOZWEO-LfoWCGaRCyH/view?usp=sharing">Worksheet 3</a></td>
-      <td>Solutions 3</td>
+      <td><a href="https://docs.google.com/document/d/1fU0aZhNxUCo-ct_g1WAt_i-HfsZPAq0IwZiWn6PtYzk/edit?usp=drivesdk">Solutions 3</a></td>
       <td><a href="https://drive.google.com/file/d/1fPbSVISiJQewK5ZG30sLlkmf7Qyg8pOK/view?usp=sharing">Recording 3</a></td>
     </tr>
     <tr>
       <td>Discussion 4</td>
       <td>HOFs + Quest Review</td>
       <td><a href="https://docs.google.com/document/d/1BppWjxXgXmr-CgCrqT1xrXBUITbZtAYD/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 4</a></td>
-      <td>Solutions 4</td>
+      <td><a href="https://docs.google.com/document/d/1PtE59GWoWKLop-5NZZBuY3alIp6lplSS/edit?usp=drivesdk&ouid=102828999467017092876&rtpof=true&sd=true">Solutions 4</a></td>
       <td><a href="https://drive.google.com/file/d/1X4GDGuyXCzQ0B0ghyPNtVsmSw39unORw/view?usp=sharing">Recording 4</a></td>
     </tr>
     <tr>
       <td>Discussion 5</td>
       <td>Algorithms</td>
       <td><a href="https://docs.google.com/document/d/1hPJkV1ZR-NF4ydqPYAy5y_VSLdr2alJQ/edit?usp=sharing&ouid=102828999467017092876&rtpof=true&sd=true">Worksheet 5</a></td>
-      <td>Solutions 5</td>
+      <td><a href="https://docs.google.com/document/d/1w8yAcSqxGJtmua4AWklvR4ii7wUkiMI8/edit?usp=drivesdk&ouid=102828999467017092876&rtpof=true&sd=true">Solutions 5</a></td>
       <td><a href="https://drive.google.com/file/d/1CBVRPAj-qU3pEBOJEmGsMcKO3trMrz-Z/view?usp=sharing">Recording 5</a></td>
     </tr>
     <tr>
       <td>Discussion 6</td>
       <td>Recursion I</td>
       <td><a href="https://docs.google.com/document/d/1vJmLNpMSUxD05ibt1vWhZ8xl677ytRwl/edit#heading=h.a896o5zg6s8y">Worksheet 6</a></td>
-      <td>Solutions</td>
+      <td><a href="https://docs.google.com/document/d/10aYl5NJizgs2I0vLfwwOi9RIHjes41Vj/edit?usp=drivesdk&ouid=102828999467017092876&rtpof=true&sd=true">Solutions 6</a></td>
       <td><a href="https://drive.google.com/file/d/1JgTBsgR8Eg4qzeTb4fCvbgnSAx8iUcOo/view?usp=sharing">Recording 6</a></td>
     </tr>
     <tr>
       <td>Discussion 7</td>
       <td>Recursion II</td>
       <td><a href="https://docs.google.com/document/d/1XD8Eu8zQJhMK3_88GG5iMQbNH5BbiCIa/edit?usp=sharing&ouid=102828999467017092876&rtpof=true&sd=true">Worksheet 7</a></td>
-      <td>Solutions</td>
+      <td><a href="https://docs.google.com/document/d/1ymT0K_b9Z1Kmk5b318_T0CB3wWiDB8zg/edit?usp=drivesdk&ouid=102828999467017092876&rtpof=true&sd=true">Solutions 7</a></td>
       <td><a href="https://drive.google.com/file/d/1gNb7yaRo9V1jIuCQITA949vDMpz0Ximy/view?usp=drive_link">Recording 7</a></td>
     </tr>
     <tr>
