@@ -481,7 +481,9 @@
         <a href="https://www.gradescope.com/courses/831412/assignments/5170522/">(Lecture Quiz 15)</a>
         <a href="https://drive.google.com/drive/folders/1zHxQYO8eceMqMC84-fECxCQhqs4heZBB?usp=drive_link">(Lec 15. Code)</a>
         </td> <!-- Lecture -->
-        <td><a href="">Midterm Review + Practice Midterm</a></td> <!-- Lab -->
+        <td>Midterm Review + Practice Midterm<br/>
+        <a href="https://us.prairielearn.com/pl/course_instance/164327/assessment/2452826">Practice Midterm</a><br/>
+        <a href="https://us.prairielearn.com/pl/course_instance/164327/assessment/2469144">Practice Fractal</a><br/></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td>Proj 4 Due</td> <!-- Assignments -->
     </tr>
