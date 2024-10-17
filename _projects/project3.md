@@ -19,6 +19,8 @@ submission_files:
 
 > Any important updates or clarifications will be made here:
 
+>> Due Date Extended to Tuesday, 10/22
+
 >> Project 3 Party: Thursday, 10/10 from 5 - 7PM in Soda 326
 
 >> Project 3 Party: Monday, 10/7 from 5 - 7PM in Moffit 145

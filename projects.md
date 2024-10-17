@@ -35,7 +35,7 @@ nav_order: 6
       <td><a href="/fa24/projects/project3">Project 3: 2048</a></td>
       <td><a href="https://drive.google.com/file/d/1koa1TbOmoDa5tiIEm6hohQjiMaWjLI1H/view?usp=sharing">Proj 3 Walkthrough Slides</a></td>
       <td>Tuesday, 10/1</td>
-      <td>Thursday, 10/10</td>
+      <td>Thursday, 10/10<br/> Extended to 10/22</td>
     </tr>
     <tr>
       <td><a href="/fa24/projects/project4">Project 4: Tech in Context</a></td>
