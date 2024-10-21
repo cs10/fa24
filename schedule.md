@@ -525,7 +525,7 @@
         <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 16)</a><br/>      
         <a href="https://drive.google.com/file/d/1zKWK7HjrfsacsH8LSNF7t_tlaJ9uCqbb/view?usp=drive_link">(Slides 16)</a><br/>
         <a href="">(Lecture Quiz 16)</a></td> <!-- Lecture -->
-        <td><a href="">Lab 12. Welcome to Python</a></td> <!-- Lab -->
+        <td><a href="https://docs.google.com/document/d/1VgGD0VNMfGL2RmfjxzjFIiNQoT_1eUb-t92JQyAKmVk/edit">Lab 12. Welcome to Python</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment -->
     </tr>
