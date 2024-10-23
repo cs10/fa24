@@ -28,3 +28,4 @@ Lab Slides: [Folder](https://drive.google.com/drive/folders/1CXRHvlQswGr2eT0zNPs
 | [Lab 10. Linear Recursion](https://docs.google.com/document/d/1J1HO00NO8zZqt1jcY_2Bp0dJBrc0U9fpqiD7pcSFkCM/edit)             | MON 10/14         |
 | [Lab 11:  HOFs and Functions as Data](https://docs.google.com/document/d/1iC-9COcumR8FDQmSAsg19u-iN1hzr8YjPiq14t4k4ao/edit)             | MON 10/21         |
 | [Lab 12:  Welcome to Python](https://docs.google.com/document/d/1VgGD0VNMfGL2RmfjxzjFIiNQoT_1eUb-t92JQyAKmVk/edit)             | WED 10/23         |
+| [Lab 13: Data Structures ](https://docs.google.com/document/d/1OZChnC73GkovODEcS-BBS8wgshYX8tV6-_7uSZXipvA/edit)             | MON 10/28         |
