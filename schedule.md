@@ -543,7 +543,7 @@
         <a href="https://drive.google.com/file/d/1zM2cHCUe2vL9uIPWoQFl_CNnjJbGjPZq/view?usp=drive_link">(Slides 17)</a><br/>
         <a href="">(Lecture Quiz 17)</a>
         </td> <!-- Lecture -->
-        <td><a href="">Lab 13. Data Structures in Python</a></td> <!-- Lab -->
+        <td><a href="https://docs.google.com/document/d/1OZChnC73GkovODEcS-BBS8wgshYX8tV6-_7uSZXipvA/edit">Lab 13. Data Structures in Python</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td><a href="">Final Proj Released</a></td> <!-- Assignments -->
     </tr>
