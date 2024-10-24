@@ -83,16 +83,16 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Discussion 8</td>
       <td>TBD</td>
-      <td>Worksheet</td>
-      <td>Solutions</td>
-      <td>Recording</td>
+      <td>Worksheet 8</td>
+      <td>Solutions 8</td>
+      <td>Recording 8</td>
     </tr>
      <tr>
       <td>Discussion 9</td>
       <td>TBD</td>
-      <td>Worksheet</td>
-      <td>Solutions</td>
-      <td>Recording</td>
+      <td><a href="https://docs.google.com/document/d/1q1ciouhxmDMQSVBFwLOn0Cu1BoKevkIo/edit?usp=drivesdk&ouid=102828999467017092876&rtpof=true&sd=true">Worksheet 9</a></td>
+      <td>Solutions 9</td>
+      <td>Recording 9</td>
     </tr>
     <tr>
     <td>Discussion 10</td>
