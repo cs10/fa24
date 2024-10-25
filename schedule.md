@@ -462,7 +462,7 @@
         <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 14)</a><br/>      
         <a href="https://drive.google.com/file/d/1zGWjOyOWXA2lEyEaRBZcE5pLuBME2TIP/view?usp=drive_link">(Slides 14)</a><br/>
         <a href="https://www.gradescope.com/courses/831412/assignments/5165138">(Lecture Quiz 14)</a></td> <!-- Lecture -->
-        <td><a href="https://docs.google.com/document/d/1iC-9COcumR8FDQmSAsg19u-iN1hzr8YjPiq14t4k4ao/edit">Lab 11:  HOFs and Functions as Data</a></td></td> <!-- Lab -->
+        <td><a href="https://docs.google.com/document/d/1iC-9COcumR8FDQmSAsg19u-iN1hzr8YjPiq14t4k4ao/edit">Lab 11:  HOFs and Functions as Data</a></td><!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment -->
     </tr>
@@ -524,7 +524,7 @@
         <td>Lec 16. Intro to Python<br/>
         <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 16)</a><br/>      
         <a href="https://drive.google.com/file/d/1zKWK7HjrfsacsH8LSNF7t_tlaJ9uCqbb/view?usp=drive_link">(Slides 16)</a><br/>
-        <a href="">(Lecture Quiz 16)</a></td> <!-- Lecture -->
+        <a href="https://www.gradescope.com/courses/831412/assignments/5198321">(Lecture Quiz 16)</a></td> <!-- Lecture -->
         <td><a href="https://docs.google.com/document/d/1VgGD0VNMfGL2RmfjxzjFIiNQoT_1eUb-t92JQyAKmVk/edit">Lab 12. Welcome to Python</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment -->
@@ -541,7 +541,7 @@
         <td>Lec 17. Data Types & Structures (Python II)<br/>
         <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 17)</a><br/>      
         <a href="https://drive.google.com/file/d/1zM2cHCUe2vL9uIPWoQFl_CNnjJbGjPZq/view?usp=drive_link">(Slides 17)</a><br/>
-        <a href="">(Lecture Quiz 17)</a>
+        <a href="https://www.gradescope.com/courses/831412/assignments/5216479">(Lecture Quiz 17)</a>
         </td> <!-- Lecture -->
         <td><a href="https://docs.google.com/document/d/1OZChnC73GkovODEcS-BBS8wgshYX8tV6-_7uSZXipvA/edit">Lab 13. Data Structures in Python</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
