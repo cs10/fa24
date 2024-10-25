@@ -20,11 +20,17 @@ submission_files:
 ## Content
 
 [I. Important logistics](#important-logistics)
+
 [II. Introduction](#introduction)
+
 [III. Complexity Guidelines](#complexity-guidelines)
+
 [IV. Required Features](#required-features)
+
 [V. Proposal Contents](#proposal-contents)
+
 [VI. Submission Guidelines](#submission-guidelines)
+
 [VII. Proposal Review: What to Expect](#proposal-review-what-to-expect)
 
 ## Important logistics
