@@ -50,6 +50,12 @@ nav_order: 6
       <td>TBD</td>
     </tr>
         <tr>
+      <td><a href="/fa24/projects/project6-proposals">Project 6: Proposals</a></td>
+      <td>-</td>
+      <td>Friday, 10/25</td>
+      <td>Sunday, 10/27</td>
+    </tr>
+    <tr>
       <td>Project 6: Final Project</td>
       <td>-</td>
       <td>TBD</td>
