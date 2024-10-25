@@ -29,7 +29,7 @@ submission_files:
 
 ## Content
 
-I. Introduction  
+I. Introduction
 II. Helper Blocks  
 III. Suggestions  
 IV. Part 1: Populating the Board  

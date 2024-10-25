@@ -12,7 +12,7 @@ nav_order: 6
 <table>
   <thead>
     <tr>
-      <th>Title</th>
+      <th>Title + Spec Link</th>
       <th>Walkthrough</th>
       <th>Release Date</th>
       <th>Due Date</th>
@@ -46,20 +46,20 @@ nav_order: 6
     <tr>
       <td>Project 5: Pyturis</td>
       <td>-</td>
-      <td>TBD</td>
-      <td>TBD</td>
+      <td>Wednesday, 10/30</td>
+      <td>Wednesday, 11/13</td>
     </tr>
         <tr>
       <td><a href="/fa24/projects/project6-proposals">Project 6: Proposals</a></td>
       <td>-</td>
       <td>Friday, 10/25</td>
-      <td>Sunday, 10/27</td>
+      <td>Wednesday, 10/30</td>
     </tr>
     <tr>
       <td>Project 6: Final Project</td>
       <td>-</td>
-      <td>TBD</td>
-      <td>TBD</td>
+      <td>Monday, 11/4 (earliest)<br/>Only start once your project has been approved</td>
+      <td>Friday, 12/6</td>
     </tr>
   </tbody>
 </table> 
