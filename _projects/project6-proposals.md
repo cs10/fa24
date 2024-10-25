@@ -12,6 +12,7 @@ submission_files:
 *We highly recommend reading through this spec in its entirety before you begin.*
 
 - You must sign-up for a 10-minute slot with a staff member to get your project approved. Only one member of your group needs to attend. Failure to be one time will mean you will need to sign-up for a new time slot; otherwise, you will get a '0' score.
+    - Click here for the [link to sign up](https://calendar.google.com/calendar/u/0/appointments/AcZssZ1wfS7Mu8x1sQTGPGoJaw56hHplSBvKqfuYn10=)
 
 > Any important updates or clarifications will be made here.
 
@@ -27,7 +28,7 @@ submission_files:
 
 ## Important logistics
 
-- The Project Proposal Meeting is worth 10 points of your final grade. 10 minute Meetings will be held in person Mon-Fri during Week 10 in Soda 326. To schedule a booking, go to the CS10 website calendar and sign-up for a slot. 
+- The Project Proposal Meeting is worth 10 points of your final grade. 10 minute Meetings will be held in person Mon-Fri during Week 10 in Soda 326. To schedule a booking, click here for the booking page: [Proposal Meeting Sign-ups](https://calendar.google.com/calendar/u/0/appointments/AcZssZ1wfS7Mu8x1sQTGPGoJaw56hHplSBvKqfuYn10=).
 - You must work in groups of 2. Groups of 3 are sometimes permitted with approval from a TA, and we increase their project-complexity requirements accordingly. If you want to work alone you must get explicit permission from your lab TA. You will still be graded as if you were in a group of 2.   
 - The deadline for this proposal part of the project is Sunday, 10/27 at 11:59pm PST. Please ensure that you submit your proposal before the deadline. There will be NO extensions available for the proposal and it is your responsibility to reach out on EdStem if your group can not make any of the meeting times. 
 - Please sign up for a time slot to meet up with a staff member for a proposal review before you submit the assignment on gradescope. You should sign up for an appointment on Google Calendar. You can choose whichever time works best for your group. Meetings will take place in-person, during designated lab times.  
@@ -157,3 +158,4 @@ If your initial project proposal is approved:
 - Congrats! You can start working on your project. Note any questions (for resources, clarifications, or suggestions/advice on implementation) that you might have for your project TA/tutor, and bring them up during your proposal review session!
 
 As you begin to code, you may feel the need to make adjustments to your project and features (often because of time constraints or unexpected complexity). This is perfectly okay! You don’t have to run the changes by your project TA/tutor to start implementing them, but we do recommend that you check in with any adjustments to ensure that you are still within complexity guidelines.
+
