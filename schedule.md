@@ -584,7 +584,7 @@
         <th>Mon 10/28</th> <!-- Date -->
         <td>Lec 18. Linear Recursion (Python III)<br/>
         <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 18)</a><br/>      
-        <a href="https://drive.google.com/file/d/1TleLD9eMNPlE_cpu76ZLwOfkiLN_LdqM/view?usp=sharing">(Slides 18)</a><br/>
+        <a href="https://drive.google.com/file/d/1wtdL0siWNoj2E8koK3DmfLNoKB4hCakn/view?usp=sharing">(Slides 18)</a><br/>
         <a href="">(Lecture Quiz 18)</a></td> <!-- Lecture -->
         <td><a href="https://docs.google.com/document/d/1rA-ptInPcepk7KCoHyNkr-dcyky6zzNS5O4C7UcDoE0/edit">Lab 14. Linear Recursion</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
