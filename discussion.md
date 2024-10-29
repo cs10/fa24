@@ -92,7 +92,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>TBD</td>
       <td><a href="https://docs.google.com/document/d/1q1ciouhxmDMQSVBFwLOn0Cu1BoKevkIo/edit?usp=drivesdk&ouid=102828999467017092876&rtpof=true&sd=true">Worksheet 9</a></td>
       <td>Solutions 9</td>
-      <td>Recording 9</td>
+      <td><a href="https://drive.google.com/file/d/1wKfeH8-SVxKzINOQTVbMp11H1t5sy3Op/view?usp=drive_link">Recording 9</a></td>
     </tr>
     <tr>
     <td>Discussion 10</td>
