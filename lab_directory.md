@@ -30,4 +30,4 @@ Lab Slides: [Folder](https://drive.google.com/drive/folders/1CXRHvlQswGr2eT0zNPs
 | [Lab 12:  Welcome to Python](https://docs.google.com/document/d/1VgGD0VNMfGL2RmfjxzjFIiNQoT_1eUb-t92JQyAKmVk/edit)             | WED 10/23         |
 | [Lab 13: Data Structures ](https://docs.google.com/document/d/1OZChnC73GkovODEcS-BBS8wgshYX8tV6-_7uSZXipvA/edit)             | MON 10/28         |
 | [Lab 14: Linear Recursion ](https://docs.google.com/document/d/1rA-ptInPcepk7KCoHyNkr-dcyky6zzNS5O4C7UcDoE0/edit#heading=h.ew4i1encppj2)             | WED 10/30         |
-| [Lab 15: Tree Recursion ]()             | MON 11/4         |
+| [Lab 15: Tree Recursion ](https://docs.google.com/document/d/10YfNHu6EJM7kECRxplUwsUYaekz4YM9mSqHG4sU7wk0/edit?tab=t.0#heading=h.46v9clx489ho)             | MON 11/4         |
