@@ -612,7 +612,7 @@
         <th>Thu 10/31</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
-        <td><a href="">Disc 10. List Comprehension + Dictionaries</a></td> <!-- Discussion -->
+        <td><a href="https://docs.google.com/document/d/1yzUtLeWlfbio09u58fZwxRV9q2S7El_1qMBNcpsSyWU/edit?usp=drivesdk">Disc 10. List Comprehension + Dictionaries</a></td> <!-- Discussion -->
         <td><a href="/fa24/readings">Reading: Week 10 Due</a></td> <!-- Assignment -->
     </tr>
     <tr>
