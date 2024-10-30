@@ -604,7 +604,7 @@
         <a href="https://drive.google.com/drive/folders/1zMu4kA_ijbOTFFdWgP8q1mAKz23kPxrs?usp=drive_link">(Slides 19)</a><br/>
         <a href="">(Lecture Quiz 19)</a>
         </td> <!-- Lecture -->
-        <td><a href="">Lab 15. Tree Recursion</a></td> <!-- Lab -->
+        <td><a href="https://docs.google.com/document/d/10YfNHu6EJM7kECRxplUwsUYaekz4YM9mSqHG4sU7wk0/edit?tab=t.0#heading=h.46v9clx489ho">Lab 15. Tree Recursion</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td><a href="">Final Proj Prosposal Due</a></td> <!-- Assignments -->
     </tr>
