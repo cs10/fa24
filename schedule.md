@@ -585,7 +585,7 @@
         <td>Lec 18. Linear Recursion (Python III)<br/>
         <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 18)</a><br/>      
         <a href="https://drive.google.com/file/d/1wtdL0siWNoj2E8koK3DmfLNoKB4hCakn/view?usp=sharing">(Slides 18)</a><br/>
-        <a href="">(Lecture Quiz 18)</a></td> <!-- Lecture -->
+        <a href="https://www.gradescope.com/courses/831412/assignments/5231932">(Lecture Quiz 18)</a></td> <!-- Lecture -->
         <td><a href="https://docs.google.com/document/d/1rA-ptInPcepk7KCoHyNkr-dcyky6zzNS5O4C7UcDoE0/edit">Lab 14. Linear Recursion</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment -->
@@ -602,7 +602,7 @@
         <td>Lec 19. Tree Recursion & Game Theory (Python IV)<br/>
         <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 19)</a><br/>      
         <a href="https://drive.google.com/drive/folders/1zMu4kA_ijbOTFFdWgP8q1mAKz23kPxrs?usp=drive_link">(Slides 19)</a><br/>
-        <a href="">(Lecture Quiz 19)</a>
+        <a href="https://www.gradescope.com/courses/831412/assignments/5252025/">(Lecture Quiz 19)</a>
         </td> <!-- Lecture -->
         <td><a href="https://docs.google.com/document/d/10YfNHu6EJM7kECRxplUwsUYaekz4YM9mSqHG4sU7wk0/edit?tab=t.0#heading=h.46v9clx489ho">Lab 15. Tree Recursion</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
@@ -647,7 +647,7 @@
         <td>Lec 20. OOP (Python V)<br/>
         <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 20)</a><br/>      
         <a href="">(Slides 20)</a><br/>
-        <a href="">(Lecture Quiz 20)</a></td> <!-- Lecture -->
+        <a href="https://www.gradescope.com/courses/831412/assignments/5257963">(Lecture Quiz 20)</a></td> <!-- Lecture -->
         <td><a href="">Lab 16. OOP in Python</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment -->
@@ -664,7 +664,7 @@
         <td>Lec 21. HOFs in Python (Python VI)<br/>
         <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 21)</a><br/>      
         <a href="">(Slides 21)</a><br/>
-        <a href="">(Lecture Quiz 21)</a>
+        <a href="https://www.gradescope.com/courses/831412/assignments/5258010/">(Lecture Quiz 21)</a>
         </td> <!-- Lecture -->
         <td><a href="">Lab 17. Text Processing in Python</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
