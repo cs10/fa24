@@ -226,7 +226,7 @@ This rubric gives an overview of the points that passing tests in the PrairieLea
         </tr>
         <tr>
             <td>get_board_item(board, x, y)</td>
-            <td>5</td>
+            <td>4</td>
         </tr>
         <tr>
             <td>set_board_item(board, x, y, item)</td>
@@ -266,6 +266,9 @@ This rubric gives an overview of the points that passing tests in the PrairieLea
         <tr>
             <td>validated_apply_non_rot(self, fn, validator)</td>
             <td>5</td>
+        </tr>
+        <tr>
+            <td colspan=2><strong>Feeback Form (1)</strong></td>
         </tr>
     </tbody>
 </table>
