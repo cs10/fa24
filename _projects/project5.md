@@ -18,8 +18,8 @@ submission_files:
 
 [I. Submission Guidelines](#submission-guidelines)  
 [II. Intoruction](#introduction)  
-[III. Part 0: Set Up](#part-0\:-set-up)  
-[IV. Part 1: Board](#part-1\:-board)  
+[III. Part 0: Set Up](#part-0-set-up)  
+[IV. Part 1: Board](#part-1-board)  
 [V. Part 2: Pytromino](#)
 [VI. Rubrics, Grading and Submission](#)  
 [VII. Appendix: Pyturis Game Rules](#)
