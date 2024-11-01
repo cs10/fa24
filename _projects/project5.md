@@ -1,7 +1,7 @@
 ---
 title: Project 5
 description: Pyturis
-due: "11:59 PM PST on Thursday, ???"
+due: "11:59 PM PST on Wednesday, 11/13"
 submission_files:
     - project folder or individual files
 ---
@@ -20,9 +20,9 @@ submission_files:
 [II. Intoruction](#introduction)  
 [III. Part 0: Set Up](#part-0-set-up)  
 [IV. Part 1: Board](#part-1-board)  
-[V. Part 2: Pytromino](#)
-[VI. Rubrics, Grading and Submission](#)  
-[VII. Appendix: Pyturis Game Rules](#)
+[V. Part 2: Pytromino](#part-2-the-pytromino)   
+[VI. Rubrics, Grading and Submission](#rubrics-grading-and-submission)  
+[VII. Appendix: Pyturis Game Rules](#appendix-pyturis-game-rules)
 
 
 ## Submission Guidelines 
@@ -100,7 +100,7 @@ Nice work! Now you’re ready to start coding.
 In Pyturis, the board is stored as a 1D list in row-major order.
 Row-major order stores values in the same row of a matrix consecutively and concatenates rows into a single list starting from the top.
 
-![Board Setup](/fa24/assets/images/p5/P6-Part1Board.png)
+![Board Setup](/fa24/assets/images/p5/P5-Part1Board.png)
 
 The relationship between the coordinates of an item in the board — notated as (x, y) — and the index of the corresponding item in the row-major order list is represented by the following equation, and illustrated in the above image.
 
@@ -150,7 +150,7 @@ python3 grader.py Board
 In Pyturis, pytrominoes are the name for the pieces that fall from the top of the board. Each pytromino is represented as a single shape made of four blocks. In addition to absolute coordinates that represent where the pytromino is on the board, each block in the pytromino has a relative coordinate, to indicate its position within the pytromino.
 The relative coordinates are calculated according to where the block is relative to the center of rotation for that pytromino.
 
-![Pytromino Setup](/fa24/assets/images/p5/P6-Part2Pytromino.png)
+![Pytromino Setup](/fa24/assets/images/p5/P5-Part2Pytromino.png)
 
 ### Attributes
 The Pytromino class is located in the models.py file. As with the Board class, there is already a constructor method provided, which contains a few useful attributes:
@@ -197,15 +197,134 @@ python3 grader.py Pytromino
 
 ### Running the GUI
 
-| Block    | Points | Function Type | Inputs | Outputs
-| -------- | ------- | ------- | ------- | ------- |
-| letter _   | 1    | Predicate | string | boolean
-| _ has letter _ | 1    | Predicate | strings | boolean
-| uppercase word _ | 2   | Reporter | string | string
-| lowercase word _ | 2   | Reporter | string | string
-| _ has only these letters _ | 5   | Predicate | strings | boolean
-| _ is a pangram using all letters _ | 6.5   | Predicate | strings | boolean
-| complete solution to puzzle _ using words _ | 7.5   | Reporter | list and string | string
+Once you’ve finished all parts, you’re done! Nice work! You can now play the game of Pyturis you’ve coded, by running the following command inside the project directory:
+For Windows:
 
-## Feedback Form 
-Congratulations on finish your first project in CS10🥳. Please spend some time completing this [feedback form](https://forms.gle/R7bYuwgrPRHtd3ca6). This will be worth 1 point of your project grade. Thank you!
+```
+py __main__.py
+```
+
+For Mac:
+```
+python3 __main__.py
+```
+
+## Rubrics, Grading and Submission
+
+This rubric gives an overview of the points that passing tests in the PrairieLearn autograder is worth, relative to each function you have to fill out. This project is autograded, not manually graded, so what you see on PL when the autograder stops running is what your score is.
+<table>
+    <thead>
+        <tr>
+            <th colspan=2><b>Rubrics</b></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan=2>Part 1: The Board (15)</td>
+        </tr>
+        <tr>
+            <td>get_board_item(board, x, y)</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>set_board_item(board, x, y, item)</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>valid_coordinate(board, coordinate)</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>get_row(board, y))</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>check_row_full(board, y)</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td colspan=2><strong>Part 2: The Pytromino (15)</strong></td>
+        </tr>
+        <tr>
+            <td>rotate_block_90_cw(pytromino, pos)</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>filter_blocks_pos(pytromino, fn)</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>shift_down_fn(pos, steps)</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>shift_left_fn(pos, steps)</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>validated_apply_non_rot(self, fn, validator)</td>
+            <td>5</td>
+        </tr>
+    </tbody>
+</table>
+
+## Submitting to PrairieLearn
+Before you submit, it’s a good idea to run the local sanity-check test cases again. You can do the whole batch at once using:
+for Windows:
+```
+py grader.py
+```
+for Mac:
+```
+python3 grader.py
+```
+Do keep in mind that the local tests aren’t representative of all the test cases that will be checked on PrairieLearn. The PrairieLearn autograder is available on the assignment on PrairieLearn, and will be announced over Ed, and you can submit to it an unlimited number of times to see how your project is doing.
+
+To run the PrairieLearn autograder, you’ll need to submit models.py and board.py to the assignment on PrairieLearn. You can either submit these files individually or submit the entire project folder to the PL assignment, as irrelevant files will be filtered and not processed automatically.
+
+**Both you and your partner must submit the project individually into PrairieLearn.**
+
+The code between you and your partner can be the same. Once you’ve submitted, both of you will indicate each other as partners in the [Project 4 Feedback Form](INSERT LINK)
+**A reminder that the project feedback form is worth 1 point of your project grade.**
+
+## Appendix: Pyturis Game Rules
+
+Below are the rules for Pyturis:
+
+
+The game starts with a main menu. Press (s) to start the game.
+
+
+You can change different difficulty levels by pressing (d) from the main menu, then press (1), (2), (3), (4), corresponding to Easy, Medium, Hard, and Expert, to select a specific level, and press (f) to confirm and return to the main menu. Defaulted to medium.
+
+
+The game features acceleration, which, if set to “ON”, will make pytromino descend faster and faster in a game. You can toggle acceleration on/off by pressing (a) in the main menu. Defaulted to OFF.
+
+
+You can press (t) from the main menu to view tutorials, which is basically a concise version of the rules here. To quit the game, press (q) from the main menu.
+
+
+The game starts with an empty board. Different pieces (called “pytrominoes”) will descend one by one from the top.
+
+
+As a pytromino descends, the player will be able to rotate and move it using the arrow keys.
+-To rotate a piece 90 degrees clockwise, press the (up) arrow key.
+-To move a piece left and right, press the (left) and (right) arrow keys respectively.
+-To move a piece down faster, press the (down) arrow key.
+-To “hard drop” a piece, press the (space) key.
+
+On the right-hand side of the screen, the player will be able to see a preview of the upcoming pytrominoes. To put off using the current pytromino for the one coming up next, a player can put it “on hold” by pressing the (c) key. To exchange the current pytromino with the one that’s held, press (c) again. A player can only “hold” once per pytromino.
+
+
+A pytromino will stop moving when it either hits the bottom of the board or comes to rest on top of another pytromino. If the placement of the pytromino results in the formation of a continuous horizontal line, this line will disappear. A player’s score increases based on the number of lines they clear, and number of lines they move the pytromino down.
+
+
+The game ends when a pytromino hits the top of the board and no more lines can be cleared; you can not “win” a game in Pyturis.
+When a game ends, press (b) to return to the main menu.
+
+
+At the beginning of the game, the holder is empty. The first time (c) is pressed, the pytromino will be stored in the holder, and the next pytromino will be dropped from the top. Importantly, each pytromino can only be swapped once in its lifetime; in other words, for each pytromino, only the first time (c) is pressed, does anything happen. The holder is meant to “hold” ONE item at a time.
+
+
+When the holder is not empty, and a new pytromino is in the center grid, you can press c and the pytromino in the holder will be swapped with the pytromino currently in the center grid. Different from some of the Tetris implementations, Pyturis will not start dropping the swapped pytromino from the top of the center grid, instead, it will start dropping from where the current pytromino is (to make the game a little harder). As a result, if the swap is not possible because the swapping pytromino cannot fit where the current pytromino is, the swap will not happen.
+
