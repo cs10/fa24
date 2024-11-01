@@ -10,9 +10,11 @@ submission_files:
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
-*[Project walkthrough guide.pdf]()*
+<!--*[Project walkthrough guide.pdf]()*-->
 
 > Project 5 will be submitted on **PrairieLearn** not Gradescope
+
+<a href="https://us.prairielearn.com/pl/course_instance/164327/assessment/2452829">Starter File and Submission Link</a>
 
 ## Content
 
@@ -328,3 +330,6 @@ At the beginning of the game, the holder is empty. The first time (c) is pressed
 
 When the holder is not empty, and a new pytromino is in the center grid, you can press c and the pytromino in the holder will be swapped with the pytromino currently in the center grid. Different from some of the Tetris implementations, Pyturis will not start dropping the swapped pytromino from the top of the center grid, instead, it will start dropping from where the current pytromino is (to make the game a little harder). As a result, if the swap is not possible because the swapping pytromino cannot fit where the current pytromino is, the swap will not happen.
 
+When you are done, submit your file to <a href="">PrairieLearn</a>. You only need to upload the following files:
+ - board.py
+ - models.py
