@@ -13,7 +13,7 @@
 
 <!-- Add a jump-to button to navigate to the current week -->
 <p>
-    <a href="#week8">Jump to Current Week</a>
+    <a href="#week10">Jump to Current Week</a>
 </p>
 
 <!-- Week 1 Calendar -->
@@ -620,7 +620,9 @@
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td>Midterm Retake</td> <!-- Assignment -->
+        <td>Midterm Retake<br/>
+        <a href="/fa24/projects/project5">Proj 5: Pyturis released</a><br/>
+        (due 11/14)</td> <!-- Assignment -->
     </tr>
   </tbody>
 </table>

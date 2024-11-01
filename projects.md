@@ -44,10 +44,10 @@ nav_order: 6
       <td>Wednesday, 10/16</td>
     </tr>
     <tr>
-      <td>Project 5: Pyturis</td>
+      <td><a href="/fa24/projects/project5">Project 5: Pyturis</a></td>
       <td>-</td>
-      <td>Wednesday, 10/30</td>
-      <td>Wednesday, 11/13</td>
+      <td>Friday, 11/1</td>
+      <td>Thursday, 11/14</td>
     </tr>
         <tr>
       <td><a href="/fa24/projects/project6-proposals">Project 6: Proposals</a></td>

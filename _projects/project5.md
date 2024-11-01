@@ -1,18 +1,18 @@
 ---
 title: Project 5
 description: Pyturis
-due: "11:59 PM PST on Wednesday, 11/13"
+due: "11:59 PM PST on Thursday, 11/14"
 submission_files:
     - project folder or individual files
 ---
 
-*Version 1.0. Last Updated: 2024-10-31.*
+*Version 1.0. Last Updated: 2024-11-01.*
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
 *[Project walkthrough guide.pdf]()*
 
-> Any important updates or clarifications will be made here.
+> Project 5 will be submitted on **PrairieLearn** not Gradescope
 
 ## Content
 
