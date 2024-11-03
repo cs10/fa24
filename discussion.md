@@ -99,7 +99,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>TBD</td>
       <td><a href="https://docs.google.com/document/d/1yzUtLeWlfbio09u58fZwxRV9q2S7El_1qMBNcpsSyWU/edit?usp=drivesdk">Worksheet 10</a></td>
       <td>Solutions 10</td>
-      <td>Recording 10</td>
+      <td><a href="https://drive.google.com/file/d/1YjcBkWP-imk-vQoVRwankvG_zKGffmgb/view?usp=drive_link">Recording 10</a></td>
     </tr>
     <tr>
     <td>Discussion 11</td>
