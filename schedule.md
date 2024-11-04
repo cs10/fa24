@@ -646,7 +646,7 @@
         <th>Mon 11/4</th> <!-- Date -->
         <td>Lec 20. OOP (Python V)<br/>
         <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 20)</a><br/>      
-        <a href="">(Slides 20)</a><br/>
+        <a href="https://docs.google.com/presentation/d/1w8dfMlmJEhscqkb9SGxXWBY5AXf9WYqUgQMi7PTQtfU/edit#slide=id.p3">(Slides 20)</a><br/>
         <a href="https://www.gradescope.com/courses/831412/assignments/5257963">(Lecture Quiz 20)</a></td> <!-- Lecture -->
         <td><a href="">Lab 16. OOP in Python</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
