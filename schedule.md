@@ -648,7 +648,7 @@
         <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 20)</a><br/>      
         <a href="https://docs.google.com/presentation/d/1w8dfMlmJEhscqkb9SGxXWBY5AXf9WYqUgQMi7PTQtfU/edit#slide=id.p3">(Slides 20)</a><br/>
         <a href="https://www.gradescope.com/courses/831412/assignments/5257963">(Lecture Quiz 20)</a></td> <!-- Lecture -->
-        <td><a href="">Lab 16. OOP in Python</a></td> <!-- Lab -->
+        <td><a href="https://docs.google.com/document/d/1KHZ633jAK4oA_-bbdsJssNQYECfB132l70qolERND58/edit?tab=t.0">Lab 16. OOP in Python</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment -->
     </tr>
