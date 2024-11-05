@@ -674,7 +674,7 @@
         <th>Thu 11/7</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
-        <td><a href="">Disc 11: OOP + Python HOFs</a></td> <!-- Discussion -->
+        <td><a href="https://docs.google.com/document/d/1vURSI_IbbPjKGZTIWorHkRSWI23qzFAFhy6oNVCwnYg/edit?tab=t.0">Disc 11: OOP + Python HOFs</a></td> <!-- Discussion -->
         <td><a href="/fa24/readings">Reading: Week 11 Due</a></td> <!-- Assignment -->
     </tr>
     <tr>
