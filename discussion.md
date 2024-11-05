@@ -104,9 +104,9 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
     <td>Discussion 11</td>
       <td>TBD</td>
-     <td>Worksheet</td>
+     <td><a href="https://docs.google.com/document/d/1vURSI_IbbPjKGZTIWorHkRSWI23qzFAFhy6oNVCwnYg/edit?tab=t.0">Worksheet</a></td>
       <td>Solutions</td>
-      <td>Recording</td>
+      <td><a href="">Recording</a></td>
     </tr>
     <tr>
     <td>Discussion 12</td>
