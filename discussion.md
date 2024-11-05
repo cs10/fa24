@@ -104,23 +104,23 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
     <td>Discussion 11</td>
       <td>TBD</td>
-     <td><a href="https://docs.google.com/document/d/1vURSI_IbbPjKGZTIWorHkRSWI23qzFAFhy6oNVCwnYg/edit?tab=t.0">Worksheet</a></td>
-      <td>Solutions</td>
-      <td><a href="">Recording</a></td>
+     <td><a href="https://docs.google.com/document/d/1vURSI_IbbPjKGZTIWorHkRSWI23qzFAFhy6oNVCwnYg/edit?tab=t.0">Worksheet 11</a></td>
+      <td>Solutions 11</td>
+      <td><a href="">Recording 11</a></td>
     </tr>
     <tr>
     <td>Discussion 12</td>
       <td>TBD</td>
-      <td>Worksheet</td>
-      <td>Solutions</td>
-      <td>Recording</td>
+      <td>Worksheet 12</td>
+      <td>Solutions 12</td>
+      <td>Recording 12</td>
     </tr>
     <tr>
     <td>Discussion 13</td>
       <td>TBD</td>
-      <td>Worksheet</td>
-      <td>Solutions</td>
-      <td>Recording</td>
+      <td>Worksheet 13</td>
+      <td>Solutions 13</td>
+      <td>Recording 13</td>
     </tr>
   </tbody>
 </table>
