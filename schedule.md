@@ -663,7 +663,7 @@
         <th>Wed 11/6</th> <!-- Date -->
         <td>Lec 21. HOFs in Python (Python VI)<br/>
         <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 21)</a><br/>      
-        <a href="">(Slides 21)</a><br/>
+        <a href="https://docs.google.com/presentation/d/1to9PUmo65ZbPNJzxjSC3D1fvs4dclcuA/edit#slide=id.p1">(Slides 21)</a><br/>
         <a href="https://www.gradescope.com/courses/831412/assignments/5258010/">(Lecture Quiz 21)</a>
         </td> <!-- Lecture -->
         <td><a href="">Lab 17. Text Processing in Python</a></td> <!-- Lab -->
