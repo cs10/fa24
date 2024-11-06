@@ -666,7 +666,7 @@
         <a href="https://docs.google.com/presentation/d/1to9PUmo65ZbPNJzxjSC3D1fvs4dclcuA/edit#slide=id.p1">(Slides 21)</a><br/>
         <a href="https://www.gradescope.com/courses/831412/assignments/5258010/">(Lecture Quiz 21)</a>
         </td> <!-- Lecture -->
-        <td><a href="">Lab 17. Text Processing in Python</a></td> <!-- Lab -->
+        <td><a href="https://docs.google.com/document/d/1RUL8ZwxEUD1ttcfAhd-5ydgE8y-SW1rgLVph0yLf4LI/edit?usp=sharing">Lab 17. Text Processing in Python</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignments -->
     </tr>
