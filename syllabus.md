@@ -259,6 +259,12 @@ Let’s get honest about being honest. It is truly a disappointment to catch stu
 
 Here, we will lay out our academic integrity policies which can help you distinguish between cheating (prohibited) and collaboration (encouraged.)
 
+### Generative AI Policy
+
+In this course, generative AI tools (e.g., ChatGPT, Copilot) are permitted solely as aids for enhancing your understanding of challenging concepts, but should not be used to produce answers, generate code, or verify solutions. Generative AI may only support conceptual growth, helping you explore topics that need further clarification.
+
+Misuse of generative AI to obtain answers or complete assignments violates academic integrity and course standards, as all submitted work must reflect your own understanding and effort. This policy ensures AI serves as a tool for your learning without compromising the integrity of the course objectives and assessments.
+
 
 **What constitutes cheating?**
 
