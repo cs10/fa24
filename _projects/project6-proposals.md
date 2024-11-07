@@ -11,11 +11,19 @@ submission_files:
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
-- You must sign-up for a 10-minute slot with a staff member to get your project approved. Only one member of your group needs to attend. Failure to be one time will mean you will need to sign-up for a new time slot; otherwise, you will get a '0' score. 
-    - Click here for the [link to sign up](https://calendar.google.com/calendar/u/0/appointments/AcZssZ1wfS7Mu8x1sQTGPGoJaw56hHplSBvKqfuYn10=)
-- Meetings will run a specific times during Week 11 (November 4th through November 11th)
+- Meeting with a Staff Member
+    - You must sign-up for a 10-minute slot with a staff member to get your project approved. Only one member of your group needs to attend. Failure to be one time will mean you will need to sign-up for a new time slot; otherwise, you will get a '0' score. 
+        - Click here for the [link to sign up](https://calendar.google.com/calendar/u/0/appointments/AcZssZ1wfS7Mu8x1sQTGPGoJaw56hHplSBvKqfuYn10=)
+    - Meetings will run a specific times during Week 11 (November 4th through November 11th)
 
-> Any important updates or clarifications will be made here.
+> There are three required components for the project:
+>>The project / code itself
+>>README / documentation on your project
+>>Video of your group interacting with your project
+
+>Project 6 Parties (both during lab from 5 to 9PM in Moffit-145)
+>>Monday, November 25th
+>>Monday, December 2nd
 
 ## Content
 
