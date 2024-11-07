@@ -16,15 +16,6 @@ submission_files:
         - Click here for the [link to sign up](https://calendar.google.com/calendar/u/0/appointments/AcZssZ1wfS7Mu8x1sQTGPGoJaw56hHplSBvKqfuYn10=)
     - Meetings will run a specific times during Week 11 (November 4th through November 11th)
 
-> There are three required components for the project:
->>The project / code itself
->>README / documentation on your project
->>Video of your group interacting with your project
-
->Project 6 Parties (both during lab from 5 to 9PM in Moffit-145)
->>Monday, November 25th
->>Monday, December 2nd
-
 ## Content
 
 [I. Important logistics](#important-logistics)

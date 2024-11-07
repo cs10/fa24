@@ -13,7 +13,14 @@ submission_files:
 
 - You are required to attend the final project proposal meetings in person. Failure to do so will result in no points awarded for your approved features and meeting attendance, leading to a 50% deduction in your final project score.
 
-> Any important updates or clarifications will be made here.
+> There are three required components for the project:
+>>The project / code itself
+>>README / documentation on your project
+>>Video of your group interacting with your project
+
+>Project 6 Parties (both during lab from 5 to 9PM in Moffit-145)
+>>Monday, November 25th
+>>Monday, December 2nd
 
 ## Content
 
