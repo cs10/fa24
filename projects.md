@@ -56,7 +56,7 @@ nav_order: 6
       <td>Wednesday, 10/30</td>
     </tr>
     <tr>
-      <td>Project 6: Final Project</td>
+      <td><a href="/fa24/projects/project6-project">Project 6: Final Project</a></td>
       <td>-</td>
       <td>Monday, 11/4 (earliest)<br/>Only start once your project has been approved</td>
       <td>Friday, 12/6</td>
