@@ -82,42 +82,42 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
     <tr>
       <td>Discussion 8</td>
-      <td>TBD</td>
+      <td>Proj 4 Presentations</td>
       <td>Worksheet 8</td>
       <td>Solutions 8</td>
       <td>Recording 8</td>
     </tr>
      <tr>
       <td>Discussion 9</td>
-      <td>TBD</td>
+      <td>Intro to Python</td>
       <td><a href="https://docs.google.com/document/d/1q1ciouhxmDMQSVBFwLOn0Cu1BoKevkIo/edit?usp=drivesdk&ouid=102828999467017092876&rtpof=true&sd=true">Worksheet 9</a></td>
-      <td>Solutions 9</td>
+      <td><a href="https://docs.google.com/document/d/1KN1RCMrndXxGNNCstXmyG4HAFEKrkW2z/edit?usp=drive_link&ouid=102828999467017092876&rtpof=true&sd=true">Solutions 9</a></td>
       <td><a href="https://drive.google.com/file/d/1wKfeH8-SVxKzINOQTVbMp11H1t5sy3Op/view?usp=drive_link">Recording 9</a></td>
     </tr>
     <tr>
     <td>Discussion 10</td>
-      <td>TBD</td>
+      <td>List Comprehension + Dictionaries</td>
       <td><a href="https://docs.google.com/document/d/1yzUtLeWlfbio09u58fZwxRV9q2S7El_1qMBNcpsSyWU/edit?usp=drivesdk">Worksheet 10</a></td>
-      <td>Solutions 10</td>
+      <td><a href="https://drive.google.com/file/d/18zOQJr9MM0wA2AG4vUUO8ltUlquvx_XQ/view?usp=drive_link">Solutions 10</a></td>
       <td><a href="https://drive.google.com/file/d/1YjcBkWP-imk-vQoVRwankvG_zKGffmgb/view?usp=drive_link">Recording 10</a></td>
     </tr>
     <tr>
     <td>Discussion 11</td>
-      <td>TBD</td>
+      <td>OOP + Python HOFs</td>
      <td><a href="https://docs.google.com/document/d/1vURSI_IbbPjKGZTIWorHkRSWI23qzFAFhy6oNVCwnYg/edit?tab=t.0">Worksheet 11</a></td>
       <td>Solutions 11</td>
       <td><a href="">Recording 11</a></td>
     </tr>
     <tr>
     <td>Discussion 12</td>
-      <td>TBD</td>
+      <td>Concurrency + Review</td>
       <td>Worksheet 12</td>
       <td>Solutions 12</td>
       <td>Recording 12</td>
     </tr>
     <tr>
     <td>Discussion 13</td>
-      <td>TBD</td>
+      <td>Review</td>
       <td>Worksheet 13</td>
       <td>Solutions 13</td>
       <td>Recording 13</td>
