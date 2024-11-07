@@ -13,7 +13,7 @@
 
 <!-- Add a jump-to button to navigate to the current week -->
 <p>
-    <a href="#week10">Jump to Current Week</a>
+    <a href="#week11">Jump to Current Week</a>
 </p>
 
 <!-- Week 1 Calendar -->
@@ -650,7 +650,7 @@
         <a href="https://www.gradescope.com/courses/831412/assignments/5257963">(Lecture Quiz 20)</a></td> <!-- Lecture -->
         <td><a href="https://docs.google.com/document/d/1KHZ633jAK4oA_-bbdsJssNQYECfB132l70qolERND58/edit?tab=t.0">Lab 16. OOP in Python</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignment -->
+        <td><a href="">Proj 6: Final Project</a></td> <!-- Assignment -->
     </tr>
     <tr>
         <th>Tue 11/5</th> <!-- Date -->
@@ -675,7 +675,8 @@
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
         <td><a href="https://docs.google.com/document/d/1vURSI_IbbPjKGZTIWorHkRSWI23qzFAFhy6oNVCwnYg/edit?tab=t.0">Disc 11: OOP + Python HOFs</a></td> <!-- Discussion -->
-        <td><a href="/fa24/readings">Reading: Week 11 Due</a></td> <!-- Assignment -->
+        <td><a href="/fa24/projects/project6-project">Proj 6: Final Project (due 12/6)</a><br/>
+        <a href="/fa24/readings">Reading: Week 11 Due</a></td> <!-- Assignment -->
     </tr>
     <tr>
         <th>Fri 11/8</th> <!-- Date -->
