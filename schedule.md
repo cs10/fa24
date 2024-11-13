@@ -721,7 +721,7 @@
         <a href="https://docs.google.com/presentation/d/1zYbtDOXkFECz0_Gt85qafAtKySxXn6qJ_V_qt8Sgyqg/edit?usp=sharing">(Slides 22)</a><br/>
         <a href="">(Lecture Quiz 22)</a>
         </td> <!-- Lecture -->
-        <td><a href="">Lab 18. Concurrency + Parallelism</a></td> <!-- Lab -->
+        <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fareas%2Fconcurrency.topic&course&novideo&noreading&noassignment">Lab 18. Concurrency + Parallelism</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignments -->
     </tr>
