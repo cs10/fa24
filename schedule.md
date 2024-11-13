@@ -718,7 +718,7 @@
         <th>Wed 11/13</th> <!-- Date -->
         <td>Lec 22. Concurrency + Parallelism<br/>
         <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 22)</a><br/>      
-        <a href="">(Slides 22)</a><br/>
+        <a href="https://docs.google.com/presentation/d/1zYbtDOXkFECz0_Gt85qafAtKySxXn6qJ_V_qt8Sgyqg/edit?usp=sharing">(Slides 22)</a><br/>
         <a href="">(Lecture Quiz 22)</a>
         </td> <!-- Lecture -->
         <td><a href="">Lab 18. Concurrency + Parallelism</a></td> <!-- Lab -->
