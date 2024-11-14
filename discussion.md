@@ -105,13 +105,13 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <td>Discussion 11</td>
       <td>OOP</td>
      <td><a href="https://docs.google.com/document/d/1vURSI_IbbPjKGZTIWorHkRSWI23qzFAFhy6oNVCwnYg/edit?tab=t.0">Worksheet 11</a></td>
-      <td>Solutions 11</td>
+      <td><a href="https://docs.google.com/document/d/1L8AMD-K6q-8XrIwRpzmk9Vf0Qohxo57E45pXmfCVyu4/edit?usp=drivesdk">Solutions 11</a></td>
       <td><a href="https://drive.google.com/file/d/1zEc_LQXNvi-C1MpCY111k2QZe8DI8CqT/view?usp=drive_link">Recording 11</a></td>
     </tr>
     <tr>
     <td>Discussion 12</td>
       <td>Concurrency + Python HOFs</td>
-      <td>Worksheet 12</td>
+      <td><a href="https://docs.google.com/document/d/1QKK96mjAWHyJhiB2T5IHlCnl-0kZDeZHO0HXHwcDbYA/edit?usp=drivesdk">Worksheet 12</a></td>
       <td>Solutions 12</td>
       <td>Recording 12</td>
     </tr>
