@@ -112,8 +112,8 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <td>Discussion 12</td>
       <td>Concurrency + Python HOFs</td>
       <td><a href="https://docs.google.com/document/d/1QKK96mjAWHyJhiB2T5IHlCnl-0kZDeZHO0HXHwcDbYA/edit?usp=drivesdk">Worksheet 12</a></td>
-      <td>Solutions 12</td>
-      <td>Recording 12</td>
+      <td><a href="">Solutions 12</a></td>
+      <td><a href="https://drive.google.com/file/d/1FoNTRm10u1Z9Odi57sM9CD13HpiIKika/view?usp=drive_link">Recording 12</a></td>
     </tr>
     <tr>
     <td>Discussion 13</td>

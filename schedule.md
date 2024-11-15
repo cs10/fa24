@@ -729,7 +729,7 @@
         <th>Thu 11/14</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
-        <td><a href="">Disc 12: Concurrency + Review</a></td> <!-- Discussion -->
+        <td><a href="https://docs.google.com/document/d/1QKK96mjAWHyJhiB2T5IHlCnl-0kZDeZHO0HXHwcDbYA/edit?usp=drivesdk">Disc 12: Concurrency + Review</a></td> <!-- Discussion -->
         <td><a href="/fa24/readings">Reading: Week 12 Due</a></td> <!-- Assignment -->
     </tr>
     <tr>
