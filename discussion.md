@@ -83,9 +83,9 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Discussion 8</td>
       <td>Proj 4 Presentations</td>
-      <td>Worksheet 8</td>
-      <td>Solutions 8</td>
-      <td>Recording 8</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
      <tr>
       <td>Discussion 9</td>

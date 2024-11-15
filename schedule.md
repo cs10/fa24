@@ -228,7 +228,6 @@
         <th>Wed 9/18 </th> <!-- Date -->
         <td>Lec 7. Quest Review<br/>
         <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 7)</a><br/>      
-        <a href="">(Slides 7)</a><br/>
         <a href="https://www.gradescope.com/courses/831412/assignments/4993957">(Lecture Quiz 7)</a>
         </td> <!-- Lecture -->
         <td><a href="https://docs.google.com/document/d/1y6HksX18w8Nknp55tdY4lFw16ea2WxvswE9_w8px_lM/edit?usp=sharing">Lab 6. Algorithmic Complexity</a></td> <!-- Lab -->
