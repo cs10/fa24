@@ -484,6 +484,10 @@
         <a href="https://us.prairielearn.com/pl/course_instance/164327/assessment/2452826">Practice Midterm</a><br/>
         <a href="https://us.prairielearn.com/pl/course_instance/164327/assessment/2469144">Practice Fractal</a><br/></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
+
+
+
+        
         <td>Proj 4 Due</td> <!-- Assignments -->
     </tr>
     <tr>
@@ -762,7 +766,7 @@
         <a href="https://bcourses.berkeley.edu/courses/1538116/external_tools/90481">(Recording 23)</a><br/>      
         <a href="https://drive.google.com/file/d/1zWS044M3w1PBy62KRJ1DKS7ldruEAQXl/view?usp=drive_link">(Slides 23)</a><br/>
         <a href="">(Lecture Quiz 23)</a></td> <!-- Lecture -->
-        <td><a href="">Lab 19. Generative AI</a></td> <!-- Lab -->
+        <td><a href="">Catch Up + PostTerm Practice (No New Lab)</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment -->
     </tr>
