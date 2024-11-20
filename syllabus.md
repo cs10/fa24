@@ -101,7 +101,7 @@ These are intended for students to discuss their status in their class, catching
 
 #### Instructor OH 
 
-Professor Garcia will be hosting Instructor OH (TBD), which you may attend for more conceptual help (for instance, if you're confused about some topic, or want to go over practice problems) or to discuss more general topics (e.g. college advice or how you're doing in the class.) For help with specific assignments (labs and projects), you should attend Staff-OH.
+Professor Garcia will be hosting Instructor OH (1 to 2PM on Fridays), which you may attend for more conceptual help (for instance, if you're confused about some topic, or want to go over practice problems) or to discuss more general topics (e.g. college advice or how you're doing in the class.) For help with specific assignments (labs and projects), you should attend Staff-OH.
 
 
 ### Reading Quizzes
@@ -120,13 +120,13 @@ These assignments will be one of the best ways for you to apply what you have le
 
 | Project                                       |  Submission Deadline     |
 | :----:                                        |  :----:                  |
-| Project 1: Wordle™-lite                       | Thur 9/12  |
-| Project 2: Spelling-Bee                       | TBD   |
-| Project 3: 2048                               | TBD   |
-| Project 4: Explore Post                       | TBD   |
-| Project 4: Explore Post Comments              | TBD   |
-| Project 5: Pyturis                            | TBD   |
-| Project 6: Final Project                      | TBD   |
+| Project 1: Wordle™-lite                       | Thu 9/12  |
+| Project 2: Spelling-Bee                       | Thu 9/26  |
+| Project 3: 2048                               | Thu 10/10 |
+| Project 4: Explore Post                       | Wed 10/16 |
+| Project 4: Explore Post Comments              | Tue 10/22 |
+| Project 5: Pyturis                            | Thu 11/14 |
+| Project 6: Final Project                      | Fri 12/6  |
 
 **All deadlines are at 11:59PM.**
 
@@ -137,8 +137,12 @@ These assignments will be one of the best ways for you to apply what you have le
 | Week             | Date     | Time     |  Location  |
 | :----:           | :----:   | :----:   |  :----:    | 
 | Project 1        | TUE 9/10 | 3-5PM    |  Soda-438 (Woz)  |
-
-To be determined.
+| Project 2        | WED 9/25 | 5-9PM    |  Moffit-145      |
+| Project 3        | MON 10/7 | 5-9PM    |  Moffit-145      |
+| Project 5        | TUE 11/12| 3-6PM    |  Soda-326        |
+| Project 5        | MON 11/14| 3-6PM    |  Soda-326        |
+| Project 6        | MON 11/25| 5-9PM    |  Moffit-145      |
+| Project 6        | MON 12/2 | 5-9PM    |  Moffit-145      |
 
 ## Exams
 

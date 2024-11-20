@@ -13,7 +13,7 @@
 
 <!-- Add a jump-to button to navigate to the current week -->
 <p>
-    <a href="#week12">Jump to Current Week</a>
+    <a href="#week13">Jump to Current Week</a>
 </p>
 
 <!-- Week 1 Calendar -->
