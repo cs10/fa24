@@ -785,7 +785,7 @@
         <a href="https://drive.google.com/file/d/1zXUWs0ZjDk2KAvR7gGql175tZJn5AP94/view?usp=drive_link">(Slides 24)</a><br/>
         <a href="">(Lecture Quiz 24)</a>
         </td> <!-- Lecture -->
-        <td><a href="">Lab 20. Data Science</a></td> <!-- Lab -->
+        <td><a href="https://docs.google.com/document/d/1QhLHezPlu05QK11soQBtWhGZKl6_hIyKLlC4VBiiSlc/edit?tab=t.0#heading=h.5o47rmuhveq6">Lab 20. Data Science</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignments -->
     </tr>
