@@ -118,9 +118,9 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
     <td>Discussion 13</td>
       <td>Review</td>
-      <td>Worksheet 13</td>
+      <td><a href="https://us.prairielearn.com/pl/course_instance/164327/instructor/assessment/2452833/">Worksheet 13</a></td>
       <td>Solutions 13</td>
-      <td>Recording 13</td>
+      <td><a href="https://drive.google.com/file/d/1GzdZry-wVyf5JPuec4uraWlUiSPnY1KE/view?usp=drive_link">Recording 13</a></td>
     </tr>
   </tbody>
 </table>
