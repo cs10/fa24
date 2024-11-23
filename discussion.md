@@ -112,7 +112,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <td>Discussion 12</td>
       <td>Concurrency + Python HOFs</td>
       <td><a href="https://docs.google.com/document/d/1QKK96mjAWHyJhiB2T5IHlCnl-0kZDeZHO0HXHwcDbYA/edit?usp=drivesdk">Worksheet 12</a></td>
-      <td><a href="">Solutions 12</a></td>
+      <td><a href=""https://docs.google.com/document/d/13NH7hzcq9_bvaa2Q8OJIxU4Gi6913YLXssSGm7a7pDs/edit?usp=drivesdk>Solutions 12</a></td>
       <td><a href="https://drive.google.com/file/d/1FoNTRm10u1Z9Odi57sM9CD13HpiIKika/view?usp=drive_link">Recording 12</a></td>
     </tr>
     <tr>
