@@ -899,7 +899,7 @@
         <th>Thu 12/5</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
-        <td><a href="">Disc 14: Review</a></td> <!-- Discussion -->
+        <td><a href="https://docs.google.com/document/d/16RfDC8qiif8lsfjRza8VaGiGJiGuSIPAQW-QKaNwx_Y/edit?usp=drivesdk">Disc 14: Review</a></td> <!-- Discussion -->
         <td><a href="/fa24/readings">Reading: Week 15 Due</a></td> <!-- Assignment -->
     </tr>
     <tr>
