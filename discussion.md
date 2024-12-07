@@ -112,15 +112,27 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <td>Discussion 12</td>
       <td>Concurrency + Python HOFs</td>
       <td><a href="https://docs.google.com/document/d/1QKK96mjAWHyJhiB2T5IHlCnl-0kZDeZHO0HXHwcDbYA/edit?usp=drivesdk">Worksheet 12</a></td>
-      <td><a href=""https://docs.google.com/document/d/13NH7hzcq9_bvaa2Q8OJIxU4Gi6913YLXssSGm7a7pDs/edit?usp=drivesdk>Solutions 12</a></td>
+      <td><a href="https://docs.google.com/document/d/13NH7hzcq9_bvaa2Q8OJIxU4Gi6913YLXssSGm7a7pDs/edit?usp=drivesdk">Solutions 12</a></td>
       <td><a href="https://drive.google.com/file/d/1FoNTRm10u1Z9Odi57sM9CD13HpiIKika/view?usp=drive_link">Recording 12</a></td>
     </tr>
     <tr>
     <td>Discussion 13</td>
       <td>Review</td>
       <td><a href="https://us.prairielearn.com/pl/course_instance/164327/instructor/assessment/2452833/">Worksheet 13</a></td>
-      <td>Solutions 13</td>
+      <td><a href="https://docs.google.com/document/d/101bWRulYWTZkwbSe3SBQ1nh3lW4Quu0aaodDcmgglYo/edit?usp=sharing">Solutions 13</a></td>
       <td><a href="https://drive.google.com/file/d/1GzdZry-wVyf5JPuec4uraWlUiSPnY1KE/view?usp=drive_link">Recording 13</a></td>
+    </tr>
+    <td>Discussion 14</td>
+      <td>Thanksgiving Week</td>
+      <td>N/A</td>
+      <td>N/A</td>
+      <td>N/A</td>
+    </tr>
+    <td>Discussion 15</td>
+      <td>Review</td>
+      <td><a href="https://docs.google.com/document/d/16RfDC8qiif8lsfjRza8VaGiGJiGuSIPAQW-QKaNwx_Y/edit?usp=sharing">Worksheet 15</a></td>
+      <td><a href="https://docs.google.com/presentation/d/1YM1oJPdPFjRczhw0CQJUhpwCtBlpgVLSxRvv7t35A8s/edit?usp=sharing">Solutions 15</a></td>
+      <td><a href="">N/A</a></td>
     </tr>
   </tbody>
 </table>
