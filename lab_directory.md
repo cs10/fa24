@@ -34,5 +34,5 @@ Lab Slides: [Folder](https://drive.google.com/drive/folders/1CXRHvlQswGr2eT0zNPs
 | [Lab 16: Object Oriented Programming ](https://docs.google.com/document/d/1KHZ633jAK4oA_-bbdsJssNQYECfB132l70qolERND58/edit?tab=t.0)             | WED 11/6         |
 | [Lab 17: Text Processing](https://docs.google.com/document/d/1RUL8ZwxEUD1ttcfAhd-5ydgE8y-SW1rgLVph0yLf4LI/edit?tab=t.0#heading=h.ew4i1encppj2)             | WED 11/13         |
 | [Lab 18: Concurrency and Parallelism](https://cs10.org/bjc-r/cur/programming/concurrency/snap/snap-machine-concepts.html?topic=berkeley_bjc%2Fareas%2Fconcurrency.topic&course&novideo&noreading&noassignment)             | MON 11/18         |
-| Lab 19: Data Science           | TBD         |
+| [Lab 19: Data Science](https://docs.google.com/document/d/1QhLHezPlu05QK11soQBtWhGZKl6_hIyKLlC4VBiiSlc/edit?tab=t.0#heading=h.5o47rmuhveq6)           | WED 11/25        |
 
